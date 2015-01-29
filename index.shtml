@@ -37,7 +37,7 @@
 						<a class="face-link" href="javascript:void(0)">
 							<img class="face-img" src="images/face.jpg">
 							<div class="portrait-bg">
-								<img class="png_ie6" src="images/circle.png">
+								<img class="png-img" src="images/circle.png">
 							</div>
 						</a>
 						<h2>
@@ -296,7 +296,7 @@
 			<!-- 积分兑奖 -->
 			<div class="content-module ticket-module">
 				<div class="ticket-title">
-					<h2>
+					<h2 class="png-img">
 						<a href="javascript:void(0)">积分兑奖</a>
 					</h2>
 				</div>
@@ -403,7 +403,7 @@
 			<!-- 元宝兑奖 -->
 			<div class="content-module ticket-module">
 				<div class="ticket-title">
-					<h2>
+					<h2 class="png-img">
 						<a href="javascript:void(0)">元宝兑奖</a>
 					</h2>
 				</div>
