@@ -23,7 +23,7 @@ body{ background: url('../images/bg.jpg') left top repeat-x #fff; font-family: "
 /* main-content
 -------------------------------------------------------------------------------- */
 
-.bar-module{ margin: 20px 10px 10px;}
+.bar-module{ margin: 0 10px 10px; padding-top: 20px;}
 
 	/* left-bar-module
 	-------------------------------------------------------------------------------- */
