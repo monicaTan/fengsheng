@@ -2,11 +2,11 @@
 /* header
 -------------------------------------------------------------------------------- */
 
-body{ background: url('../images/bg.jpg') left top repeat #fff; font-family: "Microsoft YaHei"}
+body{ background: url('../images/bg.jpg') left top repeat-x #fff; font-family: "Microsoft YaHei"}
 .header-inner,
 .main-content-inner,
 .footer-inner{width: 1000px; margin: 0 auto; background-color: #f5f5f5;}
-
+.main-content-inner{padding-bottom: 20px;}
 .header{ font-size: 0; line-height: 0; height: 303px; width: 100%; background: url('../images/banner.jpg') center top no-repeat;}
 
 /* nav-box
@@ -23,7 +23,7 @@ body{ background: url('../images/bg.jpg') left top repeat #fff; font-family: "Mi
 /* main-content
 -------------------------------------------------------------------------------- */
 
-.bar-module{ padding: 20px 10px 10px;}
+.bar-module{ margin: 20px 10px 10px;}
 
 	/* left-bar-module
 	-------------------------------------------------------------------------------- */
@@ -72,4 +72,36 @@ body{ background: url('../images/bg.jpg') left top repeat #fff; font-family: "Mi
 	.table-list-box ul li .span-second{ width: 110px;}
 	.table-list-box ul li .span-third{ width: 89px;}
 
+	/* ad-module
+	-------------------------------------------------------------------------------- */
+	.ad-module{ margin: 0 10px 10px;}
 
+	/* props-module
+	-------------------------------------------------------------------------------- */
+	.props-module{ margin: 0 10px 10px; background-color: white; padding-bottom: 25px;}
+	.props-title{ padding: 0 16px; background-color: #a51417;color: white; font-size: 16px; height: 45px; line-height: 45px; margin-bottom: 10px;}
+	.props-title a{ color: white;}
+	.props-module ul{ background-color: white; font-size: 0;}
+	.props-module ul li{ display: inline-block; _display: inline; float: left\9; width: 166px; margin: 0 15px 20px; font-size: 0; text-align: center;}
+	.props-module ul li a img{ width: 166px; height: 120px;}
+	.props-module ul li p{ text-align: center;color: #999; font-size: 12px;}
+	.props-module ul li .buy-link a{ display: inline-block; background-color: #a51417; color: white; font-size: 12px; height: 22px; line-height: 22px; border-radius: 4px; padding: 0 18px;}
+	.props-module ul li .buy-link{ padding: 10px 0 4px;}
+
+	/* ticket-module
+	-------------------------------------------------------------------------------- */
+	.ticket-title{ padding: 0 10px 10px;}
+	.ticket-title h2{ height: 64px; background: url('../images/tag.png') center top no-repeat; text-align: center; font-size: 16px; color: white; padding-top: 22px;}
+	.ticket-title h2 a{color: white;}
+	.ticket-content{ padding: 0 5px;}
+	.ticket-left{*display: inline; float: left; width: 371px;width: 369px\9;margin: 0 5px; font-size: 0; background-color: white; border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7;}
+	.main-img img{ width: 100%;}
+	.ticket-text{ padding: 10px 10px 20px;}
+	.ticket-text h4{font-size: 14px; color: #666; margin-bottom: 13px;}
+	.ticket-text p{font-size: 12px; color: #999; line-height: 18px; text-align: justify; height: 90px; overflow: hidden;}
+	.ticket-right{*display: inline; float: right; width: 609px;}
+	.ticket-right ul li{ float: left; width: 193px; width: 191px\9; _display: inline; margin: 0 5px 10px; margin: 0 5px 9px\9; *margin: 0 5px 8px; border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7; background-color: white; font-size: 0;}
+	.ticket-right ul li a img{ width: 100%;}
+	.ticket-right ul li p{ padding: 4px 6px;}
+	.ticket-right ul li p a{ display: inline-block; height: 22px; line-height: 22px; float: right; padding: 0 8px; color: white; font-size: 12px; background-color: #a51417; border-radius: 4px;}
+	.ticket-right ul li p span{ float: left; color: #a51417; font-size: 12px; display: inline-block; height: 22px; line-height: 22px;}
