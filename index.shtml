@@ -11,14 +11,200 @@
 <div class="wrap">
 	<!-- header -->
 	<div class="header">
-		<div class="header-inner">header</div>
+		<div class="header">A股大涨就是这么任性</div>
 	</div>
+
+	<!-- nav -->
+	<div class="nav-box">
+		<div class="nav-content">
+			<ul class="clearfix">
+				<li class="current"><a href="javascript:void(0)">首页</a></li>
+				<li><a href="javascript:void(0)">我的账户</a></li>
+				<li><a href="javascript:void(0)">我的大赛</a></li>
+				<li><a href="javascript:void(0)">我的资料</a></li>
+			</ul>
+		</div>
+	</div>
+
 	<!-- main-content -->
 	<div class="main-content">
 		<div class="main-content-inner">
-			<h1>你好，世界！</h1>
+			<div class="content-module bar-module clearfix">
+				<div class="left-bar-module">
+					<div class="head-portrait">
+						<a class="face-link" href="javascript:void(0)">
+							<img class="face-img" src="images/face.jpg">
+							<div class="portrait-bg">
+								<img class="png_ie6" src="images/circle.png">
+							</div>
+						</a>
+						<h2>
+							<a href="javascript:void(0)">李木子</a>
+						</h2>
+					</div>
+
+					<div class="bace-info-list">
+						<ul class="clearfix">
+							<li>
+								<span>我的积分</span>
+								<span>1,206</span>
+								<a href="javascript:void(0)">获取积分</a>
+							</li>
+							<li class="list-middle">
+								<span>我的元宝</span>
+								<span>1,206</span>
+								<a href="javascript:void(0)">获取元宝</a>
+							</li>
+							<li>
+								<span>我的金币</span>
+								<span>1,206</span>
+								<a href="javascript:void(0)">道具购买</a>
+							</li>
+						</ul>
+					</div>
+
+					<div class="bace-info-text">
+						<h3>关于个人参赛</h3>
+						<p>
+							吧啦吧啦我也不知道啥是啥，反正就是写点个人参加大赛啥啥的吧啦吧啦之类的等等乌漆麻黑曾空寂外擦浪嘿
+						</p>
+					</div>
+
+					<div class="button-link clearfix">
+						<a href="javascript:void(0)">我的大赛</a>
+						<a href="javascript:void(0)">退出登录</a>
+					</div>
+				</div>
+				<div class="right-bar-module clearfix">
+					<div class="right-left">
+						<h2 class="table-title">积分兑奖名单</h2>
+						<ul class="table-th clearfix">
+							<li>用户名</li>
+							<li class="table-th-middle">使用积分数量</li>
+							<li>兑换奖品</li>
+						</ul>
+						<div class="table-list-box">
+							<ul>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="right-right">
+						<h2 class="table-title">积分兑奖名单</h2>
+						<ul class="table-th clearfix">
+							<li>用户名</li>
+							<li class="table-th-middle">使用积分数量</li>
+							<li>兑换奖品</li>
+						</ul>
+						<div class="table-list-box">
+							<ul>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+								<li>
+									<span class="span-first" width="84">周柳彬</span>
+								    <span class="span-second" width="120">刚使用15000积分</span>
+								    <span class="span-third">兑换了兰博一辆</span>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
+
 	<!-- footer -->
 	<div class="footer">
 		<div class="footer-inner">
@@ -26,6 +212,27 @@
 		</div>
 	</div>
 </div>
+<script type="text/javascript">
+	$(function(){
+		var $this = $(".table-list-box");
+		var scrollTimer;
+		$this.hover(function(){
+		clearInterval(scrollTimer);
+		},function(){
+		scrollTimer = setInterval(function(){
+		scrollNews( $this );
+		}, 2000 );
+		}).trigger("mouseout");
+	});
+	function scrollNews(obj){
+		var $self = obj.find("ul:first");
+		var lineHeight = $self.find("li:first").height();
+		$self.animate({ "margin-top" : -lineHeight +"px" },600 ,
+		function(){
+			$self.css({"margin-top":"0px"}).find("li:first").appendTo($self);
+		})
+	}
+</script>
 <!--#include file="inc/footer.shtml"-->
 </body>
 </html>
