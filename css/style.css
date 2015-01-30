@@ -3,11 +3,10 @@
 -------------------------------------------------------------------------------- */
 
 body{background-color: #fff; font-family: "Microsoft YaHei"}
-.header-inner,
+
 .main-content-inner,
 .footer-inner{width: 1000px; margin: 0 auto; background-color: #f5f5f5;}
 .main-content-inner{padding-bottom: 20px;}
-.header{ font-size: 0; line-height: 0; height: 303px; width: 100%; background: url('../images/banner.jpg') center top no-repeat;}
 
 /* nav
 -------------------------------------------------------------------------------- */
