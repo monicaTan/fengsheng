@@ -11,7 +11,7 @@
 <body>
 <div class="wrap">
 	<!-- nav -->
-	<div class="nav">模拟炒股大赛</div>
+	<div class="nav">模拟炒股大赛</div> 
 
 	<!-- main-content -->
 	<div class="main">
@@ -35,7 +35,7 @@
 						<ul class="clearfix">
 							<li>
 								<span>我的积分</span>
-								<span>1,206</span>
+								<span>1,286</span>
 								<a href="javascript:void(0)">获取积分</a>
 							</li>
 							<li class="list-middle">
