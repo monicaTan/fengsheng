@@ -2,25 +2,18 @@
 /* header
 -------------------------------------------------------------------------------- */
 
-body{ background: url('../images/bg.jpg') left top repeat-x #fff; font-family: "Microsoft YaHei"}
+body{background-color: #fff; font-family: "Microsoft YaHei"}
 .header-inner,
 .main-content-inner,
 .footer-inner{width: 1000px; margin: 0 auto; background-color: #f5f5f5;}
 .main-content-inner{padding-bottom: 20px;}
 .header{ font-size: 0; line-height: 0; height: 303px; width: 100%; background: url('../images/banner.jpg') center top no-repeat;}
 
-/* nav-box
+/* nav
 -------------------------------------------------------------------------------- */
-.nav-box{height: 42px; background-color: #a51417; width: 1000px; margin: 0 auto;}
-.nav-box .nav-content{ position: relative; z-index: 2; height: 42px; width: 1000px; margin: 0 auto;}
-.nav-content ul{ position: absolute; top: -6px; right: 0;}
-.nav-content ul li{ display: inline-block; *float: left;}
-.nav-content ul li a{ font-size: 16px; color: white; display: inline-block;height: 42px; line-height: 42px; padding: 6px 30px 0;}
-.nav-content ul .current a{ background-color: #ffa62b; color: #a51417;}
-.nav-content ul li a:active,
-.nav-content ul li a:focus{ outline: none;}
 
-/* main-content
+
+/* main
 -------------------------------------------------------------------------------- */
 
 .bar-module{ margin: 0 10px 10px; padding-top: 20px;}

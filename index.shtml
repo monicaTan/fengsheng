@@ -10,25 +10,11 @@
 
 <body>
 <div class="wrap">
-	<!-- header -->
-	<div class="header">
-		<div class="header">A股大涨就是这么任性</div>
-	</div>
-
 	<!-- nav -->
-	<div class="nav-box">
-		<div class="nav-content">
-			<ul class="clearfix">
-				<li class="current"><a href="javascript:void(0)">首页</a></li>
-				<li><a href="javascript:void(0)">我的账户</a></li>
-				<li><a href="javascript:void(0)">我的大赛</a></li>
-				<li><a href="javascript:void(0)">我的资料</a></li>
-			</ul>
-		</div>
-	</div>
+	<div class="nav">模拟炒股大赛</div>
 
 	<!-- main-content -->
-	<div class="main-content">
+	<div class="main">
 		<div class="main-content-inner">
 			<!-- 个人信息及滚动列表 -->
 			<div class="content-module bar-module clearfix">
