@@ -2,7 +2,7 @@
 /* header
 -------------------------------------------------------------------------------- */
 
-body{background-color: #fff; font-family: "Microsoft YaHei"}
+body{background-color: #fff; font-family: "Microsoft YaHei"; line-height: 1;}
 
 .main-content-inner,
 .footer-inner{width: 1000px; margin: 0 auto; background-color: #f5f5f5;}
