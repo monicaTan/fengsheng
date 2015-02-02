@@ -12,9 +12,9 @@ function scorllFirst(obj2){
 	$this.hover(function(){
 		clearInterval(scrollTimer);
 	},function(){
-	scrollTimer = setInterval(function(){
-	scrollNews($this);
-	}, 2000 );
+		scrollTimer = setInterval(function(){
+		scrollNews($this);
+		}, 2000 );
 	}).trigger("mouseout");
 };
 function scrollNews(obj){
