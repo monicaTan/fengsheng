@@ -2,7 +2,7 @@
 /* header
 -------------------------------------------------------------------------------- */
 
-body{background-color: #fff; font-family: "Microsoft YaHei"; line-height: 1;}
+body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 
 .main-content-inner,
 .footer-inner{width: 1000px; margin: 0 auto; background-color: #f5f5f5;}
@@ -97,3 +97,30 @@ body{background-color: #fff; font-family: "Microsoft YaHei"; line-height: 1;}
 	.ticket-right ul li p{ padding: 4px 6px;}
 	.ticket-right ul li p a{ display: inline-block; height: 22px; line-height: 22px; float: right; padding: 0 8px; color: white; font-size: 12px; background-color: #a51417; border-radius: 4px;}
 	.ticket-right ul li p span{ float: left; color: #a51417; font-size: 12px; display: inline-block; height: 22px; line-height: 22px;}
+
+	/* main-left-bar
+	-------------------------------------------------------------------------------- */
+	.content-bar{ margin-top: 12px;}
+	.main-left-bar{ width: 688px; float: left; border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7; background-color: white;}
+	.border-angle { font-style: normal; border-color: #ca1612 #fff #fff #ca1612; border-style: solid; border-width: 17px 8px; font-size: 0; height: 0; line-height: 0; width: 0; overflow: hidden;}
+	
+	.main-title{ border-bottom:1px solid #ca1612;}
+	.main-title h2 em{ padding: 0 28px 0 18px; display: inline-block; float: left; font-style: normal; height: 34px; line-height: 34px; background-color: #ca1612; color: white; font-size:16px;}
+	.main-title h2 .border-angle { float: left;}
+	.info-list{ padding: 12px 16px 24px;}
+	.info-list ul li{ position: relative; font-size: 14px; padding-left: 10px; background: url('../images/dian.jpg') left 13px no-repeat; line-height: 28px;}
+	.info-list ul li span{ position: absolute; right: 0; top: 0; font-size: 12px; color: #666;}
+
+
+	/* main-right-bar
+	-------------------------------------------------------------------------------- */
+	.main-right-bar{ width: 300px; width: 302px\9; float: right;}
+	.main-right-inner{width: 300px; border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7; background-color: white;}
+
+	.bar-title{ padding: 0 15px; border-bottom:1px solid #ca1612;}
+	.bar-title h2{ position: relative; height: 33px; line-height: 33px; font-size: 16px; color: #ca1612;}
+	.bar-title h2 a{ position: absolute; right: 0; top: 0; display: inline-block;width: 17px; height: 33px; background: url('../images/dian3.jpg') left center no-repeat;}
+	
+	.info-list-right { padding-bottom: 12px;}
+	.info-list-right ul li{ height: 28px;}
+	.info-list-right ul li a{ display: inline-block; width: 190px; line-height: 28px; overflow: hidden; text-overflow:ellipsis; white-space: nowrap; }

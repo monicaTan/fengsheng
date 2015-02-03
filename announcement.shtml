@@ -1,0 +1,195 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--#include file="inc/common.shtml"--> 
+<title>大赛公告</title>
+<!--#include file="inc/ie.shtml"-->
+</head>
+
+<body>
+
+<!-- nav -->
+<div class="nav">模拟炒股大赛</div> 
+
+<!-- main -->
+<div class="main">
+	<div class="main-content-inner">
+		<div class="content-bar clearfix">
+			<div class="main-left-bar">
+				<div class="main-title clearfix">
+					<h2>
+						<em>大赛战报</em>
+						<span class="border-angle"></span>
+					</h2>
+				</div>
+
+				<div class="info-list">
+					<ul>
+						<li class="clearfix">
+							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">首页A股大赛：腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席人气高手涌现</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">首页A股大赛：腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席人气高手涌现</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+							<span>08-13 10:33</span>
+						</li>
+						<li class="clearfix">
+							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+							<span>08-13 10:33</span>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="main-right-bar">
+				<div class="main-right-inner">
+					<div class="bar-title">
+						<h2>
+							<span>官方公告</span>
+							<a href="javascript:void(0)"></a>
+						</h2>
+					</div>
+
+					<div class="info-list info-list-right">
+						<ul>
+							<li class="clearfix">
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13</span>
+							</li>
+							<li class="clearfix">
+								<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
+								<span>08-13</span>
+							</li>
+							<li class="clearfix">
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13</span>
+							</li>
+							<li class="clearfix">
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13</span>
+							</li>
+							<li class="clearfix">
+								<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
+								<span>08-13</span>
+							</li>
+							<li class="clearfix">
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13</span>
+							</li>
+							<li class="clearfix">
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13</span>
+							</li>
+							<li class="clearfix">
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13</span>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- footer -->
+<div class="footer">
+	<div class="footer-inner">
+		footer
+	</div>
+</div>
+
+
+<!--#include file="inc/footer.shtml"-->
+<script type="text/javascript">
+	$(function(){
+		function mouseEvent(){
+			$('.info-list > ul > li').hover(function(){
+				$(this).find('a, span').css({"color":"#ca1612"});
+				$(this).find('a').css({"text-decoration":"underline"});
+			},function(){
+				$(this).find('a, span').css({"color":"#333333"});
+				$(this).find('a').css({"text-decoration":"none"});
+			})
+		};
+		mouseEvent();
+	})
+</script>
+</body>
+</html>
