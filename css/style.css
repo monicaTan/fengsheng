@@ -106,6 +106,8 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	
 	.main-title{ border-bottom:1px solid #ca1612;}
 	.main-title h2 em{ padding: 0 28px 0 18px; display: inline-block; float: left; font-style: normal; height: 34px; line-height: 34px; background-color: #ca1612; color: white; font-size:16px;}
+	.main-title h2 .notice-text { float: left;height: 34px; line-height: 34px; font-size: 12px; color: #666;}
+	.main-title h2 .notice-text i{ color: #ca1612; font-size: 14px; vertical-align: middle; margin: 0 4px 0 10px;}
 	.main-title h2 .border-angle { float: left;}
 	.info-list{ padding: 12px 16px 0;}
 	.main-left-inner .info-list ul{margin-bottom: 24px;}
@@ -141,6 +143,31 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.ad-image{font-size: 0;}
 	.ad-image a img{ width: 100%;}
 
+	/* Elegant demeanour
+	-------------------------------------------------------------------------------- */
+	.elegant-demeanour{ padding: 15px 5px 40px;}
+	.elegant-demeanour ul li{ float: left; margin: 0 10px 40px; width: 206px; *display: inline; *line-height: 0;}
+	.info-box{ font-size: 0;}
+	.face-link{ position: relative; display: inline-block; float: left; width: 78px; height: 78px; overflow: hidden; border: 1px solid #ddd;}
+	.face-link img{ width: 78px; height: 78px;}
+	.face-link span{display: inline-block; width: 78px; height: 20px; line-height: 20px; position: absolute; bottom: 0; left: 0; background-color: #a51417; font-size: 12px; color: white; text-align: center;}
+	.face-txt{ width: 118px; float: right; font-size: 12px; line-height: 12px;}
+	.face-txt p{ font-size: 0;}
+	.face-txt h4 a{ display: inline-block; height: 14px; line-height: 14px; width: 118px; white-space: nowrap; overflow: hidden; text-overflow:ellipsis;}
+	.face-txt h4{ margin: 4px 0 20px;*margin-top: 0;}
+	.face-txt h4 a,
+	.face-txt p a,
+	.face-txt p span{ font-size: 12px;}
+	.face-txt p span{ color: #666;}
+	.face-txt p span em{ font-size: 14px; font-style: normal;color: #a51417;}
+	.face-txt p .support-link{ background: url('../images/icon_03.jpg') left center no-repeat; margin-right: 10px;}
+	.face-txt p .subscribe{ background: url('../images/icon_05.jpg') left center no-repeat;}
+	.face-txt p .support-link,
+	.face-txt p .subscribe{ color: #666; padding-left: 18px; *display: inline-block; *float: left;}
+	.face-txt .info-icon{ margin-top: 12px; *clear: both; *overflow: hidden;}
+	.face-txt .info-icon a:hover{ color: #a51417; text-decoration: underline;}
+	.elegant-demeanour .pagination-content{ margin: 0 10px;}
 
-
+	/* pagination
+	-------------------------------------------------------------------------------- */
 	.pagination-content{ text-align: center; font-size: 12px;padding: 20px 0; border-top: 1px solid #ddd;}
