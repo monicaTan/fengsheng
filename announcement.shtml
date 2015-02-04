@@ -17,107 +17,138 @@
 	<div class="main-content-inner">
 		<div class="content-bar clearfix">
 			<div class="main-left-bar">
-				<div class="main-title clearfix">
-					<h2>
-						<em>大赛战报</em>
-						<span class="border-angle"></span>
-					</h2>
-				</div>
+				<div class="main-left-inner">
+					<div class="main-title clearfix">
+						<h2>
+							<em>大赛战报</em>
+							<span class="border-angle"></span>
+						</h2>
+					</div>
 
-				<div class="info-list">
-					<ul>
-						<li class="clearfix">
-							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">首页A股大赛：腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席人气高手涌现</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">首页A股大赛：腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席人气高手涌现</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
-							<span>08-13 10:33</span>
-						</li>
-						<li class="clearfix">
-							<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
-							<span>08-13 10:33</span>
-						</li>
-					</ul>
+					<div class="info-list">
+						<ul>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+							<li>
+								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<span>08-13 10:33</span>
+							</li>
+						</ul>
+						<div class="pagination-content clearfix">
+							分页
+						</div>
+					</div>
 				</div>
 			</div>
 			<div class="main-right-bar">
+
+				<!-- 官方公告 -->
 				<div class="main-right-inner">
 					<div class="bar-title">
 						<h2>
@@ -128,40 +159,151 @@
 
 					<div class="info-list info-list-right">
 						<ul>
-							<li class="clearfix">
+							<li>
 								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
 								<span>08-13</span>
 							</li>
-							<li class="clearfix">
+							<li>
 								<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
 								<span>08-13</span>
 							</li>
-							<li class="clearfix">
+							<li>
 								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
 								<span>08-13</span>
 							</li>
-							<li class="clearfix">
+							<li>
 								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
 								<span>08-13</span>
 							</li>
-							<li class="clearfix">
+							<li>
 								<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
 								<span>08-13</span>
 							</li>
-							<li class="clearfix">
+							<li>
 								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
 								<span>08-13</span>
 							</li>
-							<li class="clearfix">
+							<li>
 								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
 								<span>08-13</span>
 							</li>
-							<li class="clearfix">
+							<li>
 								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
 								<span>08-13</span>
 							</li>
 						</ul>
 					</div>
+				</div>
+				
+				<!-- 策略排行榜 -->
+				<div class="main-right-inner">
+					<div class="bar-title">
+						<h2>
+							<span>策略排行榜</span>
+							<a href="javascript:void(0)"></a>
+						</h2>
+					</div>
+
+					<div class="info-list-right info-list-ol">
+						<ol class="right-ol">
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78">
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78">
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78">
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78">
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78">
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78">
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78">
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78">
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78">
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78">
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+						</ol>
+					</div>
+				</div>
+				<!-- 广告图 -->
+				<div class="main-right-inner ad-image">
+					<a href="javascript:void(0)">
+						<img src="images/img_right.jpg">
+					</a>
 				</div>
 			</div>
 		</div>
@@ -189,6 +331,20 @@
 			})
 		};
 		mouseEvent();
+
+		//right-ol
+		function olHover(){
+			$('.right-ol li').hover(function(){
+				$(this)
+				.css({"border-color":"#ddd","background-color":"#f9f9f9"})
+				.find('.ol-content').show();
+			},function(){
+				$(this)
+				.css({"border-color":"#fff","background-color":"#fff"})
+				.find('.ol-content').hide();
+			})
+		}
+		olHover();
 	})
 </script>
 </body>

@@ -107,7 +107,8 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.main-title{ border-bottom:1px solid #ca1612;}
 	.main-title h2 em{ padding: 0 28px 0 18px; display: inline-block; float: left; font-style: normal; height: 34px; line-height: 34px; background-color: #ca1612; color: white; font-size:16px;}
 	.main-title h2 .border-angle { float: left;}
-	.info-list{ padding: 12px 16px 24px;}
+	.info-list{ padding: 12px 16px 0;}
+	.main-left-inner .info-list ul{margin-bottom: 24px;}
 	.info-list ul li{ position: relative; font-size: 14px; padding-left: 10px; background: url('../images/dian.jpg') left 13px no-repeat; line-height: 28px;}
 	.info-list ul li span{ position: absolute; right: 0; top: 0; font-size: 12px; color: #666;}
 
@@ -115,7 +116,7 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	/* main-right-bar
 	-------------------------------------------------------------------------------- */
 	.main-right-bar{ width: 300px; width: 302px\9; float: right;}
-	.main-right-inner{width: 300px; border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7; background-color: white;}
+	.main-right-inner{width: 300px; border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7; background-color: white; margin-bottom: 12px;}
 
 	.bar-title{ padding: 0 15px; border-bottom:1px solid #ca1612;}
 	.bar-title h2{ position: relative; height: 33px; line-height: 33px; font-size: 16px; color: #ca1612;}
@@ -124,3 +125,21 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.info-list-right { padding-bottom: 12px;}
 	.info-list-right ul li{ height: 28px;}
 	.info-list-right ul li a{ display: inline-block; width: 190px; line-height: 28px; overflow: hidden; text-overflow:ellipsis; white-space: nowrap; }
+	
+	.info-list-ol{padding: 12px 10px 12px}
+	.info-list-right ol { font-size: 14px;;}
+	.info-list-right ol li{ list-style-type: decimal; list-style-position: inside; position: relative; background: #fff; border: 1px solid #fff; padding: 0 5px;}
+	.info-list-right ol li h4{ display: inline;*display: inline-block; font-size:14px;height: 28px; line-height: 28px; overflow: hidden; font-weight: normal; text-align: left;}
+	.info-list-right ol li h4 span{ *padding-left: 4px;}
+	.info-list-right ol li h4 em{ position: absolute; right: 5px;_right: 15px; top: 0; color: #999; font-style: normal;}
+	.ol-content{ padding-bottom: 10px; display: none;}
+	.ol-content img{ float: left; width: 78px; height: 78px; border: 1px solid #ddd;}
+	.ol-content .ol-text{ float: right; width: 179px; height: 79px; overflow: hidden; font-size: 12px;}
+	.ol-content .ol-text a{ color: #333; line-height: 20px; text-align: justify;}
+
+	.ad-image{font-size: 0;}
+	.ad-image a img{ width: 100%;}
+
+
+
+	.pagination-content{ text-align: center; font-size: 12px;padding: 20px 0; border-top: 1px solid #ddd;}
