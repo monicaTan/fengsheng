@@ -168,6 +168,9 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.face-txt .info-icon a:hover{ color: #a51417; text-decoration: underline;}
 	.elegant-demeanour .pagination-content{ margin: 0 10px;}
 
+	/* view-content
+	-------------------------------------------------------------------------------- */
+
 	/* pagination
 	-------------------------------------------------------------------------------- */
 	.pagination-content{ text-align: center; font-size: 12px;padding: 20px 0; border-top: 1px solid #ddd;}

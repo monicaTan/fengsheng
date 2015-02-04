@@ -1,0 +1,188 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--#include file="inc/common.shtml"--> 
+<title>高手观点</title>
+<!--#include file="inc/ie.shtml"-->
+</head>
+
+<body>
+
+<!-- nav -->
+<div class="nav">模拟炒股大赛</div> 
+
+<!-- main -->
+<div class="main">
+	<div class="main-content-inner">
+		<div class="content-bar clearfix">
+			<div class="main-left-bar">
+				<div class="main-left-inner">
+					<div class="main-title clearfix">
+						<h2 class="clearfix">
+							<em>高手观点</em>
+							<span class="border-angle"></span>
+						</h2>
+					</div>
+					<div class="view-content">
+						view
+					</div>
+				</div>
+			</div>
+			<div class="main-right-bar">
+
+				<!-- 策略排行榜 -->
+				<div class="main-right-inner">
+					<div class="bar-title">
+						<h2>
+							<span>策略排行榜</span>
+							<a href="javascript:void(0)"></a>
+						</h2>
+					</div>
+
+					<div class="info-list-right info-list-ol">
+						<ol class="right-ol">
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+						</ol>
+					</div>
+				</div>
+				<!-- 广告图 -->
+				<div class="main-right-inner ad-image">
+					<a href="javascript:void(0)">
+						<img src="images/img_right.jpg" alt="300x134" />
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- footer -->
+<div class="footer">
+	<div class="footer-inner">
+		footer
+	</div>
+</div>
+
+
+<!--#include file="inc/footer.shtml"-->
+<script type="text/javascript">
+	$(function(){
+		//right-ol
+		function olHover(){
+			$('.right-ol li').hover(function(){
+				$(this)
+				.css({"border-color":"#ddd","background-color":"#f9f9f9"})
+				.find('.ol-content').show();
+			},function(){
+				$(this)
+				.css({"border-color":"#fff","background-color":"#fff"})
+				.find('.ol-content').hide();
+			})
+		}
+		olHover();
+
+		//tab
+		function tadChangeClick(obj,classobj,box){
+			var tabLi = obj,
+				classChange = classobj,
+				divBox = box;
+			$(tabLi).click(function(){
+		        $(tabLi).eq($(this).index()).addClass(classChange).siblings().removeClass(classChange);
+				$(divBox).hide().eq($(this).index()).show();
+			});
+		};
+		//tadChangeClick('.tab li','cur','div');
+	})
+</script>
+</body>
+</html>
