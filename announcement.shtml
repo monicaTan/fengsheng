@@ -19,7 +19,7 @@
 			<div class="main-left-bar">
 				<div class="main-left-inner">
 					<div class="main-title clearfix">
-						<h2>
+						<h2 class="clearfix">
 							<em>大赛战报</em>
 							<span class="border-angle"></span>
 						</h2>
