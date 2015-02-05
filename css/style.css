@@ -220,7 +220,7 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.dl-list{ overflow: hidden;}
 	.dl-list dl{ padding: 10px 0; margin: 0 15px; border-top: 1px dashed #e3e4e8; margin-top: -1px;}
 	.dl-list dl dt,
-	.dl-list dl dd{ float: left; font-size: 14px; line-height: 28px;}
+	.dl-list dl dd{ float: left; font-size: 14px; line-height: 28px; color: #666;}
 	.dl-list dl dt{ width: 18px; text-align: left;}
 	.dl-list dl .best-user{ color: #ca1612;}
 	.dl-list dl dd{ width: 117px;}
