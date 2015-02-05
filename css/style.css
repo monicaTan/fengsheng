@@ -205,7 +205,7 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	/* main-right-inner Tab
 	-------------------------------------------------------------------------------- */
 	.tab-content-box{ font-size: 0; }
-	.tab-title{ width: 300px; border-bottom: 1px solid #ca1612;}
+	.tab-title{ width: 100%; border-bottom: 1px solid #ca1612;}
 	.tab-title li{ width: 150px; float: left;}
 	.tab-title li a{ display: inline-block; width: 100%; height: 34px; text-align: center; font-size: 16px; line-height: 34px; color: #ca1612;}
 	.tab-title .active a{ background-color: #ca1612; color: white;}
@@ -217,7 +217,7 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.tab-inner-title span{ width: 148px; color: #666;}
 	.tab-inner-title i{ width: 4px; color: #e6e6e6; font-size: 16px;}
 	
-	.dl-list{ overflow: hidden;}
+	.dl-list{ overflow: hidden; padding-bottom: 10px;}
 	.dl-list dl{ padding: 10px 0; margin: 0 15px; border-top: 1px dashed #e3e4e8; margin-top: -1px;}
 	.dl-list dl dt,
 	.dl-list dl dd{ float: left; font-size: 14px; line-height: 28px; color: #666;}
@@ -233,9 +233,21 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.integral-module .tab-content{ display: block;}
 
 
-
-
-
+	/* gaoshou-content
+	-------------------------------------------------------------------------------- */
+	.gaoshou-content .tab-title li{ width: 344px;}
+	.gaoshou-content .tab-title li a{ color: #333;}
+	.gaoshou-content .tab-title .active a{ color: #fff;}
+	.gaoshou-content .tab-content table th,
+	.gaoshou-content .tab-content table td{ font-size: 12px;}
+	.gaoshou-content .tab-content table th{ background-color: #f9f9f9; height: 33px; _line-height: 33px; vertical-align: middle; border-bottom: 1px solid #ddd;}
+	.gaoshou-content .tab-content table td{ height: 38px; vertical-align: middle;}
+	.gaoshou-content .tab-content table td .ranking{ display: inline-block; background-color: #999999; color: white; min-width: 16px; _width: 16px; padding: 1px 2px; height: 18px; line-height: 18px; border-radius: 2px;}
+	.gaoshou-content .tab-content table td .ranking-color{ background-color: #ca1612;}
+	.caozuo-icon{ display: inline-block;width: 11px; height: 11px; background: url('../images/caozuo.jpg') left top no-repeat; vertical-align: middle; margin-right: 5px;}
+	.gaoshou-content .tab-content table td a:hover{ color: #ca1612; text-decoration: underline;}
+	.gaoshou-content .tab-content-box{ min-height: 432px; _height: 432px;}
+	.table-pagination .pagination-content{ margin: 20px 15px 0;}
 
 
 

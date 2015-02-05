@@ -1,0 +1,485 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--#include file="inc/common.shtml"--> 
+<title>高手龙虎榜</title>
+<!--#include file="inc/ie.shtml"-->
+</head>
+
+<body>
+
+<!-- nav -->
+<div class="nav">模拟炒股大赛</div> 
+
+<!-- main -->
+<div class="main">
+	<div class="main-content-inner">
+		<div class="content-bar clearfix">
+			<div class="main-left-bar">
+				<div class="main-left-inner">
+					<div class="gaoshou-content">
+						<div class="tab-container">
+							<ul class="tab-title clearfix">
+								<li class="active">
+									<a href="javascript:void(0)">模拟赛排名</a>
+								</li>
+								<li>
+									<a href="javascript:void(0)">实盘赛排名</a>
+								</li>
+							</ul>
+							<div class="tab-content-box">
+								<!-- 支持榜列表 -->
+								<div class="tab-content tab-active">
+									<div class="dl-list">
+										<!-- 前十行排名号为红色，每页显示30行 -->
+										<table width="688" cellpadding="0" cellspacing="0" border="0">
+											<tr>
+												<th width="52" align="center">排名</th>
+												<th width="100" align="left">选手</th>
+												<th width="78">前日排名</th>
+												<th width="80">总收益率</th>
+												<th width="76">周收益率</th>
+												<th width="76">日收益率</th>
+												<th width="90">总资产（万）</th>
+												<th width="56">仓位</th>
+												<th width="80">订阅操盘</th>
+											</tr>
+											<tr>
+												<td align="center">
+													<span class="ranking ranking-color">1</span>
+												</td>
+												<td align="left">
+													<a href="javascript:void(0)">bhgyr(停赛)</a>
+												</td>
+												<td align="center">0</td>
+												<td align="center">0.00%</td>
+												<td align="center">0.00%</td>
+												<td align="center">0.00</td>
+												<td align="center">0.00%</td>
+												<td align="center">2</td>
+												<td align="center">
+													<a href="javascript:void(0)"><i class="caozuo-icon"></i>订阅</a>
+												</td>
+											</tr>
+											<tr>
+												<td align="center">
+													<span class="ranking">2</span>
+												</td>
+												<td align="left">
+													<a href="javascript:void(0)">bhgyr(停赛)</a>
+												</td>
+												<td align="center">0</td>
+												<td align="center">0.00%</td>
+												<td align="center">0.00%</td>
+												<td align="center">0.00</td>
+												<td align="center">0.00%</td>
+												<td align="center">2</td>
+												<td align="center">
+													<a href="javascript:void(0)"><i class="caozuo-icon"></i>订阅</a>
+												</td>
+											</tr>
+										</table>
+
+										<div class="table-pagination">
+											<div class="pagination-content clearfix">
+												分页
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<!-- 邀请榜列表 -->
+								<div class="tab-content">
+									<div class="dl-list">
+										<!-- 前十行排名号为红色，每页显示30行 -->
+										<table width="688" cellpadding="0" cellspacing="0" border="0">
+											<tr>
+												<th width="52" align="center">排名</th>
+												<th width="100" align="left">选手</th>
+												<th width="78">前日排名</th>
+												<th width="80">总收益率</th>
+												<th width="76">周收益率</th>
+												<th width="76">日收益率</th>
+												<th width="90">总资产（万）</th>
+												<th width="56">仓位</th>
+												<th width="80">订阅操盘</th>
+											</tr>
+											<tr>
+												<td align="center">
+													<span class="ranking ranking-color">1</span>
+												</td>
+												<td align="left">
+													<a href="javascript:void(0)">bhgyr</a>
+												</td>
+												<td align="center">0</td>
+												<td align="center">0.00%</td>
+												<td align="center">0.00%</td>
+												<td align="center">0.00</td>
+												<td align="center">0.00%</td>
+												<td align="center">2</td>
+												<td align="center">
+													<a href="javascript:void(0)"><i class="caozuo-icon"></i>订阅</a>
+												</td>
+											</tr>
+											<tr>
+												<td align="center">
+													<span class="ranking">2</span>
+												</td>
+												<td align="left">
+													<a href="javascript:void(0)">bhgyr(停赛)</a>
+												</td>
+												<td align="center">0</td>
+												<td align="center">0.00%</td>
+												<td align="center">0.00%</td>
+												<td align="center">0.00</td>
+												<td align="center">0.00%</td>
+												<td align="center">2</td>
+												<td align="center">
+													<a href="javascript:void(0)"><i class="caozuo-icon"></i>订阅</a>
+												</td>
+											</tr>
+										</table>
+
+										<div class="table-pagination">
+											<div class="pagination-content clearfix">
+												分页
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="main-right-bar">
+				<!-- 支持榜 邀请榜 -->
+				<div class="main-right-inner">
+					<div class="tab-container">
+						<ul class="tab-title clearfix">
+							<li class="active">
+								<a href="javascript:void(0)">支持榜</a>
+							</li>
+							<li>
+								<a href="javascript:void(0)">邀请榜</a>
+							</li>
+						</ul>
+						<div class="tab-content-box">
+							<!-- 支持榜列表 -->
+							<div class="tab-content tab-active">
+								<div class="tab-inner-title clearfix">
+									<span>用户名</span>
+									<i>|</i>
+									<span>支持金币数</span>   
+								</div>
+								<div class="dl-list">
+									<dl class="clearfix">
+										<dt class="best-user">1</dt>
+										<dd class="clearfix">
+											<a class="list-user-img" href="javascript:void(0)">
+												<img src="images/face.jpg" alt="28x28">
+											</a>
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+									<dl class="clearfix">
+										<dt class="best-user">2</dt>
+										<dd class="clearfix">
+											<a class="list-user-img" href="javascript:void(0)">
+												<img src="images/face.jpg" alt="28x28">
+											</a>
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+									<dl class="clearfix">
+										<dt class="best-user">3</dt>
+										<dd class="clearfix">
+											<a class="list-user-img" href="javascript:void(0)">
+												<img src="images/face.jpg" alt="28x28">
+											</a>
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+									<dl class="clearfix">
+										<dt>4</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+
+									<dl class="clearfix">
+										<dt>5</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+
+									<dl class="clearfix">
+										<dt>6</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+
+									<dl class="clearfix">
+										<dt>7</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+
+									<dl class="clearfix">
+										<dt>8</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+								</div>
+							</div>
+
+							<!-- 邀请榜列表 -->
+							<div class="tab-content">
+								<div class="tab-inner-title clearfix">
+									<span>用户名</span>
+									<i>|</i>
+									<span>邀请人数</span>        
+								</div>
+
+								<div class="dl-list">
+									<dl class="clearfix">
+										<dt class="best-user">1</dt>
+										<dd class="clearfix">
+											<a class="list-user-img" href="javascript:void(0)">
+												<img src="images/face.jpg" alt="28x28">
+											</a>
+											<a class="list-user-name" href="javascript:void(0)">天赢居2</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+									<dl class="clearfix">
+										<dt class="best-user">2</dt>
+										<dd class="clearfix">
+											<a class="list-user-img" href="javascript:void(0)">
+												<img src="images/face.jpg" alt="28x28">
+											</a>
+											<a class="list-user-name" href="javascript:void(0)">天赢居2</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+									<dl class="clearfix">
+										<dt class="best-user">3</dt>
+										<dd class="clearfix">
+											<a class="list-user-img" href="javascript:void(0)">
+												<img src="images/face.jpg" alt="28x28">
+											</a>
+											<a class="list-user-name" href="javascript:void(0)">天赢居2</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+									<dl class="clearfix">
+										<dt>4</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+
+									<dl class="clearfix">
+										<dt>5</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+
+									<dl class="clearfix">
+										<dt>6</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+
+									<dl class="clearfix">
+										<dt>7</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+
+									<dl class="clearfix">
+										<dt>8</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- 策略排行榜 -->
+				<div class="main-right-inner">
+					<div class="bar-title">
+						<h2>
+							<span>策略排行榜</span>
+							<a href="javascript:void(0)"></a>
+						</h2>
+					</div>
+
+					<div class="info-list-right info-list-ol">
+						<ol class="right-ol">
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+						</ol>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- footer -->
+<div class="footer">
+	<div class="footer-inner">
+		footer
+	</div>
+</div>
+
+
+<!--#include file="inc/footer.shtml"-->
+<script type="text/javascript">
+	$(function(){
+		//right-ol
+		function olHover(){
+			$('.right-ol li').hover(function(){
+				$(this)
+				.css({"border-color":"#ddd","background-color":"#f9f9f9"})
+				.find('.ol-content').show();
+			},function(){
+				$(this)
+				.css({"border-color":"#fff","background-color":"#fff"})
+				.find('.ol-content').hide();
+			})
+		}
+		olHover();
+
+		//tab
+		function tadChangeClick(){
+			$('.tab-title li').click(function(){
+		        $(this).addClass('active').siblings().removeClass('active');
+				$(this).parent('.tab-title').next('.tab-content-box').find('.tab-content').hide().eq($(this).index()).show();
+			});
+		};
+		tadChangeClick();
+
+		// dl-list
+		$('.dl-list dl').hover(function(){
+			$(this).css({"background":"#f5f5f5"});
+		},function(){
+			$(this).css({"background":"#fff"});
+		})
+	})
+</script>
+</body>
+</html>

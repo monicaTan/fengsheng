@@ -382,6 +382,7 @@
 					</div>
 				</div>
 
+				<!-- 积分排名榜 -->
 				<div class="main-right-inner">
 					<div class="bar-title">
 						<h2>
@@ -503,16 +504,14 @@
 		olHover();
 
 		//tab
-		function tadChangeClick(obj,objclass,box){
-			var tabLi = obj,
-				classChange = objclass,
-				divBox = box;
-			$(tabLi).click(function(){
-		        $(tabLi).eq($(this).index()).addClass(classChange).siblings().removeClass(classChange);
-				$(divBox).hide().eq($(this).index()).show();
+		function tadChangeClick(){
+			$('.tab-title li').click(function(){
+		        $(this).addClass('active').siblings().removeClass('active');
+				$(this).parent('.tab-title').next('.tab-content-box').find('.tab-content').hide().eq($(this).index()).show();
 			});
 		};
-		tadChangeClick('.tab-title li','active','.tab-content');
+		tadChangeClick();
+
 
 		// dl-list
 		$('.dl-list dl').hover(function(){
