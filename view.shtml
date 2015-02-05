@@ -25,7 +25,71 @@
 						</h2>
 					</div>
 					<div class="view-content">
-						view
+						<!-- 有配图 -->
+						<div class="list-box">
+							<div class="clearfix">
+								<div class="inset">
+									<a href="javascript:void(0)">
+										<img src="images/img_05.jpg" alt="178x108">
+									</a>
+								</div>
+								<div class="inset-text">
+									<h2>
+										<a href="javascript:void(0)"><span>[图说财经]</span>揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际</a>
+									</h2>
+									<p class="text-summary">
+										<!-- 注意限制字数控制在两行 大概50字 -->
+										安邦保险已是民生银行（600016）第一大股东，持有其18.35%的A股流通股。知情人说，安邦保现会计并表，民生银行公司... <a href="javascript:void(0)">［查看全文］</a>
+									</p>
+									<div class="text-time">
+										<span>2014-09-13  14:38</span>
+										<a href="javascript:void(0)">支持</a>
+									</div>
+								</div>
+							</div>
+							<dl class="clearfix">
+								<dt>相关股</dt>
+								<dd>
+									<a href="javascript:void(0)">民生银行 600016<span>-3.32%</span></a>
+									<a href="javascript:void(0)">民生银行 600016<span>-3.32%</span></a>
+									<a href="javascript:void(0)">民生银行 600016<span>-3.32%</span></a>
+									<a href="javascript:void(0)">民生银行 600016<span>-3.32%</span></a>
+									<a href="javascript:void(0)">民生银行 600016<span>-3.32%</span></a>
+								</dd>
+							</dl>
+						</div>
+
+						<!-- 无配图 -->
+						<div class="list-box list-no-img">
+							<div class="clearfix">
+								<div class="inset-text">
+									<h2>
+										<a href="javascript:void(0)"><span>[图说财经]</span>揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际</a>
+									</h2>
+									<p class="text-summary">
+										<!-- 注意限制字数控制在两行 大概50字 -->
+										安邦保险已是民生银行（600016）第一大股东，持有其18.35%的A股流通股。知情人说，安邦保现会计并表，民生银行公司... <a href="javascript:void(0)">［查看全文］</a>
+									</p>
+									<div class="text-time">
+										<span>2014-09-13  14:38</span>
+										<a href="javascript:void(0)">支持</a>
+									</div>
+								</div>
+							</div>
+							<dl class="clearfix">
+								<dt>相关股</dt>
+								<dd>
+									<a href="javascript:void(0)">民生银行 600016<span>-3.32%</span></a>
+									<a href="javascript:void(0)">民生银行 600016<span>-3.32%</span></a>
+									<a href="javascript:void(0)">民生银行 600016<span>-3.32%</span></a>
+									<a href="javascript:void(0)">民生银行 600016<span>-3.32%</span></a>
+									<a href="javascript:void(0)">民生银行 600016<span>-3.32%</span></a>
+								</dd>
+							</dl>
+						</div>
+						<div class="pagination-content clearfix">
+							分页
+						</div>
 					</div>
 				</div>
 			</div>
@@ -141,6 +205,273 @@
 						<img src="images/img_right.jpg" alt="300x134" />
 					</a>
 				</div>
+
+				<!-- 支持榜 邀请榜 -->
+				<div class="main-right-inner">
+					<div class="tab-container">
+						<ul class="tab-title clearfix">
+							<li class="active">
+								<a href="javascript:void(0)">支持榜</a>
+							</li>
+							<li>
+								<a href="javascript:void(0)">邀请榜</a>
+							</li>
+						</ul>
+						<div class="tab-content-box">
+							<!-- 支持榜列表 -->
+							<div class="tab-content tab-active">
+								<div class="tab-inner-title clearfix">
+									<span>用户名</span>
+									<i>|</i>
+									<span>支持金币数</span>   
+								</div>
+								<div class="dl-list">
+									<dl class="clearfix">
+										<dt class="best-user">1</dt>
+										<dd class="clearfix">
+											<a class="list-user-img" href="javascript:void(0)">
+												<img src="images/face.jpg" alt="28x28">
+											</a>
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+									<dl class="clearfix">
+										<dt class="best-user">2</dt>
+										<dd class="clearfix">
+											<a class="list-user-img" href="javascript:void(0)">
+												<img src="images/face.jpg" alt="28x28">
+											</a>
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+									<dl class="clearfix">
+										<dt class="best-user">3</dt>
+										<dd class="clearfix">
+											<a class="list-user-img" href="javascript:void(0)">
+												<img src="images/face.jpg" alt="28x28">
+											</a>
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+									<dl class="clearfix">
+										<dt>4</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+
+									<dl class="clearfix">
+										<dt>5</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+
+									<dl class="clearfix">
+										<dt>6</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+
+									<dl class="clearfix">
+										<dt>7</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+
+									<dl class="clearfix">
+										<dt>8</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+								</div>
+							</div>
+
+							<!-- 邀请榜列表 -->
+							<div class="tab-content">
+								<div class="tab-inner-title clearfix">
+									<span>用户名</span>
+									<i>|</i>
+									<span>邀请人数</span>        
+								</div>
+
+								<div class="dl-list">
+									<dl class="clearfix">
+										<dt class="best-user">1</dt>
+										<dd class="clearfix">
+											<a class="list-user-img" href="javascript:void(0)">
+												<img src="images/face.jpg" alt="28x28">
+											</a>
+											<a class="list-user-name" href="javascript:void(0)">天赢居2</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+									<dl class="clearfix">
+										<dt class="best-user">2</dt>
+										<dd class="clearfix">
+											<a class="list-user-img" href="javascript:void(0)">
+												<img src="images/face.jpg" alt="28x28">
+											</a>
+											<a class="list-user-name" href="javascript:void(0)">天赢居2</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+									<dl class="clearfix">
+										<dt class="best-user">3</dt>
+										<dd class="clearfix">
+											<a class="list-user-img" href="javascript:void(0)">
+												<img src="images/face.jpg" alt="28x28">
+											</a>
+											<a class="list-user-name" href="javascript:void(0)">天赢居2</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+									<dl class="clearfix">
+										<dt>4</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+
+									<dl class="clearfix">
+										<dt>5</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+
+									<dl class="clearfix">
+										<dt>6</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+
+									<dl class="clearfix">
+										<dt>7</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+
+									<dl class="clearfix">
+										<dt>8</dt>
+										<dd class="clearfix">
+											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+										</dd>
+										<dd class="dl-number">123</dd>
+									</dl>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="main-right-inner">
+					<div class="bar-title">
+						<h2>
+							<span>积分排名榜</span>
+							<a href="javascript:void(0)"></a>
+						</h2>
+					</div>
+
+					<div class="integral-module">
+						<div class="tab-content">
+							<div class="tab-inner-title clearfix">
+								<span>用户名</span>
+								<i>|</i>
+								<span>积分数</span>        
+							</div>
+
+							<div class="dl-list">
+								<dl class="clearfix">
+									<dt class="best-user">1</dt>
+									<dd class="clearfix">
+										<a class="list-user-img" href="javascript:void(0)">
+											<img src="images/face.jpg" alt="28x28">
+										</a>
+										<a class="list-user-name" href="javascript:void(0)">天赢居2</a>
+									</dd>
+									<dd class="dl-number">123</dd>
+								</dl>
+								<dl class="clearfix">
+									<dt class="best-user">2</dt>
+									<dd class="clearfix">
+										<a class="list-user-img" href="javascript:void(0)">
+											<img src="images/face.jpg" alt="28x28">
+										</a>
+										<a class="list-user-name" href="javascript:void(0)">天赢居2</a>
+									</dd>
+									<dd class="dl-number">123</dd>
+								</dl>
+								<dl class="clearfix">
+									<dt class="best-user">3</dt>
+									<dd class="clearfix">
+										<a class="list-user-img" href="javascript:void(0)">
+											<img src="images/face.jpg" alt="28x28">
+										</a>
+										<a class="list-user-name" href="javascript:void(0)">天赢居2</a>
+									</dd>
+									<dd class="dl-number">123</dd>
+								</dl>
+								<dl class="clearfix">
+									<dt>4</dt>
+									<dd class="clearfix">
+										<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+									</dd>
+									<dd class="dl-number">123</dd>
+								</dl>
+
+								<dl class="clearfix">
+									<dt>5</dt>
+									<dd class="clearfix">
+										<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+									</dd>
+									<dd class="dl-number">123</dd>
+								</dl>
+
+								<dl class="clearfix">
+									<dt>6</dt>
+									<dd class="clearfix">
+										<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+									</dd>
+									<dd class="dl-number">123</dd>
+								</dl>
+
+								<dl class="clearfix">
+									<dt>7</dt>
+									<dd class="clearfix">
+										<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+									</dd>
+									<dd class="dl-number">123</dd>
+								</dl>
+
+								<dl class="clearfix">
+									<dt>8</dt>
+									<dd class="clearfix">
+										<a class="list-user-name" href="javascript:void(0)">天赢居</a>
+									</dd>
+									<dd class="dl-number">123</dd>
+								</dl>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -172,16 +503,23 @@
 		olHover();
 
 		//tab
-		function tadChangeClick(obj,classobj,box){
+		function tadChangeClick(obj,objclass,box){
 			var tabLi = obj,
-				classChange = classobj,
+				classChange = objclass,
 				divBox = box;
 			$(tabLi).click(function(){
 		        $(tabLi).eq($(this).index()).addClass(classChange).siblings().removeClass(classChange);
 				$(divBox).hide().eq($(this).index()).show();
 			});
 		};
-		//tadChangeClick('.tab li','cur','div');
+		tadChangeClick('.tab-title li','active','.tab-content');
+
+		// dl-list
+		$('.dl-list dl').hover(function(){
+			$(this).css({"background":"#f5f5f5"});
+		},function(){
+			$(this).css({"background":"#fff"});
+		})
 	})
 </script>
 </body>
