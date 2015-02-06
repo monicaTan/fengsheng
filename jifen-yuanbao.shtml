@@ -1,0 +1,162 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--#include file="inc/common.shtml"--> 
+<title>积分和元宝更多排名页</title>
+<!--#include file="inc/ie.shtml"-->
+</head>
+
+<body>
+
+<!-- nav -->
+<div class="nav">模拟炒股大赛</div> 
+
+<!-- main -->
+<div class="main">
+	<div class="main-content-inner">
+		<div class="content-bar clearfix">
+			<!-- 支持榜 -->
+			<div class="main-max-module max-module-box">
+				<div class="table-border0-module">
+					<div class="tab-container">
+						<ul class="tab-title clearfix">
+							<li class="active">
+								<a href="javascript:void(0)">用户积分排行榜</a>
+							</li>
+							<li>
+								<a href="javascript:void(0)">高手元宝排行榜</a>
+							</li>
+						</ul>
+						<div class="tab-content-box">
+							<!-- 用户积分排行榜 -->
+							<div class="tab-content tab-active">
+								<table class="table-module" width="100%" cellpadding="0" cellspacing="0" border="0">
+									<!-- 每页显示30行 -->
+									<!-- 1-10行的排名号为红色ranking-color -->
+									<tr>
+										<th width="15">&nbsp;</th>
+										<th width="50" align="left">排名</th>
+										<th align="left">用户</th>
+										<th align="left" width="120">总积分</th>
+										<th align="left" width="320">最新积分获取来源</th>
+										<th align="left" width="140">总收益率</th>
+										<th align="right" width="100">所在地区</th>
+										<th width="15">&nbsp;</th>
+									</tr>
+									<tr>
+										<td width="15" class="bd-white">&nbsp;</td>
+										<td align="left">
+											<span class="ranking ranking-color">1</span>
+										</td>
+										<td align="left" valign="middle">
+											<a class="table-user-name" href="javascript:void(0)">最牛股票名字</a>
+										</td>
+										<td align="left">1000</td>
+										<td align="left">我是谁谁谁要送给你啥啥啥</td>
+										<td align="left">10.00</td>
+										<td align="right">北京</td>
+										<td width="15" class="bd-white">&nbsp;</td>
+									</tr>
+									<tr>
+										<td width="15" class="bd-white">&nbsp;</td>
+										<td align="left">
+											<span class="ranking">11</span>
+										</td>
+										<td align="left" valign="middle">
+											<a class="table-user-name" href="javascript:void(0)">最牛股票名字</a>
+										</td>
+										<td align="left">1000</td>
+										<td align="left">我是谁谁谁要送给你啥啥啥</td>
+										<td align="left">10.00</td>
+										<td align="right">北京</td>
+										<td width="15" class="bd-white">&nbsp;</td>
+									</tr>
+								</table>
+								<div class="table-pagination0">
+									<div class="pagination-content clearfix">
+										分页
+									</div>
+								</div>
+							</div>
+							
+							<!-- 高手元宝排行榜 -->
+							<div class="tab-content">
+								<table class="table-module" width="100%" cellpadding="0" cellspacing="0" border="0">
+									<!-- 每页显示30行 -->
+									<!-- 1-10行的排名号为红色ranking-color -->
+									<tr>
+										<th width="15">&nbsp;</th>
+										<th width="50" align="left">排名</th>
+										<th align="left">用户</th>
+										<th align="left" width="120">元宝数</th>
+										<th align="left" width="320">最新元宝获取来源</th>
+										<th align="left" width="140">总收益率</th>
+										<th align="right" width="100">所在地区</th>
+										<th width="15">&nbsp;</th>
+									</tr>
+									<tr>
+										<td width="15" class="bd-white">&nbsp;</td>
+										<td align="left">
+											<span class="ranking ranking-color">1</span>
+										</td>
+										<td align="left" valign="middle">
+											<a class="table-user-name" href="javascript:void(0)">最牛股票名字</a>
+										</td>
+										<td align="left">1000</td>
+										<td align="left">我是谁谁谁要送给你啥啥啥</td>
+										<td align="left">10.00</td>
+										<td align="right">北京</td>
+										<td width="15" class="bd-white">&nbsp;</td>
+									</tr>
+									<tr>
+										<td width="15" class="bd-white">&nbsp;</td>
+										<td align="left">
+											<span class="ranking">11</span>
+										</td>
+										<td align="left" valign="middle">
+											<a class="table-user-name" href="javascript:void(0)">最牛股票名字</a>
+										</td>
+										<td align="left">1000</td>
+										<td align="left">我是谁谁谁要送给你啥啥啥</td>
+										<td align="left">10.00</td>
+										<td align="right">北京</td>
+										<td width="15" class="bd-white">&nbsp;</td>
+									</tr>
+								</table>
+								<div class="table-pagination0">
+									<div class="pagination-content clearfix">
+										分页
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- footer -->
+<div class="footer">
+	<div class="footer-inner">
+		footer
+	</div>
+</div>
+
+
+<script type="text/javascript">
+	$(function(){
+		//tab
+		function tadChangeClick(){
+			$('.tab-title li').click(function(){
+		        $(this).addClass('active').siblings().removeClass('active');
+				$(this).parent('.tab-title').next('.tab-content-box').find('.tab-content').hide().eq($(this).index()).show();
+			});
+		};
+		tadChangeClick();
+	})
+</script>
+</body>
+</html>

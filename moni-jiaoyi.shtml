@@ -1,0 +1,194 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--#include file="inc/common.shtml"--> 
+<title>模拟交易重仓</title>
+<!--#include file="inc/ie.shtml"-->
+</head>
+
+<body>
+
+<!-- nav -->
+<div class="nav">模拟炒股大赛</div> 
+
+<!-- main -->
+<div class="main">
+	<div class="main-content-inner">
+		<div class="content-bar clearfix">
+			<!-- 支持榜 -->
+			<div class="main-max-module max-module-box">
+				<div class="table-border0-module">
+					<div class="tab-container">
+						<ul class="tab-title clearfix">
+							<li class="moni active">
+								<a href="javascript:void(0)">模拟交易重仓</a>
+							</li>
+							<li class="shipan">
+								<a href="javascript:void(0)">实盘交易重仓股
+								<span>更新时间：2015-09-12 16:20</span>
+								</a>
+							</li>
+						</ul>
+						<div class="tab-content-box">
+							<!-- 用户积分排行榜 -->
+							<div class="tab-content tab-active">
+								<table class="table-module" width="100%" cellpadding="0" cellspacing="0" border="0">
+									<!-- 每页显示30行 -->
+									<!-- 1-10行的排名号为红色ranking-color -->
+									<tr>
+										<th width="15">&nbsp;</th>
+										<th width="50" align="left">排名</th>
+										<th align="left">股票名称</th>
+										<th width="86">最新价</th>
+										<th width="86">涨跌幅</th>
+										<th width="86">涨跌额</th>
+										<th width="86">成交量</th>
+										<th width="86">最高价</th>
+										<th width="86">最低价</th>
+										<th width="86">市盈率</th>
+										<th width="90">持仓额（万股）</th>
+										<th width="90">持仓用户</th>
+										<th width="15">&nbsp;</th>
+									</tr>
+									<tr>
+										<td width="15" class="bd-white">&nbsp;</td>
+										<td align="left">
+											<span class="ranking ranking-color">1</span>
+										</td>
+										<td align="left">
+											<a href="javascript:void(0)">最牛的股票名字</a>
+										</td>
+										<td align="center">7.8</td>
+										<td align="center">0.00%</td>
+										<td align="center">10.89</td>
+										<td align="center">24亿</td>
+										<td align="center">0.81</td>
+										<td align="center">0</td>
+										<td align="center">0.12%</td>
+										<td align="center">230</td>
+										<td align="center">200万</td>
+										<td width="15" class="bd-white">&nbsp;</td>
+									</tr>
+									<tr>
+										<td width="15" class="bd-white">&nbsp;</td>
+										<td align="left">
+											<span class="ranking">11</span>
+										</td>
+										<td align="left">
+											<a href="javascript:void(0)">最牛的股票名字</a>
+										</td>
+										<td align="center">7.8</td>
+										<td align="center">0.00%</td>
+										<td align="center">10.89</td>
+										<td align="center">24亿</td>
+										<td align="center">0.81</td>
+										<td align="center">0</td>
+										<td align="center">0.12%</td>
+										<td align="center">230</td>
+										<td align="center">200万</td>
+										<td width="15" class="bd-white">&nbsp;</td>
+									</tr>
+								</table>
+								<div class="table-pagination0">
+									<div class="pagination-content clearfix">
+										分页
+									</div>
+								</div>
+							</div>
+							
+							<!-- 高手元宝排行榜 -->
+							<div class="tab-content">
+								<table class="table-module" width="100%" cellpadding="0" cellspacing="0" border="0">
+									<!-- 每页显示30行 -->
+									<!-- 1-10行的排名号为红色ranking-color -->
+									<tr>
+										<th width="15">&nbsp;</th>
+										<th width="50" align="left">排名</th>
+										<th align="left">股票名称</th>
+										<th width="86">最新价</th>
+										<th width="86">涨跌幅</th>
+										<th width="86">涨跌额</th>
+										<th width="86">成交量</th>
+										<th width="86">最高价</th>
+										<th width="86">最低价</th>
+										<th width="86">市盈率</th>
+										<th width="90">持仓额（万股）</th>
+										<th width="90">持仓用户</th>
+										<th width="15">&nbsp;</th>
+									</tr>
+									<tr>
+										<td width="15" class="bd-white">&nbsp;</td>
+										<td align="left">
+											<span class="ranking ranking-color">1</span>
+										</td>
+										<td align="left">
+											<a href="javascript:void(0)">最牛的股票名字2</a>
+										</td>
+										<td align="center">7.8</td>
+										<td align="center">0.00%</td>
+										<td align="center">10.89</td>
+										<td align="center">24亿</td>
+										<td align="center">0.81</td>
+										<td align="center">0</td>
+										<td align="center">0.12%</td>
+										<td align="center">230</td>
+										<td align="center">200万</td>
+										<td width="15" class="bd-white">&nbsp;</td>
+									</tr>
+									<tr>
+										<td width="15" class="bd-white">&nbsp;</td>
+										<td align="left">
+											<span class="ranking">11</span>
+										</td>
+										<td align="left">
+											<a href="javascript:void(0)">最牛的股票名字2</a>
+										</td>
+										<td align="center">7.8</td>
+										<td align="center">0.00%</td>
+										<td align="center">10.89</td>
+										<td align="center">24亿</td>
+										<td align="center">0.81</td>
+										<td align="center">0</td>
+										<td align="center">0.12%</td>
+										<td align="center">230</td>
+										<td align="center">200万</td>
+										<td width="15" class="bd-white">&nbsp;</td>
+									</tr>
+								</table>
+								<div class="table-pagination0">
+									<div class="pagination-content clearfix">
+										分页
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- footer -->
+<div class="footer">
+	<div class="footer-inner">
+		footer
+	</div>
+</div>
+
+
+<script type="text/javascript">
+	$(function(){
+		//tab
+		function tadChangeClick(){
+			$('.tab-title li').click(function(){
+		        $(this).addClass('active').siblings().removeClass('active');
+				$(this).parent('.tab-title').next('.tab-content-box').find('.tab-content').hide().eq($(this).index()).show();
+			});
+		};
+		tadChangeClick();
+	})
+</script>
+</body>
+</html>
