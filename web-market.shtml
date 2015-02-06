@@ -1,0 +1,368 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--#include file="inc/common.shtml"--> 
+<title>网页行情</title>
+<!--#include file="inc/ie.shtml"-->
+</head>
+
+<body>
+
+<!-- nav -->
+<div class="nav">模拟炒股大赛</div> 
+
+<!-- main -->
+<div class="main">
+	<div class="main-content-inner">
+		<div class="content-bar clearfix">
+			<!-- 大盘指数 -->
+			<div class="main-max-module">
+				<div class="dapan-number">
+					<div class="main-title clearfix">
+						<h2 class="clearfix">
+							<em>大盘指数</em>
+							<span class="border-angle"></span>
+							<a class="more-dian" href="javascript:void(0)"></a>
+						</h2>
+					</div>
+					<div class="table-max-module">
+						<div class="info-picture-module">
+							<ul class="clearfix">
+								<li>
+									<img src="images/zhanwei.jpg" alt="220x120">
+									<h3>
+										<a href="javascript:void(0)">上证综指</a>
+									</h3>
+								</li>
+								<li>
+									<img src="images/zhanwei.jpg" alt="220x120">
+									<h3>
+										<a href="javascript:void(0)">上证综指</a>
+									</h3>
+								</li>
+								<li>
+									<img src="images/zhanwei.jpg" alt="220x120">
+									<h3>
+										<a href="javascript:void(0)">上证综指</a>
+									</h3>
+								</li>
+								<li>
+									<img src="images/zhanwei.jpg" alt="220x120">
+									<h3>
+										<a href="javascript:void(0)">上证综指</a>
+									</h3>
+								</li>
+							</ul>
+						</div>
+
+						<table class="table-module" width="100%" cellpadding="0" cellspacing="0" border="0">
+							<!-- 显示5行 -->
+							<tr>
+								<th width="15">&nbsp;</th>
+								<th width="26" align="left">序号</th>
+								<th width="20">&nbsp;</th>
+								<th>名称</th>
+								<th width="70">代码</th>
+								<th width="66">涨幅%</th>
+								<th width="64">现价</th>
+								<th width="64">现手</th>
+								<th width="64">总手</th>
+								<th width="64">开盘</th>
+								<th width="64">昨收</th>
+								<th width="64">最高</th>
+								<th width="64">最低</th>
+								<th width="66">振幅%</th>
+								<th width="64">量比</th>
+								<th width="66">换手率%</th>
+								<th width="66">成交金额</th>
+								<th width="15">&nbsp;</th>
+							</tr>
+							<tr>
+								<td width="15" class="bd-white">&nbsp;</td>
+								<td align="center">1</td>
+								<td>&nbsp;</td>
+								<td align="center">
+									<a href="javascript:void(0)">春兰股份</a>
+								</td>
+								<td align="center">600854</td>
+								<td align="center">-1.69</td>
+								<td align="center">5.83</td>
+								<td align="center">2</td>
+								<td align="center">2</td>
+								<td align="center">0.79</td>
+								<td align="center">0.81</td>
+								<td align="center">+14.50</td>
+								<td align="center">0.28</td>
+								<td align="center">32.28</td>
+								<td align="center">187.6</td>
+								<td align="center">1.59</td>
+								<td align="center">200亿</td>
+								<td width="15" class="bd-white">&nbsp;</td>
+							</tr>
+							<tr>
+								<td width="15" class="bd-white">&nbsp;</td>
+								<td align="center">2</td>
+								<td>&nbsp;</td>
+								<td align="center">
+									<a href="javascript:void(0)">春兰股份</a>
+								</td>
+								<td align="center">600854</td>
+								<td align="center">-1.69</td>
+								<td align="center">5.83</td>
+								<td align="center">2</td>
+								<td align="center">2</td>
+								<td align="center">0.79</td>
+								<td align="center">0.81</td>
+								<td align="center">+14.50</td>
+								<td align="center">0.28</td>
+								<td align="center">32.28</td>
+								<td align="center">187.6</td>
+								<td align="center">1.59</td>
+								<td align="center">200亿</td>
+								<td width="15" class="bd-white">&nbsp;</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+
+			<!-- 热门行业 -->
+			<div class="main-max-module">
+				<div class="popular-profession">
+					<div class="main-title clearfix">
+						<h2 class="clearfix">
+							<em>热门行业</em>
+							<span class="border-angle"></span>
+							<a class="more-dian" href="javascript:void(0)"></a>
+						</h2>
+					</div>
+					<div class="table-max-module">
+						<table class="table-module" width="100%" cellpadding="0" cellspacing="0" border="0">
+							<!-- 显示5行 -->
+							<tr>
+								<th width="15">&nbsp;</th>
+								<th width="26" align="left">序号</th>
+								<th width="20">&nbsp;</th>
+								<th>名称</th>
+								<th width="100">涨幅%</th>
+								<th width="100">总成交量</th>
+								<th width="100">总成交额</th>
+								<th width="100">换手%</th>
+								<th width="100">市盈率</th>
+								<th width="100">股票数</th>
+								<th width="100">领涨股票</th>
+								<th width="90">代码</th>
+								<th width="15">&nbsp;</th>
+							</tr>
+							<tr>
+								<td width="15" class="bd-white">&nbsp;</td>
+								<td align="center">1</td>
+								<td>&nbsp;</td>
+								<td align="center">
+									<a href="javascript:void(0)">春兰股份</a>
+								</td>
+								<td align="center">-1.69</td>
+								<td align="center">248亿</td>
+								<td align="center">2486亿</td>
+								<td align="center">0.79</td>
+								<td align="center">0.81</td>
+								<td align="center">+14.50</td>
+								<td align="center">184.7</td>
+								<td align="center">就是要发财</td>
+								<td width="15" class="bd-white">&nbsp;</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+
+			<!-- 热门概念 -->
+			<div class="main-max-module">
+				<div class="popular-profession">
+					<div class="main-title clearfix">
+						<h2 class="clearfix">
+							<em>热门概念</em>
+							<span class="border-angle"></span>
+							<a class="more-dian" href="javascript:void(0)"></a>
+						</h2>
+					</div>
+					<div class="table-max-module">
+						<table class="table-module" width="100%" cellpadding="0" cellspacing="0" border="0">
+							<!-- 显示5行 -->
+							<tr>
+								<th width="15">&nbsp;</th>
+								<th width="26" align="left">序号</th>
+								<th width="20">&nbsp;</th>
+								<th>名称</th>
+								<th width="100">涨幅%</th>
+								<th width="100">总成交量</th>
+								<th width="100">总成交额</th>
+								<th width="100">换手%</th>
+								<th width="100">市盈率</th>
+								<th width="100">股票数</th>
+								<th width="100">领涨股票</th>
+								<th width="90">代码</th>
+								<th width="15">&nbsp;</th>
+							</tr>
+							<tr>
+								<td width="15" class="bd-white">&nbsp;</td>
+								<td align="center">1</td>
+								<td>&nbsp;</td>
+								<td align="center">
+									<a href="javascript:void(0)">春兰股份</a>
+								</td>
+								<td align="center">-1.69</td>
+								<td align="center">248亿</td>
+								<td align="center">2486亿</td>
+								<td align="center">0.79</td>
+								<td align="center">0.81</td>
+								<td align="center">+14.50</td>
+								<td align="center">184.7</td>
+								<td align="center">就是要发财</td>
+								<td width="15" class="bd-white">&nbsp;</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+
+			<!-- 两市涨幅榜 -->
+			<div class="main-max-module">
+				<div class="dapan-number">
+					<div class="main-title clearfix">
+						<h2 class="clearfix">
+							<em>两市涨幅榜</em>
+							<span class="border-angle"></span>
+							<a class="more-dian" href="javascript:void(0)"></a>
+						</h2>
+					</div>
+					<div class="table-max-module">
+						<table class="table-module" width="100%" cellpadding="0" cellspacing="0" border="0">
+							<!-- 显示10行 -->
+							<tr>
+								<th width="15">&nbsp;</th>
+								<th width="26" align="left">序号</th>
+								<th width="20">&nbsp;</th>
+								<th>名称</th>
+								<th width="70">代码</th>
+								<th width="64">行业</th>
+								<th width="66">涨幅%</th>
+								<th width="60">现价</th>
+								<th width="64">现手</th>
+								<th width="66">成交金额</th>
+								<th width="66">换手率%</th>
+								<th width="64">量比</th>
+								<th width="64">委比%</th>
+								<th width="64">流通市值</th>
+								<th width="64">总市值</th>
+								<th width="64">市盈率</th>
+								<th width="60">市净率</th>
+								<th width="15">&nbsp;</th>
+							</tr>
+							<tr>
+								<td width="15" class="bd-white">&nbsp;</td>
+								<td align="center">1</td>
+								<td>&nbsp;</td>
+								<td align="center">
+									<a href="javascript:void(0)">春兰股份</a>
+								</td>
+								<td align="center">600854</td>
+								<td align="center">
+									<a href="javascript:void(0)">白色家电</a>
+								</td>
+								<td align="center">-1.69</td>
+								<td align="center">5.83</td>
+								<td align="center">2</td>
+								<td align="center">4000万</td>
+								<td align="center">0.79</td>
+								<td align="center">0.81</td>
+								<td align="center">+14.50</td>
+								<td align="center">30.28亿</td>
+								<td align="center">30.28亿</td>
+								<td align="center">187.6</td>
+								<td align="center">1.59</td>
+								<td width="15" class="bd-white">&nbsp;</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+
+			<!-- 两市跌幅榜 -->
+			<div class="main-max-module">
+				<div class="dapan-number">
+					<div class="main-title clearfix">
+						<h2 class="clearfix">
+							<em>两市跌幅榜</em>
+							<span class="border-angle"></span>
+							<a class="more-dian" href="javascript:void(0)"></a>
+						</h2>
+					</div>
+					<div class="table-max-module">
+						<table class="table-module" width="100%" cellpadding="0" cellspacing="0" border="0">
+							<!-- 显示10行 -->
+							<tr>
+								<th width="15">&nbsp;</th>
+								<th width="26" align="left">序号</th>
+								<th width="20">&nbsp;</th>
+								<th>名称</th>
+								<th width="70">代码</th>
+								<th width="64">行业</th>
+								<th width="66">涨幅%</th>
+								<th width="60">现价</th>
+								<th width="64">现手</th>
+								<th width="66">成交金额</th>
+								<th width="66">换手率%</th>
+								<th width="64">量比</th>
+								<th width="64">委比%</th>
+								<th width="64">流通市值</th>
+								<th width="64">总市值</th>
+								<th width="64">市盈率</th>
+								<th width="60">市净率</th>
+								<th width="15">&nbsp;</th>
+							</tr>
+							<tr>
+								<td width="15" class="bd-white">&nbsp;</td>
+								<td align="center">1</td>
+								<td>&nbsp;</td>
+								<td align="center">
+									<a href="javascript:void(0)">春兰股份</a>
+								</td>
+								<td align="center">600854</td>
+								<td align="center">
+									<a href="javascript:void(0)">白色家电</a>
+								</td>
+								<td align="center">-1.69</td>
+								<td align="center">5.83</td>
+								<td align="center">2</td>
+								<td align="center">4000万</td>
+								<td align="center">0.79</td>
+								<td align="center">0.81</td>
+								<td align="center">+14.50</td>
+								<td align="center">30.28亿</td>
+								<td align="center">30.28亿</td>
+								<td align="center">187.6</td>
+								<td align="center">1.59</td>
+								<td width="15" class="bd-white">&nbsp;</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- footer -->
+<div class="footer">
+	<div class="footer-inner">
+		footer
+	</div>
+</div>
+
+
+<!--#include file="inc/footer.shtml"-->
+
+</body>
+</html>

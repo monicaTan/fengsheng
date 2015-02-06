@@ -105,10 +105,11 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.border-angle { font-style: normal; border-color: #ca1612 #fff #fff #ca1612; border-style: solid; border-width: 17px 8px; font-size: 0; height: 0; line-height: 0; width: 0; overflow: hidden;}
 	
 	.main-title{ border-bottom:1px solid #ca1612;}
-	.main-title h2 em{ padding: 0 28px 0 18px; display: inline-block; float: left; font-style: normal; height: 34px; line-height: 34px; background-color: #ca1612; color: white; font-size:16px;}
+	.main-title h2 em{ padding: 0 28px 0 15px; display: inline-block; float: left; font-style: normal; height: 34px; line-height: 34px; background-color: #ca1612; color: white; font-size:16px;}
 	.main-title h2 .notice-text { float: left;height: 34px; line-height: 34px; font-size: 12px; color: #666;}
 	.main-title h2 .notice-text i{ color: #ca1612; font-size: 14px; vertical-align: middle; margin: 0 4px 0 10px;}
 	.main-title h2 .border-angle { float: left;}
+	.main-title h2 .more-dian { display: inline-block;width: 17px; height: 33px; background: url('../images/dian3.jpg') left center no-repeat; float: right; margin-right: 15px;}
 	.info-list{ padding: 12px 16px 0;}
 	.main-left-inner .info-list ul{margin-bottom: 24px;}
 	.info-list ul li{ position: relative; font-size: 14px; padding-left: 10px; background: url('../images/dian.jpg') left 13px no-repeat; height: 28px; line-height: 28px; overflow: hidden;}
@@ -249,6 +250,24 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.gaoshou-content .tab-content-box{ min-height: 432px; _height: 432px;}
 	.table-pagination .pagination-content{ margin: 20px 15px 0;}
 
+
+
+
+	/* web maket
+	-------------------------------------------------------------------------------- */
+	.main-max-module{ background: white; padding-bottom: 15px; margin-bottom: 10px; border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7;}
+	.info-picture-module{ padding-top: 30px;}
+	.info-picture-module ul { font-size: 0;}
+	.info-picture-module ul li{ float: left;width: 220px; margin: 0 15px; margin: 0 14px\9; padding-bottom: 20px; _display: inline;}
+	.info-picture-module ul li h3{ margin: 15px 0 0; font-size: 0; font-weight: normal; line-height: 26px; height: 26px; text-align: center; background-color: #f9f9f9;}
+	.info-picture-module ul li h3 a{ font-size: 12px; color: #666;}
+	.table-module tr:hover{background-color: #f9f9f9;}
+	.table-module tr:hover .bd-white{background-color: #fff;}
+	.table-module tr th{ border-bottom: 1px solid #dcdcdc; height: 34px; line-height: 34px; vertical-align: middle; font-size: 12px; font-weight: normal; background-color: #f9f9f9;}
+	.table-module tr td{ border-bottom: 1px solid #ddd; font-size: 12px; height: 44px; line-height: 16px; vertical-align: middle;}
+	.table-module tr .bd-white{ border-bottom: 1px solid white;}
+	.table-module tr td a:hover{color: #ca1612; text-decoration: underline;}
+	
 
 
 
