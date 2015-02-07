@@ -37,7 +37,7 @@
 								<th align="left" width="120">金币数</th>
 								<th align="left" width="280">最新支持他的粉丝</th>
 								<th align="left" width="140">总收益率</th>
-								<th align="right" width="100">所在地区</th>
+								<th align="left" width="100">所在地区</th>
 								<th width="15">&nbsp;</th>
 							</tr>
 							<tr>
@@ -56,7 +56,7 @@
 								<td align="left">1000</td>
 								<td align="left">我是谁谁谁要送给你啥啥啥</td>
 								<td align="left">10.00</td>
-								<td align="right">北京</td>
+								<td align="left">北京</td>
 								<td width="15" class="bd-white">&nbsp;</td>
 							</tr>
 							<tr>
@@ -75,7 +75,7 @@
 								<td align="left">1000</td>
 								<td align="left">我是谁谁谁要送给你啥啥啥</td>
 								<td align="left">10.00</td>
-								<td align="right">北京</td>
+								<td align="left">北京</td>
 								<td width="15" class="bd-white">&nbsp;</td>
 							</tr>
 						</table>
