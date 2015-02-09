@@ -452,14 +452,21 @@
 	$(function(){
 		//right-ol
 		function olHover(){
+			$('.right-ol li:first').find('.ol-content').show();
 			$('.right-ol li').hover(function(){
 				$(this)
 				.css({"border-color":"#ddd","background-color":"#f9f9f9"})
 				.find('.ol-content').show();
-			},function(){
-				$(this)
+				$(this).siblings()
 				.css({"border-color":"#fff","background-color":"#fff"})
 				.find('.ol-content').hide();
+			},function(){
+				$(this)
+				.css({"border-color":"#ddd","background-color":"#f9f9f9"})
+				.find('.ol-content').show()
+				.siblings().find('.ol-content').hide();
+				$(this).siblings()
+				.css({"border-color":"#fff","background-color":"#fff"})
 			})
 		}
 		olHover();

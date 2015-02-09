@@ -1,0 +1,363 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--#include file="inc/common.shtml"--> 
+<script type="text/javascript" src="js/scorll-list.js"></script>
+<title>他的主页</title>
+<!--#include file="inc/ie.shtml"-->
+</head>
+
+<body>
+
+<!-- nav -->
+<div class="nav">模拟炒股大赛</div> 
+
+<!-- main -->
+<div class="main">
+	<div class="main-content-inner">
+		<!-- 个人信息及滚动列表 -->
+		<div class="content-module two-bar-module clearfix">
+			<div class="leftbar-module">
+				<div class="leftbar-inner">
+					<div class="head-portrait">
+						<a class="face-link" href="javascript:void(0)">
+							<img class="face-img" src="images/face.jpg">
+							<div class="portrait-bg">
+								<img src="images/circle.png">
+							</div>
+						</a>
+						<h2>
+							<a href="javascript:void(0)">李木子</a>
+						</h2>
+						<div class="focus-box">
+							<a href="javascript:void(0)"><i class="icon-heart"></i>已关注<!-- 点击关注 --></a>
+						</div>
+					</div>
+					<div class="his-num">
+						<p>他的积分<em>10000</em>分</p>
+						<p>他的元宝<em>10000</em>个</p>
+						<p>他的财富<em>99999999</em>金币</p>
+					</div>
+				</div>
+				<!-- 订阅策略 -->
+				<div class="leftbar-inner">
+					<div class="bar-title">
+						<h2>
+							<span>策略排行榜</span>
+						</h2>
+					</div>
+
+					<div class="list-module">
+						<div class="black-div">&nbsp;</div>
+						<ul class="list-ul-border">
+							<li class="clearfix">
+								<a class="list-module-img" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<div class="list-module-text">
+									<h4>
+										<a href="javascript:void(0)">我是策略我很牛</a>
+									</h4>
+									<p>
+										<a href="javascript:void(0)">我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介...</a>
+									</p>
+								</div>
+							</li>
+							<li class="clearfix">
+								<a class="list-module-img" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<div class="list-module-text">
+									<h4>
+										<a href="javascript:void(0)">我是策略我很牛</a>
+									</h4>
+									<p>
+										<a href="javascript:void(0)">我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介...</a>
+									</p>
+								</div>
+							</li>
+							<li class="clearfix">
+								<a class="list-module-img" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<div class="list-module-text">
+									<h4>
+										<a href="javascript:void(0)">我是策略我很牛</a>
+									</h4>
+									<p>
+										<a href="javascript:void(0)">我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介...</a>
+									</p>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+				<!-- 他的关注 -->
+				<div class="leftbar-inner">
+					<div class="bar-title">
+						<h2>
+							<span>他的关注</span>
+							<a href="javascript:void(0)"></a>
+						</h2>
+					</div>
+
+					<div class="list-module">
+						<div class="black-div">&nbsp;</div>
+						<ul class="list-ul-border">
+							<li class="clearfix">
+								<a class="list-module-img" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<div class="list-module-text">
+									<h4>
+										<a href="javascript:void(0)">BOYDD2013</a>
+									</h4>
+									<p>
+										<a href="javascript:void(0)">我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介...</a>
+									</p>
+								</div>
+							</li>
+							<li class="clearfix">
+								<a class="list-module-img" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<div class="list-module-text">
+									<h4>
+										<a href="javascript:void(0)">BOYDD2013</a>
+									</h4>
+									<p>
+										<a href="javascript:void(0)">我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介...</a>
+									</p>
+								</div>
+							</li>
+							<li class="clearfix">
+								<a class="list-module-img" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<div class="list-module-text">
+									<h4>
+										<a href="javascript:void(0)">BOYDD2013</a>
+									</h4>
+									<p>
+										<a href="javascript:void(0)">我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介...</a>
+									</p>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+
+				<!-- 最近访客 -->
+				<div class="leftbar-inner">
+					<div class="bar-title">
+						<h2>
+							<span>最近访客</span>
+							<a href="javascript:void(0)"></a>
+						</h2>
+					</div>
+
+					<div class="list-module">
+						<ul class="list-img-box clearfix">
+							<li>
+								<a class="list-img-link" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<h4>
+									<a href="javascript:void(0)">beauty</a>
+								</h4>
+							</li>
+							<li>
+								<a class="list-img-link" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<h4>
+									<a href="javascript:void(0)">beauty</a>
+								</h4>
+							</li>
+							<li>
+								<a class="list-img-link" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<h4>
+									<a href="javascript:void(0)">beauty</a>
+								</h4>
+							</li>
+							<li>
+								<a class="list-img-link" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<h4>
+									<a href="javascript:void(0)">beauty</a>
+								</h4>
+							</li>
+							<li>
+								<a class="list-img-link" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<h4>
+									<a href="javascript:void(0)">beauty</a>
+								</h4>
+							</li>
+							<li>
+								<a class="list-img-link" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<h4>
+									<a href="javascript:void(0)">beauty</a>
+								</h4>
+							</li>
+							<li>
+								<a class="list-img-link" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<h4>
+									<a href="javascript:void(0)">beauty</a>
+								</h4>
+							</li>
+							<li>
+								<a class="list-img-link" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<h4>
+									<a href="javascript:void(0)">beauty</a>
+								</h4>
+							</li>
+							<li>
+								<a class="list-img-link" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<h4>
+									<a href="javascript:void(0)">beauty</a>
+								</h4>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="rightbar-module clearfix">
+				<!-- 他的持仓 -->
+				<div class="main-max-module">
+					<div class="his-chicang">
+						<div class="main-title clearfix">
+							<h2 class="clearfix">
+								<em>他的持仓</em>
+								<span class="border-angle"></span>
+								<a href="javascript:void(0)" class="more-dian"></a>
+							</h2>
+						</div>
+						<div class="table-max-module">
+							<table width="100%" cellspacing="0" cellpadding="0" border="0" class="table-module">
+								<!-- 显示4行 -->
+								<tbody><tr>
+									<th width="15">&nbsp;</th>
+									<th align="left">股票名称</th>
+									<th width="65">股票代码</th>
+									<th width="65">股票余额</th>
+									<th width="65">可用余额</th>
+									<th width="65">成本价</th>
+									<th width="60">现价</th>
+									<th width="65">盈亏比例%</th>
+									<th width="65">盈亏金额</th>
+									<th width="65">交易市场</th>
+									<th width="70">备注</th>
+									<th width="15">&nbsp;</th>
+								</tr>
+								<tr>
+									<td width="15" class="bd-white">&nbsp;</td>
+									<td align="left">
+										<a href="javascript:void(0)">我是股票</a>
+									</td>
+									<td align="center">600143</td>
+									<td align="center">3000.00</td>
+									<td align="center">3000.00</td>
+									<td align="center">0.79</td>
+									<td align="center">0.81</td>
+									<td align="center">14.50</td>
+									<td align="center">184.7</td>
+									<td align="center">泸户A股</td>
+									<td align="center">
+										<a class="table-warning-btn" href="javascript:void(0)">查看道具</a>
+									</td>
+									<td width="15" class="bd-white">&nbsp;</td>
+								</tr>
+							</tbody></table>
+						</div>
+					</div>
+				</div>
+
+				<!-- 他的历史成交 -->
+				<div class="main-max-module">
+					<div class="his-chicang">
+						<div class="main-title clearfix">
+							<h2 class="clearfix">
+								<em>他的历史成交</em>
+								<span class="border-angle"></span>
+								<a href="javascript:void(0)" class="more-dian"></a>
+							</h2>
+						</div>
+						<div class="table-max-module">
+							<table width="100%" cellspacing="0" cellpadding="0" border="0" class="table-module">
+								<!-- 显示4行 -->
+								<tbody><tr>
+									<th width="15">&nbsp;</th>
+									<th align="left">成交日期</th>
+									<th width="65">证券代码</th>
+									<th width="65">证券名称</th>
+									<th width="65">操作</th>
+									<th width="65">成交数量</th>
+									<th width="60">成交均价</th>
+									<th width="65">成交金额</th>
+									<th width="65">合同编号</th>
+									<th width="65">手续费</th>
+									<th width="70">印花税</th>
+									<th width="">其他杂费</th>
+									<th width="">发生金额</th>
+									<th width="">交易市场</th>
+									<th width="15">&nbsp;</th>
+								</tr>
+								<tr>
+									<td width="15" class="bd-white">&nbsp;</td>
+									<td align="left">09.12</td>
+									<td align="center">600143</td>
+									<td align="center">
+										<a href="javascript:void(0)">我是证券</a>
+									</td>
+									<td align="center">
+										<a href="javascript:void(0)">操作</a>
+									</td>
+									<td align="center">24</td>
+									<td align="center">0.81</td>
+									<td align="center">14.50</td>
+									<td align="center">159068</td>
+									<td align="center">12.57</td>
+									<td align="center">3934.02</td>
+									<td align="center">10000</td>
+									<td align="center">1245</td>
+									<td align="center">
+										<a href="javascript:void(0)">泸户A股</a>
+									</td>
+									<td width="15" class="bd-white">&nbsp;</td>
+								</tr>
+							</tbody></table>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- footer -->
+<div class="footer">
+	<div class="footer-inner">
+		footer
+	</div>
+</div>
+
+
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>
