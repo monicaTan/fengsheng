@@ -263,7 +263,7 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.info-picture-module ul li h3 a{ font-size: 12px; color: #666;}
 	.table-module tr:hover{background-color: #f9f9f9;}
 	.table-module tr:hover .bd-white{background-color: #fff;}
-	.table-module tr th{ border-bottom: 1px solid #dcdcdc; height: 34px; line-height: 34px; vertical-align: middle; font-size: 12px; font-weight: normal; background-color: #f9f9f9;}
+	.table-module tr th{ border-bottom: 1px solid #dcdcdc; height: 34px; line-height: 16px; vertical-align: middle; font-size: 12px; font-weight: normal; background-color: #f9f9f9;}
 	.table-module tr td{ border-bottom: 1px solid #ddd; font-size: 12px; height: 44px; line-height: 16px; vertical-align: middle;}
 	.table-module tr .bd-white{ border-bottom: 1px solid white;}
 	.table-module tr td a:hover{color: #ca1612; text-decoration: underline;}
@@ -335,10 +335,23 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.list-img-box li{ float: left; width: 80px; margin: 0 15px 0 0; padding-bottom: 12px; text-align: center;*display: inline;}
 	.list-img-box li h4{ font-weight: normal;}
 	.list-img-box li h4 a{ font-weight: normal; font-size: 12px; color: #666;}
+	.list-img-box li h4 a:hover{color: #ca1612;}
 	.list-img-box .list-img-link{font-size: 0; line-height: 0; width: 78px; height: 78px; border: 1px solid #ddd; display: inline-block;}
 	.list-img-box .list-img-link img{ width: 100%; height: 100%;}
 	.his-chicang .table-warning-btn{ background-color: #ca1612; color: white; display: inline-block; padding: 4px 8px; border-radius: 4px;}
 	.his-chicang .table-warning-btn:hover{ color: white;}
+	.his-history table tr th{ height: 47px;}
+	.his-view .inset-text h2 a{ font-weight: bold;}
+	.his-view .list-box-last{ padding-bottom: 20px; margin-bottom: 0; border-bottom: 0;}
+	.view-module{ padding-bottom: 6px;}
+	.text-time .eye-icon{ background: url('../images/eye.jpg') left center no-repeat; margin-left: 30px;}
+	.text-time .wifi-icon{ background: url('../images/wifi_03.jpg') left center no-repeat; padding-left: 16px;}
+	.history-content{ padding: 15px 0 0;}
+	.history-content ul li{ float: left; width: 199px; padding: 0 15px 15px; text-align: left;}
+	.history-content ul li a{ display: inline-block; width: 192px; height: 30px; line-height: 30px; border: 1px solid #ddd; border-radius: 4px; text-align: center; font-size: 12px;}
+	.history-content ul li a em{ font-style: normal; padding-right: 20px;}
+
+
 
 	/* pagination
 	-------------------------------------------------------------------------------- */

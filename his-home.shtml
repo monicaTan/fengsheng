@@ -250,8 +250,8 @@
 						</div>
 						<div class="table-max-module">
 							<table width="100%" cellspacing="0" cellpadding="0" border="0" class="table-module">
-								<!-- 显示4行 -->
-								<tbody><tr>
+								<!-- 加标题显示5行 -->
+								<tr>
 									<th width="15">&nbsp;</th>
 									<th align="left">股票名称</th>
 									<th width="65">股票代码</th>
@@ -283,14 +283,14 @@
 									</td>
 									<td width="15" class="bd-white">&nbsp;</td>
 								</tr>
-							</tbody></table>
+							</table>
 						</div>
 					</div>
 				</div>
 
 				<!-- 他的历史成交 -->
 				<div class="main-max-module">
-					<div class="his-chicang">
+					<div class="his-history">
 						<div class="main-title clearfix">
 							<h2 class="clearfix">
 								<em>他的历史成交</em>
@@ -300,22 +300,22 @@
 						</div>
 						<div class="table-max-module">
 							<table width="100%" cellspacing="0" cellpadding="0" border="0" class="table-module">
-								<!-- 显示4行 -->
-								<tbody><tr>
+								<!-- 加标题显示5行 -->
+								<tr>
 									<th width="15">&nbsp;</th>
-									<th align="left">成交日期</th>
-									<th width="65">证券代码</th>
-									<th width="65">证券名称</th>
-									<th width="65">操作</th>
-									<th width="65">成交数量</th>
-									<th width="60">成交均价</th>
-									<th width="65">成交金额</th>
-									<th width="65">合同编号</th>
-									<th width="65">手续费</th>
-									<th width="70">印花税</th>
-									<th width="">其他杂费</th>
-									<th width="">发生金额</th>
-									<th width="">交易市场</th>
+									<th width="40" align="left">成交<br/>日期</th>
+									<th width="50">证券<br/>代码</th>
+									<th>证券<br/>名称</th>
+									<th width="50">操作</th>
+									<th width="50">成交<br/>数量</th>
+									<th width="60">成交<br/>均价</th>
+									<th width="50">成交<br/>金额</th>
+									<th width="50">合同<br/>编号</th>
+									<th width="50">手续费</th>
+									<th width="50">印花税</th>
+									<th width="50">其他<br/>杂费</th>
+									<th width="50">发生<br/>金额</th>
+									<th width="50">交易<br/>市场</th>
 									<th width="15">&nbsp;</th>
 								</tr>
 								<tr>
@@ -341,7 +341,156 @@
 									</td>
 									<td width="15" class="bd-white">&nbsp;</td>
 								</tr>
-							</tbody></table>
+							</table>
+						</div>
+					</div>
+				</div>
+
+				<!-- 他的观点 -->
+				<div class="main-max-module view-module">
+					<div class="his-view">
+						<div class="main-title clearfix">
+							<h2 class="clearfix">
+								<em>他的观点</em>
+								<span class="border-angle"></span>
+							</h2>
+						</div>
+						<div class="view-content">
+							<!-- 有配图 -->
+							<div class="list-box">
+								<div class="clearfix">
+									<div class="inset">
+										<a href="javascript:void(0)">
+											<img alt="178x108" src="images/img_05.jpg">
+										</a>
+									</div>
+									<div class="inset-text">
+										<h2>
+											<a href="javascript:void(0)"><span>[图说财经]</span>揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际</a>
+										</h2>
+										<p class="text-summary">
+											<!-- 注意限制字数控制在两行 大概50字 -->
+											安邦保险已是民生银行（600016）第一大股东，持有其18.35%的A股流通股。知情人说，安邦保现会计并表，民生银行公司... <a href="javascript:void(0)">［查看全文］</a>
+										</p>
+										<div class="text-time">
+											<span>2014-09-13  14:38</span>
+											<a href="javascript:void(0)">支持</a>
+											<span class="eye-icon">100人阅读</span>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<!-- 无配图 -->
+							<!-- 最后一个list-box添加class="list-box-last" -->
+							<div class="list-box list-no-img list-box-last">
+								<div class="clearfix">
+									<div class="inset-text">
+										<h2>
+											<a href="javascript:void(0)"><span>[图说财经]</span>揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际</a>
+										</h2>
+										<p class="text-summary">
+											<!-- 注意限制字数控制在两行 大概50字 -->
+											安邦保险已是民生银行（600016）第一大股东，持有其18.35%的A股流通股。知情人说，安邦保现会计并表，民生银行公司... <a href="javascript:void(0)">［查看全文］</a>
+										</p>
+										<div class="text-time">
+											<span>2014-09-13  14:38</span>
+											<a href="javascript:void(0)">支持</a>
+											<span class="eye-icon">100人阅读</span>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- 他的策略 -->
+				<div class="main-max-module view-module">
+					<div class="his-view">
+						<div class="main-title clearfix">
+							<h2 class="clearfix">
+								<em>他的策略</em>
+								<span class="border-angle"></span>
+							</h2>
+						</div>
+						<div class="view-content">
+							<!-- 有配图 -->
+							<div class="list-box">
+								<div class="clearfix">
+									<div class="inset">
+										<a href="javascript:void(0)">
+											<img alt="178x108" src="images/img_05.jpg">
+										</a>
+									</div>
+									<div class="inset-text">
+										<h2>
+											<a href="javascript:void(0)"><span>[图说财经]</span>揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际</a>
+										</h2>
+										<p class="text-summary">
+											<!-- 注意限制字数控制在两行 大概50字 -->
+											安邦保险已是民生银行（600016）第一大股东，持有其18.35%的A股流通股。知情人说，安邦保现会计并表，民生银行公司... <a href="javascript:void(0)">［查看全文］</a>
+										</p>
+										<div class="text-time">
+											<span>2014-09-13  14:38</span>
+											<a class="wifi-icon" href="javascript:void(0)">订阅</a>
+											<span class="eye-icon">100个牛头</span>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<!-- 无配图 -->
+							<!-- 最后一个list-box添加class="list-box-last" -->
+							<div class="list-box list-no-img list-box-last">
+								<div class="clearfix">
+									<div class="inset-text">
+										<h2>
+											<a href="javascript:void(0)"><span>[图说财经]</span>揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际揭秘安邦国际</a>
+										</h2>
+										<p class="text-summary">
+											<!-- 注意限制字数控制在两行 大概50字 -->
+											安邦保险已是民生银行（600016）第一大股东，持有其18.35%的A股流通股。知情人说，安邦保现会计并表，民生银行公司... <a href="javascript:void(0)">［查看全文］</a>
+										</p>
+										<div class="text-time">
+											<span>2014-09-13  14:38</span>
+											<a class="wifi-icon" href="javascript:void(0)">订阅</a>
+											<span class="eye-icon">100个牛头</span>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- 他的直播 -->
+				<div class="main-max-module">
+					<div class="his-view">
+						<div class="main-title clearfix">
+							<h2 class="clearfix">
+								<em>他的直播</em>
+								<span class="border-angle"></span>
+							</h2>
+						</div>
+						<div class="history-content">
+							<ul class="clearfix">
+								<li>
+									<a href="javascript:void(0)"><em>2014年12月30日</em>直播记录</a>
+								</li>
+								<li>
+									<a href="javascript:void(0)"><em>2014年12月30日</em>直播记录</a>
+								</li>
+								<li>
+									<a href="javascript:void(0)"><em>2014年12月30日</em>直播记录</a>
+								</li>
+								<li>
+									<a href="javascript:void(0)"><em>2014年12月30日</em>直播记录</a>
+								</li>
+								<li>
+									<a href="javascript:void(0)"><em>2014年12月30日</em>直播记录</a>
+								</li>
+							</ul>
 						</div>
 					</div>
 				</div>
