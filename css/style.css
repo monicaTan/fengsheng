@@ -326,9 +326,11 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.list-module-img { float: left; display: inline-block; width: 78px; height: 78px; border: 1px solid #ddd; font-size: 0; line-height: 0;}
 	.list-module-img img{ width: 78px; height: 78px;}
 	.list-module-text{ width: 180px; float: right;}
-	.list-module-text h4{ font-weight: normal; font-size: 14px; line-height: 24px;}
+	.list-module-text h4{ font-weight: normal; font-size: 14px;}
+	.list-module-text h4 a{display: inline-block; height: 24px; width: 180px;white-space: nowrap; text-overflow:ellipsis; overflow: hidden;}
 	.list-module-text p { font-size: 12px;}
 	.list-module-text p a{ font-size: 12px; color: #666; line-height: 18px;}
+	.list-module-text .list-text-block a{ display: inline-block; height:53px;width: 180px; overflow: hidden;}
 	.list-module-text h4 a:hover,
 	.list-module-text p a:hover{ color: #ca1612;}
 	.list-img-box{ margin: 15px 0 0 15px; padding-bottom: 4px;}
@@ -347,12 +349,66 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.text-time .eye-icon{ background: url('../images/eye.jpg') left center no-repeat; margin-left: 30px;}
 	.text-time .wifi-icon{ background: url('../images/wifi_03.jpg') left center no-repeat; padding-left: 16px;}
 	.history-content{ padding: 15px 0 0;}
-	.history-content ul li{ float: left; width: 199px; padding: 0 15px 15px; text-align: left;}
-	.history-content ul li a{ display: inline-block; width: 192px; height: 30px; line-height: 30px; border: 1px solid #ddd; border-radius: 4px; text-align: center; font-size: 12px;}
+	.history-content ul li{ float: left; width: 199px; padding: 0 15px 15px; padding: 0 14px 15px\9; text-align: left;}
+	.history-content ul li a{ display: inline-block; width: 192px; height: 30px; line-height: 30px; border: 1px solid #ddd; border-radius: 4px; text-align: center; font-size: 12px; float: left;}
 	.history-content ul li a em{ font-style: normal; padding-right: 20px;}
+	.history-content ul li a:hover{ background-color: #ca1612; border-color: #ca1612; color: white;}
+	.his-info{ padding: 15px 15px 0; padding: 15px 14px 0\9;}
+	.his-info-left{ float: left; width: 364px;}
+	.his-info-left ul li{ display: inline-block; width: 150px; float: left; width: 167px; float: left; padding: 0 15px 10px 0; font-size: 14px; color: #000;}
+	.his-info-left ul li em{ font-style: normal; color: #666;}
+	.his-info-left ul li span{color: #ca1612;}
+	.his-info-left ul li i{color: #016e0b; font-style: normal;}
+	.share-info{ padding-top: 28px;}
+	.share-info .daoju{ display: inline-block; font-size: 14px; color: white; height: 30px; line-height: 30px; text-align: center; background-color: #ca1612; width: 110px; float: left; margin-left: 15px;}
+	.share-info .daoju:hover{ text-decoration: underline;}
+	.share-module{ width: 110px; padding-top: 7px; float: right; font-size: 0; line-height: 16px; margin-right: 40px;}
+	.share-module span{ font-size: 14px; color: #999; float: left;}
+	.share-module .sina,
+	.share-module .weibo{ float: left; display: inline-block; width: 16px; height: 16px; line-height: 16px; background: url('../images/share.jpg') left center no-repeat;}
+	.share-module .sina{ margin-right: 6px;}
+	.share-module .weibo{ background-position: -22px center;}
+	.his-info-right{ float: right; width: 294px;}
+	.his-info-right p{font-size: 14px; margin-bottom: 6px; width: 294px; height: 16px; white-space: nowrap; text-overflow:ellipsis; overflow: hidden;}
+	.info-img{ padding-top: 30px;}
+	.view-module .inset{ margin-right: 10px\9;}
 
 
 
+	/* gaoshou-celve
+	-------------------------------------------------------------------------------- */
+	.celve-container{ padding: 15px 0 0 15px;}
+	.celve-container .pagination-content{ margin: 0 15px 0 0;}
+	.celve-container ul li{ float: left; width: 321px;margin-right: 15px; padding-bottom: 30px;}
+	.peitu{ display: inline-block; width: 78px; height: 78px; line-height: 0; border: 1px solid #ddd; float: left;}
+	.peitu img{ width: 100%; height: 100%;}
+	.img-right{ width: 232px; float: right; font-size: 12px;}
+	.img-right h4 a{ width: 232px; font-size: 14px; font-weight: bold; height: 16px; white-space: nowrap; text-overflow:ellipsis;}
+	.img-right h4 a:hover{color: #ca1612;}
+	.img-right p{ line-height: 18px; color: #666;}
+	.img-right .text-box{height: 232px; height: 36px; overflow: hidden;}
+	.small-info{padding-bottom: 4px;}
+	.small-info span{width: 125px; float: left;}
+	.small-info a{width: 87px; color: #999; float: right;}
+	.small-info span,
+	.small-info a{ display: inline-block; height: 24px; line-height: 24px; white-space: nowrap; text-overflow:ellipsis; overflow: hidden;}
+	.small-info a:hover{color: #ca1612;}
+	.small-info span em{ font-size: 14px; color: #ca1612;}
+	.chakan{ display: inline-block; height: 16px; line-height: 16px; padding: 0 16px; border: 1px solid #ca1612; border-radius: 2px; color: #ca1612; margin-top: 5px;}
+	.chakan:hover{ color: white; background-color: #ca1612;}
+	.main-right-inner .black-div{ position: relative; z-index: 2; height: 1px; background-color: white; line-height: 0; font-size: 0;}
+	.main-right-inner .list-ul-border{ position: relative; z-index: 1;}
+	.list-module-text .dongtai-text{ width: 180px; height: 36px; overflow: hidden; text-align: justify;}
+	.list-module-text .dongtai-text a{ color: #ca1612;}
+	.list-module-text .dongtai-text .name-text{ color: #0f5fb1;}
+	.time-text{ text-align: right;}
+	.time-text span{ text-align: right; background: url('../images/icon_04.jpg') left center no-repeat; padding-left: 20px;line-height: 18px; color: #999;}
+	.time-text span em{ font-style: normal; padding-right: 10px;}
+	.customer-service .service-img{ font-size: 0; line-height: 0;}
+	.statement-module{ padding: 20px 15px 20px; border-top: 2px solid #e90408; background-color: #fdfafa;}
+	.statement-module h2{ background: url('../images/bg_03.jpg') center center no-repeat; text-align: center; font-size: 16px; font-weight: normal; margin-bottom: 20px;}
+	.statement-module p{ font-size: 12px; line-height: 22px; color: #666; text-indent: 24px; text-align: justify;}
+ 
 	/* pagination
 	-------------------------------------------------------------------------------- */
 	.pagination-content{ text-align: center; font-size: 12px;padding: 20px 0; border-top: 1px solid #ddd;}

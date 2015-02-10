@@ -40,7 +40,7 @@
 						<p>他的财富<em>99999999</em>金币</p>
 					</div>
 				</div>
-				<!-- 订阅策略 -->
+				<!-- 策略排行榜 -->
 				<div class="leftbar-inner">
 					<div class="bar-title">
 						<h2>
@@ -59,7 +59,7 @@
 									<h4>
 										<a href="javascript:void(0)">我是策略我很牛</a>
 									</h4>
-									<p>
+									<p class="list-text-block">
 										<a href="javascript:void(0)">我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介...</a>
 									</p>
 								</div>
@@ -72,7 +72,7 @@
 									<h4>
 										<a href="javascript:void(0)">我是策略我很牛</a>
 									</h4>
-									<p>
+									<p class="list-text-block">
 										<a href="javascript:void(0)">我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介...</a>
 									</p>
 								</div>
@@ -85,7 +85,7 @@
 									<h4>
 										<a href="javascript:void(0)">我是策略我很牛</a>
 									</h4>
-									<p>
+									<p class="list-text-block">
 										<a href="javascript:void(0)">我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介...</a>
 									</p>
 								</div>
@@ -114,7 +114,7 @@
 									<h4>
 										<a href="javascript:void(0)">BOYDD2013</a>
 									</h4>
-									<p>
+									<p class="list-text-block">
 										<a href="javascript:void(0)">我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介...</a>
 									</p>
 								</div>
@@ -127,7 +127,7 @@
 									<h4>
 										<a href="javascript:void(0)">BOYDD2013</a>
 									</h4>
-									<p>
+									<p class="list-text-block">
 										<a href="javascript:void(0)">我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介...</a>
 									</p>
 								</div>
@@ -140,7 +140,7 @@
 									<h4>
 										<a href="javascript:void(0)">BOYDD2013</a>
 									</h4>
-									<p>
+									<p class="list-text-block">
 										<a href="javascript:void(0)">我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介我是简介...</a>
 									</p>
 								</div>
@@ -238,6 +238,42 @@
 				</div>
 			</div>
 			<div class="rightbar-module clearfix">
+				<div class="main-max-module">
+					<div class="his-info clearfix">
+						<div class="his-info-left">
+							<ul class="clearfix">
+								<li><em>账户属性：</em>模拟账户</li>
+								<li><em>起始日期：</em>2015-02-05</li>
+								<li><em>比赛排名：</em><span>1,000,000</span></li>
+								<li><em>总收益率：</em><span>200.00%</span></li>
+								<li>&nbsp;</li>
+								<li>&nbsp;</li>
+								<li><em>总资产：</em>1,000,000</li>
+								<li><em>持股市值：</em>162,111,111</li>
+								<li><em>可用资金：</em>5,456,111</li>
+								<li><em>当前仓位：</em>96.6%</li>
+								<li><em>账户盈亏：</em><span>5,456,11</span></li>
+								<li><em>盈亏比例：</em><i>-0.56%</i></li>
+							</ul>
+							<div class="share-info clearfix">
+								<a class="daoju" href="javascript:void(0)">送道具</a>
+								<div class="share-module clearfix">
+									<span>分享到：</span>
+									<a class="sina" href="javascript:void(0)"></a>
+									<a class="weibo" href="javascript:void(0)"></a>
+								</div>
+							</div>
+						</div>
+						<div class="his-info-right">
+							<p>巴菲特：在别人恐惧时我贪婪，在别人贪婪时我</p>
+							<p>巴菲特：在别人恐惧时我贪婪，在别人贪婪时我</p>
+							<div class="info-img">
+								<img src="images/dss.jpg" alt="294x139">
+							</div>
+						</div>
+					</div>
+				</div>
+
 				<!-- 他的持仓 -->
 				<div class="main-max-module">
 					<div class="his-chicang">
@@ -280,6 +316,24 @@
 									<td align="center">泸户A股</td>
 									<td align="center">
 										<a class="table-warning-btn" href="javascript:void(0)">查看道具</a>
+									</td>
+									<td width="15" class="bd-white">&nbsp;</td>
+								</tr>
+								<tr>
+									<td width="15" class="bd-white">&nbsp;</td>
+									<td align="left">
+										<a href="javascript:void(0)">我是股票</a>
+									</td>
+									<td align="center">600143</td>
+									<td align="center">3000.00</td>
+									<td align="center">3000.00</td>
+									<td align="center">0.79</td>
+									<td align="center">0.81</td>
+									<td align="center">14.50</td>
+									<td align="center">184.7</td>
+									<td align="center">泸户A股</td>
+									<td align="center">
+										<a class="table-warning-btn" href="javascript:void(0)">我要跟买</a>
 									</td>
 									<td width="15" class="bd-white">&nbsp;</td>
 								</tr>

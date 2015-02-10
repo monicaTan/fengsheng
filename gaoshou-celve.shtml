@@ -1,0 +1,446 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--#include file="inc/common.shtml"--> 
+<title>高手策略</title>
+<!--#include file="inc/ie.shtml"-->
+</head>
+
+<body>
+
+<!-- nav -->
+<div class="nav">模拟炒股大赛</div> 
+
+<!-- main -->
+<div class="main">
+	<div class="main-content-inner">
+		<div class="content-bar clearfix">
+			<div class="main-left-bar">
+				<div class="main-left-inner">
+					<div class="gaoshou-content">
+						<div class="tab-container">
+							<ul class="tab-title clearfix">
+								<li class="active">
+									<a href="javascript:void(0)">热门策略</a>
+								</li>
+								<li>
+									<a href="javascript:void(0)">最新策略</a>
+								</li>
+							</ul>
+							<div class="tab-content-box">
+								<!-- 热门策略 -->
+								<div class="tab-content tab-active">
+									<div class="celve-container">
+										<!-- 每页显示28个li -->
+										<ul class="clearfix">
+											<li>
+												<div class="clearfix">
+													<a class="peitu" href="javascript:void(0)">
+														<img src="images/face.jpg" alt="78x78">
+													</a>
+													<div class="img-right">
+														<h4>
+															<a href="javascript:void(0)">12月投资锦囊锦投资锦囊锦...</a>
+														</h4>
+														<p class="small-info clearfix">
+															<span>已卖出<em>100000</em>金币</span>
+															<a href="javascript:void(0)">这是人名这是人名</a>
+														</p>
+														<p class="text-box">
+															11月锦囊最高涨幅达到50%，不要错过12月投资锦囊摆满摆满摆满白吗不能满... 
+														</p>
+														<a class="chakan" href="javascript:void(0)">查看</a>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div class="clearfix">
+													<a class="peitu" href="javascript:void(0)">
+														<img src="images/face.jpg" alt="78x78">
+													</a>
+													<div class="img-right">
+														<h4>
+															<a href="javascript:void(0)">12月投资锦囊锦投资锦囊锦...</a>
+														</h4>
+														<p class="small-info clearfix">
+															<span>已卖出<em>100000</em>金币</span>
+															<a href="javascript:void(0)">这是人名这是人名</a>
+														</p>
+														<p class="text-box">
+															11月锦囊最高涨幅达到50%，不要错过12月投资锦囊摆满摆满摆满白吗不能满... 
+														</p>
+														<a class="chakan" href="javascript:void(0)">查看</a>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div class="clearfix">
+													<a class="peitu" href="javascript:void(0)">
+														<img src="images/face.jpg" alt="78x78">
+													</a>
+													<div class="img-right">
+														<h4>
+															<a href="javascript:void(0)">12月投资锦囊锦投资锦囊锦...</a>
+														</h4>
+														<p class="small-info clearfix">
+															<span>已卖出<em>100000</em>金币</span>
+															<a href="javascript:void(0)">这是人名这是人名</a>
+														</p>
+														<p class="text-box">
+															11月锦囊最高涨幅达到50%，不要错过12月投资锦囊摆满摆满摆满白吗不能满... 
+														</p>
+														<a class="chakan" href="javascript:void(0)">查看</a>
+													</div>
+												</div>
+											</li>
+										</ul>
+										<div class="table-pagination">
+											<div class="pagination-content clearfix">
+												分页
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<!-- 最新策略 -->
+								<div class="tab-content">
+									<div class="celve-container">
+										<!-- 每页显示28个li -->
+										<ul class="clearfix">
+											<li>
+												<div class="clearfix">
+													<a class="peitu" href="javascript:void(0)">
+														<img src="images/face.jpg" alt="78x78">
+													</a>
+													<div class="img-right">
+														<h4>
+															<a href="javascript:void(0)">锦囊锦投资锦囊锦...</a>
+														</h4>
+														<p class="small-info clearfix">
+															<span>已卖出<em>100000</em>金币</span>
+															<a href="javascript:void(0)">这是人名这是人名</a>
+														</p>
+														<p class="text-box">
+															11月锦囊最高涨幅达到50%，不要错过12月投资锦囊摆满摆满摆满白吗不能满... 
+														</p>
+														<a class="chakan" href="javascript:void(0)">查看</a>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div class="clearfix">
+													<a class="peitu" href="javascript:void(0)">
+														<img src="images/face.jpg" alt="78x78">
+													</a>
+													<div class="img-right">
+														<h4>
+															<a href="javascript:void(0)">12月投资锦囊锦投资锦囊锦...</a>
+														</h4>
+														<p class="small-info clearfix">
+															<span>已卖出<em>100000</em>金币</span>
+															<a href="javascript:void(0)">这是人名这是人名</a>
+														</p>
+														<p class="text-box">
+															11月锦囊最高涨幅达到50%，不要错过12月投资锦囊摆满摆满摆满白吗不能满... 
+														</p>
+														<a class="chakan" href="javascript:void(0)">查看</a>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div class="clearfix">
+													<a class="peitu" href="javascript:void(0)">
+														<img src="images/face.jpg" alt="78x78">
+													</a>
+													<div class="img-right">
+														<h4>
+															<a href="javascript:void(0)">12月投资锦囊锦投资锦囊锦...</a>
+														</h4>
+														<p class="small-info clearfix">
+															<span>已卖出<em>100000</em>金币</span>
+															<a href="javascript:void(0)">这是人名这是人名</a>
+														</p>
+														<p class="text-box">
+															11月锦囊最高涨幅达到50%，不要错过12月投资锦囊摆满摆满摆满白吗不能满... 
+														</p>
+														<a class="chakan" href="javascript:void(0)">查看</a>
+													</div>
+												</div>
+											</li>
+										</ul>
+										<div class="table-pagination">
+											<div class="pagination-content clearfix">
+												分页
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="main-right-bar">
+				<!-- 策略排行榜 -->
+				<div class="main-right-inner">
+					<div class="bar-title">
+						<h2>
+							<span>策略排行榜</span>
+							<a href="javascript:void(0)"></a>
+						</h2>
+					</div>
+
+					<div class="info-list-right info-list-ol">
+						<ol class="right-ol">
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<h4><span>元芳看盘</span><em>204</em></h4>
+								<div class="ol-content clearfix">
+									<img src="images/face.jpg" alt="78x78" />
+									<div class="ol-text">
+										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
+									</div>
+								</div>
+							</li>
+						</ol>
+					</div>
+				</div>
+
+				<!-- 策略动态 -->
+				<div class="main-right-inner">
+					<div class="bar-title">
+						<h2>
+							<span>策略动态</span>
+						</h2>
+					</div>
+
+					<div class="list-module">
+						<div class="black-div">&nbsp;</div>
+						<ul class="list-ul-border">
+							<li class="clearfix">
+								<a class="list-module-img" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<div class="list-module-text">
+									<h4>
+										<a href="javascript:void(0)">我是策略我很牛</a>
+									</h4>
+									<p class="dongtai-text">
+									给<a class="name-text" href="javascript:void(0)">波段涨停榜</a>赠送了25个<a href="javascript:void(0)">马上有钱</a>礼物...
+									</p>
+									<p class="time-text">
+										<span><em>2014-09-13</em>13:22:13 </span>
+									</p>
+								</div>
+							</li>
+							<li class="clearfix">
+								<a class="list-module-img" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<div class="list-module-text">
+									<h4>
+										<a href="javascript:void(0)">我是策略我很牛</a>
+									</h4>
+									<p class="dongtai-text">
+									给<a class="name-text" href="javascript:void(0)">波段涨停榜</a>赠送了25个<a href="javascript:void(0)">马上有钱</a>礼物...
+									</p>
+									<p class="time-text">
+										<span><em>2014-09-13</em>13:22:13 </span>
+									</p>
+								</div>
+							</li>
+							<li class="clearfix">
+								<a class="list-module-img" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<div class="list-module-text">
+									<h4>
+										<a href="javascript:void(0)">我是策略我很牛</a>
+									</h4>
+									<p class="dongtai-text">
+									给<a class="name-text" href="javascript:void(0)">波段涨停榜</a>赠送了25个<a href="javascript:void(0)">马上有钱</a>礼物...
+									</p>
+									<p class="time-text">
+										<span><em>2014-09-13</em>13:22:13 </span>
+									</p>
+								</div>
+							</li>
+							<li class="clearfix">
+								<a class="list-module-img" href="javascript:void(0)">
+									<img src="images/face.jpg" alt="78x78">
+								</a>
+								<div class="list-module-text">
+									<h4>
+										<a href="javascript:void(0)">我是策略我很牛</a>
+									</h4>
+									<p class="dongtai-text">
+									给<a class="name-text" href="javascript:void(0)">波段涨停榜</a>赠送了25个<a href="javascript:void(0)">马上有钱</a>礼物...
+									</p>
+									<p class="time-text">
+										<span><em>2014-09-13</em>13:22:13 </span>
+									</p>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+				<!-- 客服中心 -->
+				<div class="main-right-inner">
+					<div class="bar-title">
+						<h2>
+							<span>客服中心</span>
+						</h2>
+					</div>
+					<div class="customer-service">
+						<div class="service-img">
+							<img src="images/kefu.jpg" alt="300x155">
+						</div>
+						<div class="statement-module">
+							<h2>郑重申明</h2>
+							<p>
+								高手所发表言论均代表其个人对市场所持观点，网友应充分考虑市场的高风险性，据此操作风险自担。由您财富网提供此互动平台不代表认可其观点。
+							</p>
+							<p>
+								由您财富所有高手不提供代客理财或QQ咨询等非法业务。有私下进行收费咨询或推销其它产品服务，属于非法个人行为，与由您财富无关，请各位网友务必不要上当受骗！如发现上述违规行为可向由您财富网客服举报。
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- footer -->
+<div class="footer">
+	<div class="footer-inner">
+		footer
+	</div>
+</div>
+
+
+<!--#include file="inc/footer.shtml"-->
+<script type="text/javascript">
+	$(function(){
+		//right-ol
+		function olHover(){
+			$('.right-ol li:first').find('.ol-content').show();
+			$('.right-ol li').hover(function(){
+				$(this)
+				.css({"border-color":"#ddd","background-color":"#f9f9f9"})
+				.find('.ol-content').show();
+				$(this).siblings()
+				.css({"border-color":"#fff","background-color":"#fff"})
+				.find('.ol-content').hide();
+			},function(){
+				$(this)
+				.css({"border-color":"#ddd","background-color":"#f9f9f9"})
+				.find('.ol-content').show()
+				.siblings().find('.ol-content').hide();
+				$(this).siblings()
+				.css({"border-color":"#fff","background-color":"#fff"})
+			})
+		}
+		olHover();
+
+		//tab
+		function tadChangeClick(){
+			$('.tab-title li').click(function(){
+		        $(this).addClass('active').siblings().removeClass('active');
+				$(this).parent('.tab-title').next('.tab-content-box').find('.tab-content').hide().eq($(this).index()).show();
+			});
+		};
+		tadChangeClick();
+
+		// dl-list
+		$('.dl-list dl').hover(function(){
+			$(this).css({"background":"#f5f5f5"});
+		},function(){
+			$(this).css({"background":"#fff"});
+		})
+	})
+</script>
+</body>
+</html>
