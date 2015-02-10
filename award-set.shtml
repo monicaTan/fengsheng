@@ -1,0 +1,200 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--#include file="inc/common.shtml"--> 
+<title>奖项设置</title>
+<!--#include file="inc/ie.shtml"-->
+</head>
+
+<body>
+
+<!-- nav -->
+<div class="nav">模拟炒股大赛</div> 
+
+<!-- main -->
+<div class="main">
+	<div class="main-content-inner">
+		<div class="content-bar clearfix">
+			<!-- 支持榜 -->
+			<div class="main-max-module max-module-box">
+				<div class="table-border0-module">
+					<div class="tab-container">
+						<ul class="tab-title clearfix">
+							<li class="active">
+								<a href="javascript:void(0)">模拟盘［第一赛季］</a>
+							</li>
+							<li>
+								<a href="javascript:void(0)">实盘［第一赛季］</a>
+							</li>
+						</ul>
+						<div class="tab-content-box">
+							<!-- 用户积分排行榜 -->
+							<div class="tab-content tab-active">
+								<div class="award-container">
+									<div class="award-notice">
+									以下所有奖项均为税前数额，税项由中奖者个人承担，主办方代扣代缴后发放。如因选手填写联系方式不明或身份无法识别，主办方公告提醒后一周内仍未取得联系的，视为放弃奖项。
+									</div>
+									<div class="dl-container">
+										<dl class="clearfix">
+											<dt>
+												<i class="ranking-color">1</i>
+												<span>总收益第1名</span>
+											</dt>
+											<dd>
+												1）第一赛季20万实盘资金操作及收益；2）价值10万元汽车使用权；3）益盟操盘手乾坤版智能投资策略软件、益盟操盘手L2手机主力版；
+											</dd>
+										</dl>
+										<dl class="clearfix">
+											<dt>
+												<i class="ranking-color">2</i>
+												<span>总收益第2名</span>
+											</dt>
+											<dd>
+												2）第一赛季20万实盘资金操作及收益；2）价值10万元汽车使用权；3）益盟操盘手乾坤版智
+											</dd>
+										</dl>
+										<dl class="clearfix">
+											<dt>
+												<i class="ranking-color">3</i>
+												<span>总收益第3名</span>
+											</dt>
+											<dd>
+												3）第一赛季20万实盘资金操作及收益；2）价值10万元汽车使用权；3）益盟操盘手乾坤版智能投资策略软件
+											</dd>
+										</dl>
+										<dl class="clearfix">
+											<dt>
+												<i>4</i>
+												<span>总收益第4名</span>
+											</dt>
+											<dd>
+												3）第一赛季20万实盘资金操作及收益；2）价值10万元汽车使用权；3）益盟操盘手乾坤版智能投资策略软件
+											</dd>
+										</dl>
+										<dl class="clearfix">
+											<dt>
+												<i>5</i>
+												<span>总收益第4名</span>
+											</dt>
+											<dd>
+												3）第一赛季20万实盘资金操作及收益；2）价值10万元汽车使用权；3）益盟操盘手乾坤版智能投资策略软件
+											</dd>
+										</dl>
+										<dl class="clearfix">
+											<dt>
+												<i>6</i>
+												<span>总收益第4名</span>
+											</dt>
+											<dd>
+												3）第一赛季20万实盘资金操作及收益；2）价值10万元汽车使用权；3）益盟操盘手乾坤版智能投资策略软件
+											</dd>
+										</dl>
+									</div>
+									<div class="award-warning">
+										<p>
+											<i>*</i>四周比赛中，账户市值连续4周获得正收益并且市值环比增长的，按照总收益排名第1获得此奖，如果无人满足获奖条件，奖项作废！
+										</p>
+									</div>
+								</div>
+							</div>
+							
+							<!-- 高手元宝排行榜 -->
+							<div class="tab-content">
+								<div class="award-container">
+									<div class="award-notice">
+									以下所有奖项均为税前数额，税项由中奖者个人承担，主办方代扣代缴后发放。如因选手填写联系方式不明或身份无法识别，主办方公告提醒后一周内仍未取得联系的，视为放弃奖项。
+									</div>
+									<div class="dl-container">
+										<dl class="clearfix">
+											<dt>
+												<i class="ranking-color">1</i>
+												<span>总收益第1名</span>
+											</dt>
+											<dd>
+												1）第一赛季20万实盘资金操作及收益；2）价值10万元汽车使用权；3）益盟操盘手乾坤版智能投资策略软件、益盟操盘手L2手机主力版；
+											</dd>
+										</dl>
+										<dl class="clearfix">
+											<dt>
+												<i class="ranking-color">2</i>
+												<span>总收益第2名</span>
+											</dt>
+											<dd>
+												2）第一赛季20万实盘资金操作及收益；2）价值10万元汽车使用权；3）益盟操盘手乾坤版智
+											</dd>
+										</dl>
+										<dl class="clearfix">
+											<dt>
+												<i class="ranking-color">3</i>
+												<span>总收益第3名</span>
+											</dt>
+											<dd>
+												3）第一赛季20万实盘资金操作及收益；2）价值10万元汽车使用权；3）益盟操盘手乾坤版智能投资策略软件
+											</dd>
+										</dl>
+										<dl class="clearfix">
+											<dt>
+												<i>4</i>
+												<span>总收益第4名</span>
+											</dt>
+											<dd>
+												3）第一赛季20万实盘资金操作及收益；2）价值10万元汽车使用权；3）益盟操盘手乾坤版智能投资策略软件
+											</dd>
+										</dl>
+										<dl class="clearfix">
+											<dt>
+												<i>5</i>
+												<span>总收益第4名</span>
+											</dt>
+											<dd>
+												3）第一赛季20万实盘资金操作及收益；2）价值10万元汽车使用权；3）益盟操盘手乾坤版智能投资策略软件
+											</dd>
+										</dl>
+										<dl class="clearfix">
+											<dt>
+												<i>6</i>
+												<span>总收益第4名</span>
+											</dt>
+											<dd>
+												3）第一赛季20万实盘资金操作及收益；2）价值10万元汽车使用权；3）益盟操盘手乾坤版智能投资策略软件
+											</dd>
+										</dl>
+									</div>
+									<div class="award-warning">
+										<p>
+											<i>*</i>四周比赛中，账户市值连续4周获得正收益并且市值环比增长的，按照总收益排名第1获得此奖，如果无人满足获奖条件，奖项作废！
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- footer -->
+<div class="footer">
+	<div class="footer-inner">
+		footer
+	</div>
+</div>
+
+
+<script type="text/javascript">
+	$(function(){
+		//tab
+		function tadChangeClick(){
+			$('.tab-title li').click(function(){
+		        $(this).addClass('active').siblings().removeClass('active');
+				$(this).parent('.tab-title').next('.tab-content-box').find('.tab-content').hide().eq($(this).index()).show();
+			});
+		};
+		tadChangeClick();
+	})
+</script>
+</body>
+</html>

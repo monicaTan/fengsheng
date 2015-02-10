@@ -419,8 +419,21 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.zhuanjia ul li p{ font-size: 14px; text-align: center; line-height: 22px;}
 	.zhuanjia ul li p a:hover{color: #ca1612;}
 
-
-
+	/* award set
+	-------------------------------------------------------------------------------- */
+	.award-container{ padding: 15px; font-size: 14px; line-height: 24px; color: #333;}
+	.award-notice{ padding: 15px; border: 1px dashed #d9dde3; background-color: #f6f8fa;}
+	.dl-container{ padding: 30px 0 15px;}
+	.dl-container dl{ margin-bottom: 10px;}
+	.dl-container dl dt{ float: left; width: 170px;}
+	.dl-container dl dd{ float: right; width: 780px;}
+	.dl-container dl dt,
+	.dl-container dl dd{font-size: 14px; color: #666;line-height: 24px;}
+	.dl-container dl dt i{ font-style: normal; display: inline-block; background-color: #999999; color: white; min-width: 16px; _width: 16px; padding: 1px 2px; height: 18px; line-height: 18px; border-radius: 2px; text-align: center;}
+	.dl-container dl dt .ranking-color{ background-color: #ca1612;}
+	.award-warning{border-top: 1px dashed #ddd; padding-top: 8px;}
+	.award-warning p{font-size: 14px; color: #666;}
+	.award-warning p i{font-style: normal; color: #ca1612; font-size: 16px; vertical-align: middle; margin-right: 4px;}
 
 
 
