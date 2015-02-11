@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--#include file="inc/common.shtml"--> 
+<title>分享页面</title>
+<!--#include file="inc/ie.shtml"-->
+</head>
+
+<body>
+
+<!-- nav -->
+<div class="nav">模拟炒股大赛</div> 
+
+<!-- main -->
+<div class="main">
+	<div class="main-content-inner">
+		<div class="content-bar clearfix">
+			<!-- 支持榜 -->
+			<div class="main-max-module max-module-box">
+				<div class="share-container">
+					<div class="share-box">
+						<h2>分享</h2>
+						<p>与其嫉妒别人畅游股市，不如亲自加入到2015最火爆的牛市／A股XX投资大赛，看高手同场竞技，擒黑马笑傲股海！</p>
+						<div class="copy-link clearfix">
+							<span>分享链接：</span>
+							<input type="text" class="form-control" id="exampleInputName2">
+							<a class="btn-control" href="javascript:void(0)">复制链接</a>
+						</div>
+						<div class="share-btn-box">
+							<div class="bshare-custom icon-medium"><div class="bsPromo bsPromo2"></div><a title="分享到腾讯微博" class="bshare-qqmb"></a><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到微信" class="bshare-weixin"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a></div><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=1&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+						</div>
+					</div>
+					<div class="invitation-box">
+						<h2>邀请</h2>
+						<p>经历了多年的磨砺，牛市悄然来到诸位面前，赶紧加入到我们的队伍，吹响牛市的号角踏上牛市的征程！加入XXX炒股大赛，赢取百万年薪，争夺亿万实盘资金！从此走上股市巅峰。用户的参数</p>
+						<div class="copy-link clearfix">
+							<span>邀请链接：</span>
+							<input type="text" class="form-control" id="exampleInputName2">
+							<a class="btn-control" href="javascript:void(0)">复制链接</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- footer -->
+<div class="footer">
+	<div class="footer-inner">
+		footer
+	</div>
+</div>
+
+
+</body>
+</html>
