@@ -77,11 +77,83 @@
 			</div>
 			<div class="main-right-bar">
 
-				<!-- 官方公告 -->
+				<!-- 股市热点 -->
 				<div class="main-right-inner">
 					<div class="bar-title">
 						<h2>
-							<span>官方公告</span>
+							<span>股市热点</span>
+						</h2>
+					</div>
+
+					<div class="list-module">
+						<div class="black-div">&nbsp;</div>
+							<ul class="list-ul-border list-ul-scorll">
+								<li>
+									<div class="list-all-text">
+										<h4>
+											<a href="javascript:void(0)">购买了老胡实盘直播的锦囊《百万实盘春节贺岁版》</a>
+										</h4>
+										<p class="list-text-time">
+											<span>2014-09-13   13:22:13 </span>
+										</p>
+									</div>
+								</li>
+								<li>
+									<div class="list-all-text">
+										<h4>
+											<a href="javascript:void(0)">购买了老胡实盘直播的锦囊《百万实盘春节贺岁版》</a>
+										</h4>
+										<p class="list-text-time">
+											<span>2014-09-13   13:22:13 </span>
+										</p>
+									</div>
+								</li>
+								<li>
+									<div class="list-all-text">
+										<h4>
+											<a href="javascript:void(0)">购买了老胡实盘直播的锦囊《百万实盘春节贺岁版》</a>
+										</h4>
+										<p class="list-text-time">
+											<span>2014-09-13   13:22:13 </span>
+										</p>
+									</div>
+								</li>
+								<li>
+									<div class="list-all-text">
+										<h4>
+											<a href="javascript:void(0)">购买了老胡实盘直播的锦囊《百万实盘春节贺岁版》</a>
+										</h4>
+										<p class="list-text-time">
+											<span>2014-09-13   13:22:13 </span>
+										</p>
+									</div>
+								</li>
+								<li>
+									<div class="list-all-text">
+										<h4>
+											<a href="javascript:void(0)">胡实盘直播的锦囊《百万实盘春节贺岁版》</a>
+										</h4>
+										<p class="list-text-time">
+											<span>2014-09-13   13:22:13 </span>
+										</p>
+									</div>
+								</li>
+							</ul>
+						</div>
+				</div>
+				
+				<!-- 广告图 -->
+				<div class="main-right-inner ad-image">
+					<a href="javascript:void(0)">
+						<img src="images/img_right.jpg" alt="300x134" />
+					</a>
+				</div>
+
+				<!-- 财富内参 -->
+				<div class="main-right-inner">
+					<div class="bar-title">
+						<h2>
+							<span>财富内参</span>
 							<a href="javascript:void(0)"></a>
 						</h2>
 					</div>
@@ -89,151 +161,41 @@
 					<div class="info-list info-list-right">
 						<ul>
 							<li>
-								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<a href="#">财富内参：百万网友参与参与百万网友参与参与</a>
 								<span>08-13</span>
 							</li>
 							<li>
-								<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
+								<a href="#">财富内参：百万网友参与参与百万网友参与参与</a>
 								<span>08-13</span>
 							</li>
 							<li>
-								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<a href="#">财富内参：百万网友参与参与百万网友参与参与</a>
 								<span>08-13</span>
 							</li>
 							<li>
-								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<a href="#">财富内参：百万网友参与参与百万网友参与参与</a>
 								<span>08-13</span>
 							</li>
 							<li>
-								<a href="#">腾讯A股大赛闭幕式在沪举行  多名优秀选手出席</a>
+								<a href="#">财富内参：百万网友参与参与百万网友参与参与</a>
 								<span>08-13</span>
 							</li>
 							<li>
-								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<a href="#">财富内参：百万网友参与参与百万网友参与参与</a>
 								<span>08-13</span>
 							</li>
 							<li>
-								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<a href="#">财富内参：百万网友参与参与百万网友参与参与</a>
 								<span>08-13</span>
 							</li>
 							<li>
-								<a href="#">首页A股大赛：百万网友参与  人气高手涌现</a>
+								<a href="#">财富内参：百万网友参与参与百万网友参与参与</a>
 								<span>08-13</span>
 							</li>
 						</ul>
 					</div>
 				</div>
 				
-				<!-- 策略排行榜 -->
-				<div class="main-right-inner">
-					<div class="bar-title">
-						<h2>
-							<span>策略排行榜</span>
-							<a href="javascript:void(0)"></a>
-						</h2>
-					</div>
-
-					<div class="info-list-right info-list-ol">
-						<ol class="right-ol">
-							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
-								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
-									<div class="ol-text">
-										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
-									</div>
-								</div>
-							</li>
-							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
-								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
-									<div class="ol-text">
-										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
-									</div>
-								</div>
-							</li>
-							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
-								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
-									<div class="ol-text">
-										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
-									</div>
-								</div>
-							</li>
-							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
-								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
-									<div class="ol-text">
-										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
-									</div>
-								</div>
-							</li>
-							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
-								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
-									<div class="ol-text">
-										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
-									</div>
-								</div>
-							</li>
-							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
-								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
-									<div class="ol-text">
-										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
-									</div>
-								</div>
-							</li>
-							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
-								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
-									<div class="ol-text">
-										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
-									</div>
-								</div>
-							</li>
-							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
-								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
-									<div class="ol-text">
-										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
-									</div>
-								</div>
-							</li>
-							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
-								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
-									<div class="ol-text">
-										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
-									</div>
-								</div>
-							</li>
-							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
-								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
-									<div class="ol-text">
-										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
-									</div>
-								</div>
-							</li>
-						</ol>
-					</div>
-				</div>
-				<!-- 广告图 -->
-				<div class="main-right-inner ad-image">
-					<a href="javascript:void(0)">
-						<img src="images/img_right.jpg" alt="300x134" />
-					</a>
-				</div>
 			</div>
 		</div>
 	</div>

@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------- */
 
 body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
-
+a:hover{ text-decoration: underline; color: #ca1612;}
 .main-content-inner,
 .footer-inner{width: 1000px; margin: 0 auto; background-color: #f5f5f5;}
 .main-content-inner{padding-bottom: 20px;}
@@ -128,7 +128,7 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	
 	.info-list-right { padding-bottom: 12px;}
 	.info-list-right ul li{ height: 28px;}
-	.info-list-right ul li a{ display: inline-block; width: 190px; line-height: 28px; overflow: hidden; text-overflow:ellipsis; white-space: nowrap; }
+	.info-list-right ul li a{ display: inline-block; width: 200px; line-height: 28px; overflow: hidden; text-overflow:ellipsis; white-space: nowrap; }
 	
 	.info-list-ol{padding: 12px 10px 12px}
 	.info-list-right ol { font-size: 14px;;}
@@ -140,6 +140,7 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.ol-content img{ float: left; width: 78px; height: 78px; border: 1px solid #ddd;}
 	.ol-content .ol-text{ float: right; width: 179px; height: 79px; overflow: hidden; font-size: 12px;}
 	.ol-content .ol-text a{ color: #333; line-height: 20px; text-align: justify;}
+	.ol-content .ol-text a:hover{ color: #ca1612;}
 
 	.ad-image{font-size: 0;}
 	.ad-image a img{ width: 100%;}
@@ -185,6 +186,7 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.inset-text h2 a span{ padding-right: 4px;}
 	.text-summary{ font-size: 14px; line-height: 22px; color: #666;}
 	.text-summary a{ color: #333; font-size: 12px;}
+	.text-summary a:hover{ color: #ca1612; font-size: 12px;}
 	.text-time{ font-size: 0; padding-top: 8px;}
 	.text-time span,
 	.text-time a{ font-size: 12px; color: #999;padding-left: 20px; line-height: 20px;}
@@ -453,18 +455,18 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.info-list .ul-dian-list{ margin-bottom: 30px;}
 	.info-list .ul-dian-list li p{ display: inline-block; width: 100%; height: 28px; overflow: hidden; text-overflow:ellipsis; white-space: nowrap;}
 	.info-list .ul-dian-list li p a{ color: #0f5fb1;}
-
+    .info-list .ul-dian-list li p a:hover{ color: #ca1612;}
 	/* article
 	-------------------------------------------------------------------------------- */
 	.article-module{ padding: 25px 15px 15px;}
 	.article-title-module { text-align: center; padding-bottom: 38px;}
-	.article-title-module h2{ font-size: 21px; margin-bottom: 10px;}
+	.article-title-module h2{ font-size: 21px; margin-bottom: 10px; font-weight: normal;}
 	.article-title-module h4{ font-size: 12px; color: #999; font-weight: normal;}
 	.article-title-module h4 span{ padding-left: 25px;}
 	.article-bottom{ padding: 0 0 45px 30px; margin-top: 65px;}
 	.bottom-left,
 	.bottom-middle,
-	.bottom-right{ margin-right: 40px; float: left;}
+	.bottom-right{ margin-right: 40px; float: left;_display:inline;}
 
 	.bottom-left{ width: 226px; border-right: 2px solid #ca1612;}
 	.bottom-middle{ width: 240px; font-size: 14px;}
@@ -475,7 +477,14 @@ body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
 	.bottom-right{line-height: 0; padding-top: 30px;}
 	.bottom-right p{text-align: center; font-size: 14px; line-height: 28px; margin-top: 5px;}
 	.bottom-left h4{ text-align: center; font-size: 16px; margin-bottom: 10px;}
-	.article-bottom-list a{ font-size: 14px; margin:0 10px; white-space: nowrap; line-height: 28px;}
+  	.article-bottom-list a{ font-size: 14px; margin:0 10px; white-space: nowrap; line-height: 28px;}
+
+	.list-all-text h4{ font-size: 14px; line-height: 18px; margin-bottom: 6px;  font-weight: normal;}
+	.list-all-text h4 a{display: inline-block; max-height: 36px;_height:36px; overflow: hidden; color: #666;}
+	.list-all-text h4 a:hover{ color: #ca1612;}
+	.list-all-text .list-text-time span{ font-size: 12px; line-height: 17px; background: url("../images/time_03.png") left center no-repeat; padding-left: 20px; color: #999;}
+	.list-ul-scorll{ height: 400px; overflow-y: scroll;}
+
 
 	/* share
 	-------------------------------------------------------------------------------- */
