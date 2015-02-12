@@ -1,0 +1,408 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--#include file="inc/common.shtml"--> 
+<title>支付中心</title>
+<!--#include file="inc/ie.shtml"-->
+</head>
+
+<body>
+
+<!-- nav -->
+<div class="nav">模拟炒股大赛</div> 
+
+<!-- main -->
+<div class="main">
+	<div class="main-content-inner">
+		<div class="content-bar clearfix">
+			<form id="fastPayForm">
+				<div class="main-max-module">
+					<div class="pay-user-module clearfix">
+						<div class="pay-user-image">
+							<div class="head-portrait">
+								<a href="javascript:void(0)" class="face-link">
+									<img src="images/face.jpg" class="face-img" alt="80x80">
+									<div class="portrait-bg">
+										<img src="images/circle_80.png">
+									</div>
+								</a>
+								<h2>
+									<a href="javascript:void(0)">李木子李木子李木子</a>
+								</h2>
+							</div>
+						</div>
+						<div class="pay-info">
+							<p>
+								<span class="gold-coins-use">我的可用金币：<em>1000</em></span>
+								<span>可用余额：<em>200元</em></span>
+							</p>
+							<div  class="gold-coins-num clearfix">
+								<span class="info-txt">金币数：</span>
+								<div class="select-demo">
+									<span class="input-box">
+										<input type="text" value="text">
+										<a href="javascript:void(0)"></a>
+									</span>
+									<select>
+										<option>1</option>
+										<option>2</option>
+										<option>3</option>
+									</select>
+								</div>
+							</div>
+							<p>
+								<a class="confirm-payment" href="javascript:void(0)">确认付款</a>
+							</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="main-max-module">
+					<div class="pay-bank-module">
+						<div class="tab-container">
+							<ul class="tab-title clearfix">
+								<li class="active">
+									<a href="javascript:void(0)">银行卡支付</a>
+								</li>
+								<li>
+									<a href="javascript:void(0)">支付宝支付</a>
+								</li>
+								<li>
+									<a href="javascript:void(0)">微信支付</a>
+								</li>
+							</ul>
+							<div class="tab-content-box">
+								<!-- 银行卡支付 -->
+								<div class="tab-content tab-active">
+									<div class="pay-bank-list clearfix">
+										<div class="row-basic">
+										    <input type="radio" id="icbc" name="apiCode" value="" class="j-bank-radio channel-input">
+										    <label for="icbc" class="channel-label">
+										        <span class="j-card-element">
+										          <span class="bank-icon-container">
+										            <span class="bank-icon icon-cashier-ICBC" title="中国工商银行">中国工商银行</span>
+										            <span class="bank-showName">中国工商银行</span>
+										          </span>
+										        </span>
+										    </label>
+										</div>
+										<div class="row-basic">
+										    <input type="radio" id="abc" name="apiCode" value="" class="j-bank-radio channel-input">
+										    <label for="abc" class="channel-label">
+										        <span class="j-card-element">
+										          <span class="bank-icon-container">
+										            <span class="bank-icon icon-cashier-ABC" title="中国农业银行">中国农业银行</span>
+										            <span class="bank-showName">中国农业银行</span>
+										          </span>
+										        </span>
+										    </label>
+										</div>
+										<div class="row-basic">
+										    <input type="radio" id="cbc" name="apiCode" value="cb701" class="j-bank-radio channel-input">
+										    <label for="cbc" class="channel-label">
+										        <span class="j-card-element">
+										          <span class="bank-icon-container">
+										            <span class="bank-icon icon-cashier-CBC" title="中国建设银行">中国建设银行</span>
+										            <span class="bank-showName">中国建设银行</span>
+										          </span>
+										        </span>
+										    </label>
+										</div>
+										<div class="row-basic">
+										    <input type="radio" id="psbc" name="apiCode" value="" class="j-bank-radio channel-input">
+										    <label for="psbc" class="channel-label">
+										        <span class="j-card-element">
+										          <span class="bank-icon-container">
+										            <span class="bank-icon icon-cashier-PSBC" title="中国邮政">中国邮政</span>
+										            <span class="bank-showName">中国邮政</span>
+										          </span>
+										        </span>
+										    </label>
+										</div>
+										<div class="row-basic">
+										    <input type="radio" id="boc" name="apiCode" value="" class="j-bank-radio channel-input">
+										    <label for="boc" class="channel-label">
+										        <span class="j-card-element">
+										          <span class="bank-icon-container">
+										            <span class="bank-icon icon-cashier-BOC" title="中国银行">中国银行</span>
+										            <span class="bank-showName">中国银行</span>
+										          </span>
+										        </span>
+										    </label>
+										</div>
+										<div class="row-basic">
+										    <input type="radio" id="bcm" name="apiCode" value="" class="j-bank-radio channel-input">
+										    <label for="bcm" class="channel-label">
+										        <span class="j-card-element">
+										          <span class="bank-icon-container">
+										            <span class="bank-icon icon-cashier-BCM" title="交通银行">交通银行</span>
+										            <span class="bank-showName">交通银行</span>
+										          </span>
+										        </span>
+										    </label>
+										</div>
+										<div class="row-basic">
+										    <input type="radio" id="cmb" name="apiCode" value="" class="j-bank-radio channel-input">
+										    <label for="cmb" class="channel-label">
+										        <span class="j-card-element">
+										          <span class="bank-icon-container">
+										            <span class="bank-icon icon-cashier-CMB" title="交通银行">交通银行</span>
+										            <span class="bank-showName">交通银行</span>
+										          </span>
+										        </span>
+										    </label>
+										</div>
+										<div class="row-basic">
+										    <input type="radio" id="cgb" name="apiCode" value="" class="j-bank-radio channel-input">
+										    <label for="cgb" class="channel-label">
+										        <span class="j-card-element">
+										          <span class="bank-icon-container">
+										            <span class="bank-icon icon-cashier-CGB" title="广发银行">广发银行</span>
+										            <span class="bank-showName">广发银行</span>
+										          </span>
+										        </span>
+										    </label>
+										</div>
+										<div class="row-basic">
+										    <input type="radio" id="ceb" name="apiCode" value="" class="j-bank-radio channel-input">
+										    <label for="ceb" class="channel-label">
+										        <span class="j-card-element">
+										          <span class="bank-icon-container">
+										            <span class="bank-icon icon-cashier-CEB" title="中国光大银行">中国光大银行</span>
+										            <span class="bank-showName">中国光大银行</span>
+										          </span>
+										        </span>
+										    </label>
+										</div>
+										<div class="row-basic">
+										    <input type="radio" id="cib" name="apiCode" value="" class="j-bank-radio channel-input">
+										    <label for="cib" class="channel-label">
+										        <span class="j-card-element">
+										          <span class="bank-icon-container">
+										            <span class="bank-icon icon-cashier-CIB" title="兴业银行">兴业银行</span>
+										            <span class="bank-showName">兴业银行</span>
+										          </span>
+										        </span>
+										    </label>
+										</div>
+										<div class="row-basic">
+										    <input type="radio" id="bob" name="apiCode" value="" class="j-bank-radio channel-input">
+										    <label for="bob" class="channel-label">
+										        <span class="j-card-element">
+										          <span class="bank-icon-container">
+										            <span class="bank-icon icon-cashier-BOB" title="北京银行">北京银行</span>
+										            <span class="bank-showName">北京银行</span>
+										          </span>
+										        </span>
+										    </label>
+										</div>
+										<div class="row-basic">
+										    <input type="radio" id="spd" name="apiCode" value="" class="j-bank-radio channel-input">
+										    <label for="spd" class="channel-label">
+										        <span class="j-card-element">
+										          <span class="bank-icon-container">
+										            <span class="bank-icon icon-cashier-SPD" title="浦发银行">浦发银行</span>
+										            <span class="bank-showName">浦发银行</span>
+										          </span>
+										        </span>
+										    </label>
+										</div>
+										<div class="row-basic">
+										    <input type="radio" id="cmbc" name="apiCode" value="" class="j-bank-radio channel-input">
+										    <label for="cmbc" class="channel-label">
+										        <span class="j-card-element">
+										          <span class="bank-icon-container">
+										            <span class="bank-icon icon-cashier-CMBC" title="中国民生银行">中国民生银行</span>
+										            <span class="bank-showName">中国民生银行</span>
+										          </span>
+										        </span>
+										    </label>
+										</div>
+										<div class="row-basic">
+										    <input type="radio" id="ccb" name="apiCode" value="" class="j-bank-radio channel-input">
+										    <label for="ccb" class="channel-label">
+										        <span class="j-card-element">
+										          <span class="bank-icon-container">
+										            <span class="bank-icon icon-cashier-CCB" title="中信银行">中信银行</span>
+										            <span class="bank-showName">中信银行</span>
+										          </span>
+										        </span>
+										    </label>
+										</div>
+										<div class="row-basic">
+										    <input type="radio" id="hxb" name="apiCode" value="" class="j-bank-radio channel-input">
+										    <label for="hxb" class="channel-label">
+										        <span class="j-card-element">
+										          <span class="bank-icon-container">
+										            <span class="bank-icon icon-cashier-HXB" title="华夏银行">华夏银行</span>
+										            <span class="bank-showName">华夏银行</span>
+										          </span>
+										        </span>
+										    </label>
+										</div>
+										<div class="row-basic">
+										    <input type="radio" id="pab" name="apiCode" value="" class="j-bank-radio channel-input">
+										    <label for="pab" class="channel-label">
+										        <span class="j-card-element">
+										          <span class="bank-icon-container">
+										            <span class="bank-icon icon-cashier-PAB" title="平安银行">平安银行</span>
+										            <span class="bank-showName">平安银行</span>
+										          </span>
+										        </span>
+										    </label>
+										</div>
+									</div>
+
+									<div class="next-step">
+										<a class="warning-btn" href="javascript:void(0)">下一步</a>
+									</div>
+									<div class="problem-list">
+										<h2>付款遇到问题了？先看看是不是由于下面的原因：</h2>
+										<dl>
+											<dt>所需支付金额超过了银行支付限额？</dt>
+											<dd>建议先分若干次充值到趣炒股账户余额，或登录网上银行提高上限额度，即可轻松支付。</dd>
+										</dl>
+										<dl>
+											<dt>收不到银行的短信验证码？</dt>
+											<dd>建议重新获取短信验证码，如果还是收不到短信，直接打各银行的客服电话获取短信验证码。</dd>
+										</dl>
+										<dl>
+											<dt>网上银行扣款后，支付结果页面显示“订单处理中”怎么办？</dt>
+											<dd>可能是由于银行的数据没有即时传输，请您不要担心，此时请您稍等片刻刷新页面查看。如较长时间仍显示未付款，请您致电客服（4008-679-858）及时联系我们，我们会尽快处理。</dd>
+										</dl>
+									</div>
+								</div>
+								
+								<!-- 支付宝支付 -->
+								<div class="tab-content">
+									<table class="table-module" width="100%" cellpadding="0" cellspacing="0" border="0">
+										<!-- 每页显示30行 -->
+										<!-- 1-10行的排名号为红色ranking-color -->
+										<tr>
+											<th width="15">&nbsp;</th>
+											<th width="50" align="left">排名</th>
+											<th align="left">用户</th>
+											<th align="left" width="120">元宝数</th>
+											<th align="left" width="320">最新元宝获取来源</th>
+											<th align="left" width="140">总收益率</th>
+											<th align="left" width="100">所在地区</th>
+											<th width="15">&nbsp;</th>
+										</tr>
+										<tr>
+											<td width="15" class="bd-white">&nbsp;</td>
+											<td align="left">
+												<span class="ranking ranking-color">1</span>
+											</td>
+											<td align="left" valign="middle">
+												<a class="table-user-name" href="javascript:void(0)">最牛股票名字</a>
+											</td>
+											<td align="left">1000</td>
+											<td align="left">我是谁谁谁要送给你啥啥啥</td>
+											<td align="left">10.00</td>
+											<td align="left">北京</td>
+											<td width="15" class="bd-white">&nbsp;</td>
+										</tr>
+										<tr>
+											<td width="15" class="bd-white">&nbsp;</td>
+											<td align="left">
+												<span class="ranking">11</span>
+											</td>
+											<td align="left" valign="middle">
+												<a class="table-user-name" href="javascript:void(0)">最牛股票名字</a>
+											</td>
+											<td align="left">1000</td>
+											<td align="left">我是谁谁谁要送给你啥啥啥</td>
+											<td align="left">10.00</td>
+											<td align="left">北京</td>
+											<td width="15" class="bd-white">&nbsp;</td>
+										</tr>
+									</table>
+									<div class="table-pagination0">
+										<div class="pagination-content clearfix">
+											分页
+										</div>
+									</div>
+								</div>
+
+								<!-- 微信支付 -->
+								<div class="tab-content">
+									<table class="table-module" width="100%" cellpadding="0" cellspacing="0" border="0">
+										<!-- 每页显示30行 -->
+										<!-- 1-10行的排名号为红色ranking-color -->
+										<tr>
+											<th width="15">&nbsp;</th>
+											<th width="50" align="left">排名</th>
+											<th align="left">用户</th>
+											<th align="left" width="120">元宝数</th>
+											<th align="left" width="320">最新元宝获取来源</th>
+											<th align="left" width="140">总收益率</th>
+											<th align="left" width="100">所在地区</th>
+											<th width="15">&nbsp;</th>
+										</tr>
+										<tr>
+											<td width="15" class="bd-white">&nbsp;</td>
+											<td align="left">
+												<span class="ranking ranking-color">1</span>
+											</td>
+											<td align="left" valign="middle">
+												<a class="table-user-name" href="javascript:void(0)">最牛股票名字</a>
+											</td>
+											<td align="left">1000</td>
+											<td align="left">我是谁谁谁要送给你啥啥啥</td>
+											<td align="left">10.00</td>
+											<td align="left">北京</td>
+											<td width="15" class="bd-white">&nbsp;</td>
+										</tr>
+										<tr>
+											<td width="15" class="bd-white">&nbsp;</td>
+											<td align="left">
+												<span class="ranking">11</span>
+											</td>
+											<td align="left" valign="middle">
+												<a class="table-user-name" href="javascript:void(0)">最牛股票名字</a>
+											</td>
+											<td align="left">1000</td>
+											<td align="left">我是谁谁谁要送给你啥啥啥</td>
+											<td align="left">10.00</td>
+											<td align="left">北京</td>
+											<td width="15" class="bd-white">&nbsp;</td>
+										</tr>
+									</table>
+									<div class="table-pagination0">
+										<div class="pagination-content clearfix">
+											分页
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+
+<!-- footer -->
+<div class="footer">
+	<div class="footer-inner">
+		footer
+	</div>
+</div>
+
+<script type="text/javascript">
+	$(function(){
+		//tab
+		function tadChangeClick(){
+			$('.tab-title li').click(function(){
+		        $(this).addClass('active').siblings().removeClass('active');
+				$(this).parent('.tab-title').next('.tab-content-box').find('.tab-content').hide().eq($(this).index()).show();
+			});
+		};
+		tadChangeClick();
+		 
+	})
+</script>
+</body>
+</html>
