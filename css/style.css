@@ -535,7 +535,7 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.bank-icon,
 	.bank-showName{ display: inline-block;  position: absolute; width: 168px; height: 38px;  border: 1px solid #d6d6d6; top: 0; left: 0;}
 
-	.bank-showName{z-index: 1;}
+	.bank-showName{z-index: 1; line-height: 38px; text-align: center;}
 	.bank-icon-container{ position: relative; cursor: pointer;}
 	.bank-icon-container span:hover{ border-color: #a11;}
 
@@ -556,7 +556,8 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.icon-cashier-CCB{background-position: -223px -197px;}
 	.icon-cashier-HXB{background-position: -446px -197px;}
 	.icon-cashier-PAB{background-position: -669px -197px;}
-
+	.icon-cashier-WEIXIN{background-position: left -262px;}
+	.icon-cashier-ZHIFUBZO{background-position: -223px -262px;}
 
 	.next-step{ padding: 20px 0 30px; margin: 0 15px 30px; border-bottom: 1px solid #ddd;}
 	.next-step .warning-btn{ display: inline-block;padding: 0 34px; height: 32px; line-height: 32px; background-color: #a11; font-size: 14px; color: #fff; text-align: center; margin-left: 30px;}

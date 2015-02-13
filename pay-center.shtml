@@ -55,6 +55,28 @@
 					<div class="">
 						<div class="pay-bank-list clearfix">
 							<div class="row-basic clearfix">
+							    <input type="radio" id="weixin" name="apiCode" value="" class="j-bank-radio channel-input">
+							    <label for="weixin" class="channel-label">
+							        <span class="j-card-element">
+							          <span class="bank-icon-container">
+							            <span class="bank-icon icon-cashier-WEIXIN" title="微信支付">微信支付</span>
+							            <span class="bank-showName">微信支付</span>
+							          </span>
+							        </span>
+							    </label>
+							</div>
+							<div class="row-basic clearfix">
+							    <input type="radio" id="zhifubao" name="apiCode" value="" class="j-bank-radio channel-input">
+							    <label for="zhifubao" class="channel-label">
+							        <span class="j-card-element">
+							          <span class="bank-icon-container">
+							            <span class="bank-icon icon-cashier-ZHIFUBZO" title="支付宝">支付宝</span>
+							            <span class="bank-showName">支付宝</span>
+							          </span>
+							        </span>
+							    </label>
+							</div>
+							<div class="row-basic clearfix">
 							    <input type="radio" id="icbc" name="apiCode" value="" class="j-bank-radio channel-input">
 							    <label for="icbc" class="channel-label">
 							        <span class="j-card-element">
