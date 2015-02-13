@@ -594,8 +594,26 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.list3-border0-container .list-text .warning-btn{ font-size: 14px; text-align: center; display: inline-block; width: 96px; height: 30px; line-height: 30px; color: white; margin-top: 18px; background-color: #a11;}
  	.list3-border0-container .list-text .grey-btn{ background-color: #999;}
 
-
-
+	/* Customer service
+	-------------------------------------------------------------------------------- */
+	.module15{ padding: 0 15px;}
+	.common-problems dl { padding: 20px 0 30px; margin-bottom: 10px; border-bottom: 1px solid #ddd;}
+	.common-problems dl dt{ padding-left: 30px; background: url("../images/kefu_03.jpg") left top no-repeat; margin-bottom: 15px; line-height: 24px; font-size: 16px; font-weight: bold;}
+	.common-problems dl dd{ padding-left: 30px; background: url("../images/kefu_06.jpg") left top no-repeat; line-height: 24px; font-size: 14px; color: #666;}
+	.common-problems .pagination-content{border-top: 0;}
+	.kefu{ padding: 0 15px 20px; text-align: center;}
+	.qr-code{ text-align: center; padding-top: 22px; margin-bottom: 28px;}
+	.qr-code img{ width: 100px; height: 100px;}
+	.qr-code p{ font-size: 13px; color: #a11; line-height: 24px;}
+	.flower-bg{ text-align: center; height: 16px; line-height: 16px; background: url("../images/kefu_12.png") center center no-repeat; font-size: 15px; margin-bottom: 20px;}
+	.kefu-chat{ text-align: center; margin-bottom: 30px; padding-left: 43px;}
+	.kefu-chat dl{ display: inline-block; width: 46px; height: 46px; float: left;}
+	.kefu-chat dl dd a { color: #272636;}
+	.kefu-chat dl dd a:hover{ color: #a11;}
+	.kefu-chat dt a{ display: inline-block; *display: block; width: 34px; height: 34px;background: url("../images/kefu_15.png") left top no-repeat; text-indent: -9999px;}
+	.kefu-chat dd a{ font-style: normal; font-size: 0; font-size: 11px;}
+	.kefu-chat dt .kefu-qq {  background: url("../images/kefu_15.png") left top no-repeat;}
+	.kefu-chat dt .kefu-email {  background: url("../images/kefu_15.png") -49px top no-repeat;}
 
 
 	/* pagination

@@ -1,0 +1,158 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--#include file="inc/common.shtml"--> 
+<title>客服中心</title>
+<!--#include file="inc/ie.shtml"-->
+</head>
+
+<body>
+
+<!-- nav -->
+<div class="nav">模拟炒股大赛</div> 
+
+<!-- main -->
+<div class="main">
+	<div class="main-content-inner">
+		<div class="content-bar clearfix">
+			<div class="main-left-bar">
+				<div class="main-left-inner">
+					<div class="main-title clearfix">
+						<h2 class="clearfix">
+							<em>常见问题</em>
+							<span class="border-angle"></span>
+						</h2>
+					</div>
+					<div class="module15 common-problems">
+						<dl>
+							<dt>我在趣炒股配资的额度有多大？</dt>
+							<dd>趣炒股网根据您缴纳的保证金提供1-4倍资金干干，如1000元的保证金，最多可配资4000元，您的操盘总金额为5000元。当前，最高可配资金额度为100万元！</dd>
+						</dl>
+
+						<dl>
+							<dt>我在趣炒股配资的额度有多大？</dt>
+							<dd>趣炒股网根据您缴纳的保证金提供1-4倍资金干干，如1000元的保证金，最多可配资4000元，您的操盘总金额为5000元。当前，最高可配资金额度为100万元！</dd>
+						</dl>
+
+						<dl>
+							<dt>我在趣炒股配资的额度有多大？</dt>
+							<dd>趣炒股网根据您缴纳的保证金提供1-4倍资金干干，如1000元的保证金，最多可配资4000元，您的操盘总金额为5000元。当前，最高可配资金额度为100万元！</dd>
+						</dl>
+						<div class="pagination-content clearfix">
+							分页
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="main-right-bar">
+				<!-- 客服中心 -->
+				<div class="main-right-inner">
+					<div class="bar-title">
+						<h2>
+							<span>客服中心</span>
+						</h2>
+					</div>
+
+					<div class="kefu">
+						<img src="images/kefu_03.png">
+						<div class="qr-code">
+							<img src="images/qr_06.jpg" alt="100x100">
+							<p>扫描关注公众号</p>
+						</div>
+						<p class="flower-bg">线上咨询</p>
+						<div class="kefu-chat clearfix">
+							<dl>
+								<dt>
+									<a class="kefu-qq" href="javascript:void(0)">qq</a>
+								</dt>
+								<dd>
+									<a href="javascript:void(0)">客服1</a>
+								</dd>
+							</dl>
+							<dl>
+								<dt>
+									<a class="kefu-qq" href="javascript:void(0)">qq</a>
+								</dt>
+								<dd>
+									<a href="javascript:void(0)">客服2</a>
+								</dd>
+							</dl>
+							<dl>
+								<dt>
+									<a class="kefu-qq" href="javascript:void(0)">qq</a>
+								</dt>
+								<dd>
+									<a href="javascript:void(0)">客服3</a>
+								</dd>
+							</dl>
+							<dl>
+								<dt>
+									<a class="kefu-email" href="javascript:void(0)">email</a>
+								</dt>
+								<dd>
+									<a href="javascript:void(0)">邮箱</a>
+								</dd>
+							</dl>
+						</div>
+						<p class="flower-bg">热线电话</p>
+						<img src="images/kefu_19.png">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- footer -->
+<div class="footer">
+	<div class="footer-inner">
+		footer
+	</div>
+</div>
+
+
+<!--#include file="inc/footer.shtml"-->
+<script type="text/javascript">
+	$(function(){
+		//right-ol
+		function olHover(){
+			$('.right-ol li:first').find('.ol-content').show();
+			$('.right-ol li').hover(function(){
+				$(this)
+				.css({"border-color":"#ddd","background-color":"#f9f9f9"})
+				.find('.ol-content').show();
+				$(this).siblings()
+				.css({"border-color":"#fff","background-color":"#fff"})
+				.find('.ol-content').hide();
+			},function(){
+				$(this)
+				.css({"border-color":"#ddd","background-color":"#f9f9f9"})
+				.find('.ol-content').show()
+				.siblings().find('.ol-content').hide();
+				$(this).siblings()
+				.css({"border-color":"#fff","background-color":"#fff"})
+			})
+		}
+		olHover();
+
+		//tab
+		function tadChangeClick(){
+			$('.tab-title li').click(function(){
+		        $(this).addClass('active').siblings().removeClass('active');
+				$(this).parent('.tab-title').next('.tab-content-box').find('.tab-content').hide().eq($(this).index()).show();
+			});
+		};
+		tadChangeClick();
+
+
+		// dl-list
+		$('.dl-list dl').hover(function(){
+			$(this).css({"background":"#f5f5f5"});
+		},function(){
+			$(this).css({"background":"#fff"});
+		})
+	})
+</script>
+</body>
+</html>
