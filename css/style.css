@@ -508,9 +508,6 @@ a:hover{ text-decoration: underline; color: #a11;}
 	/* pay center
 	-------------------------------------------------------------------------------- */
 	.pay-user-module{ padding: 15px 15px 0;}
-	.pay-bank-module .tab-title{ background-color: white; padding-left: 15px; width: 985px;}
-	.pay-bank-module .tab-title li{width: auto; text-align: center;}
-	.pay-bank-module .tab-title li a{width: auto; padding: 0 35px;}
 	.pay-user-image { width: 120px; float: left;}
 	.pay-user-image .head-portrait{padding-top: 5px;}
 	.pay-user-image .head-portrait .face-link,
@@ -522,25 +519,14 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.pay-info{ float: right; width: 814px; text-align: left; font-size: 14px; padding-top: 15px;}
 	.pay-info p{ margin-bottom: 15px;}
 	.pay-info p em{ font-style: normal; color: #a11;}
-	.pay-bank-module .tab-content{ min-height: 650px;}
-	.gold-coins-use{ padding-right: 78px;}
-	.pay-info .gold-coins-num{ margin-bottom: 25px;}
-	.confirm-payment{ background-color: #a11; color: white; display: inline-block; height: 32px; line-height: 32px; padding: 0 26px;}
 	.pay-info p a:hover{color: white; text-decoration: underline;}
-	
-	.gold-coins-num .info-txt,
-	.select-demo{ float: left;}
-	.select-demo{ position: relative;}
-	.input-box{ position: relative; z-index: 2; width: 158px; height: 18px; display: inline-block; border: 1px solid #cccccc;}
-	.input-box input{ position: absolute; top: 0; left: 0; padding: 0 4px; width: 135px; height: 18px; border: 0; font-size: 12px; line-height: 18px; color: #999;}
-	.input-box a{ position: absolute; top: 0; right: 0; display: inline-block; width: 14px; height: 18px; border-left: 1px solid #cccccc;background: url("../images/select.jpg") left top no-repeat;}
-	.select-demo select{ position: absolute; z-index: 1; top: 0; left: 0; width: 160px; height: 20px;}
-
+	.input-control{ width: 150px; height: 24px; line-height: 24px; padding: 0 4px; border: 1px solid #ccc; font-size: 12px; color: #999; vertical-align: middle;}
+						
 	.pay-bank-list{ margin-top: 30px; padding: 0 5px;}
 	.j-card-element,
 	.bank-icon-container,
 	.channel-label{ display: inline-block; width: 170px; height: 40px; vertical-align: middle; font-size: 14px;}
-	.row-basic{width: 193px; margin: 0 15px 26px; float: left;}
+	.row-basic{width: 193px; margin: 0 15px 26px; float: left; font-size: 0; *display: inline;}
 	.channel-input{ vertical-align: middle; margin-right: 10px; *margin-top: 13px; *height: 13px; *width: 13px;}
 	.channel-input,
 	.channel-label{ *float: left;}
