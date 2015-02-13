@@ -77,14 +77,15 @@ a:hover{ text-decoration: underline; color: #a11;}
 	/* props-module
 	-------------------------------------------------------------------------------- */
 	.props-module{ margin: 0 10px 10px; background-color: white; padding-bottom: 25px;}
-	.props-title{ padding: 0 16px; background-color: #a51417;color: white; font-size: 16px; height: 45px; line-height: 45px; margin-bottom: 10px;}
+	.props-title{ padding: 0 16px; background-color: #a51417;color: white; font-size: 16px; height: 45px; line-height: 45px; margin-bottom: 20px;}
 	.props-title a{ color: white;}
 	.props-module ul{ background-color: white; font-size: 0;}
 	.props-module ul li{ display: inline-block; _display: inline; float: left\9; width: 166px; margin: 0 15px 20px; font-size: 0; text-align: center;}
-	.props-module ul li a img{ width: 166px; height: 120px;}
+	.props-module ul li a img{ width: 100px; height: 100px;}
 	.props-module ul li p{ text-align: center;color: #999; font-size: 12px;}
 	.props-module ul li .buy-link a{ display: inline-block; background-color: #a51417; color: white; font-size: 12px; height: 22px; line-height: 22px; border-radius: 4px; padding: 0 18px;}
 	.props-module ul li .buy-link{ padding: 10px 0 4px;}
+	.props-module ul li .slogan{ font-size: 14px; color: #a11; padding-top: 10px;}
 
 	/* ticket-module
 	-------------------------------------------------------------------------------- */
