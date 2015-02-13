@@ -1,0 +1,344 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--#include file="inc/common.shtml"--> 
+<title>新手任务</title>
+<!--#include file="inc/ie.shtml"-->
+</head>
+
+<body>
+
+<!-- nav -->
+<div class="nav">模拟炒股大赛</div> 
+
+<!-- main -->
+<div class="main">
+	<div class="main-content-inner">
+		<div class="content-bar clearfix">
+			<!-- 元宝任务 -->
+			<div class="main-max-module">
+				<div class="main-title clearfix">
+					<h2 class="clearfix">
+						<em>元宝任务</em>
+						<span class="border-angle"></span>
+						<a class="button-right" href="javascript:void(0)">参加元宝兑换</a>
+					</h2>
+				</div>
+				<div class="list3-border0-container">
+					<ul class="clearfix">
+						<li>
+							<div class="clearfix">
+								<div class="list-peitu-box">
+									<a href="javascript:void(0)">
+										<img src="images/mini_03.jpg" alt="78x78">
+									</a>
+									<span>元宝<em>＋1000</em></span>
+								</div>
+								<div class="list-text">
+									<h3>
+										<a href="javascript:void(0)">元宝任务</a>
+									</h3>
+									<p>上传属于您的个性头像，茫茫股海大家一眼就能认出您就是最NB的操作盘手！</p>
+									<div>
+										<a class="warning-btn" href="javascript:void(0)">去做任务</a>
+									</div>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+
+			<!-- 新手任务 -->
+			<div class="main-max-module">
+				<div class="main-title clearfix">
+					<h2 class="clearfix">
+						<em>新手任务</em>
+						<span class="border-angle"></span>
+						<a class="button-right" href="javascript:void(0)">参加积分兑换</a>
+					</h2>
+				</div>
+				<div class="list3-border0-container">
+					<ul class="clearfix">
+						<li>
+							<div class="clearfix">
+								<div class="list-peitu-box">
+									<a href="javascript:void(0)">
+										<img src="images/mini_07.jpg" alt="78x78">
+									</a>
+									<span>积分<em>＋10</em></span>
+								</div>
+								<div class="list-text">
+									<h3>
+										<a href="javascript:void(0)">上传个人头像</a>
+									</h3>
+									<p>上传属于您的个性头像，茫茫股海大家一眼就能认出您就是最NB的操作盘手！</p>
+									<div>
+										<a class="warning-btn" href="javascript:void(0)">去做任务</a>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="clearfix">
+								<div class="list-peitu-box">
+									<a href="javascript:void(0)">
+										<img src="images/mini_09.jpg" alt="78x78">
+									</a>
+									<span>积分<em>＋50</em></span>
+								</div>
+								<div class="list-text">
+									<h3>
+										<a href="javascript:void(0)">完善个人资料</a>
+									</h3>
+									<p>行不更名坐不改姓，完善您的投资资料，有机会领取超级大奖！</p>
+									<div>
+										<a class="warning-btn grey-btn" href="javascript:void(0)">已完成</a>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="clearfix">
+								<div class="list-peitu-box">
+									<a href="javascript:void(0)">
+										<img src="images/mini_11.jpg" alt="78x78">
+									</a>
+									<span>积分<em>＋100</em></span>
+								</div>
+								<div class="list-text">
+									<h3>
+										<a href="javascript:void(0)">关注实盘大赛</a>
+									</h3>
+									<p>光说不练假把式，炒股还看真技术！关注炒股实盘赛，跟着牛人抓涨停！</p>
+									<div>
+										<a class="warning-btn" href="javascript:void(0)">去做任务</a>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="clearfix">
+								<div class="list-peitu-box">
+									<a href="javascript:void(0)">
+										<img src="images/mini_16.jpg" alt="78x78">
+									</a>
+									<span>积分<em>＋200</em></span>
+								</div>
+								<div class="list-text">
+									<h3>
+										<a href="javascript:void(0)">参加实盘大赛</a>
+									</h3>
+									<p>炒股千日赢在此时！我出资金您操盘，拿大奖数钞票，决战最牛私募王！</p>
+									<div>
+										<a class="warning-btn" href="javascript:void(0)">去做任务</a>
+									</div>
+								</div>
+							</div>
+						</li>
+
+						<li>
+							<div class="clearfix">
+								<div class="list-peitu-box">
+									<a href="javascript:void(0)">
+										<img src="images/mini_17.jpg" alt="78x78">
+									</a>
+									<span>积分<em>＋100</em></span>
+								</div>
+								<div class="list-text">
+									<h3>
+										<a href="javascript:void(0)">首次访问商城</a>
+									</h3>
+									<p>领积分，兑奖品：汽车，iphone等你拿！</p>
+									<div>
+										<a class="warning-btn" href="javascript:void(0)">去做任务</a>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="clearfix">
+								<div class="list-peitu-box">
+									<a href="javascript:void(0)">
+										<img src="images/mini_18.jpg" alt="78x78">
+									</a>
+									<span>积分<em>＋20</em></span>
+								</div>
+								<div class="list-text">
+									<h3>
+										<a href="javascript:void(0)">首次送出道具</a>
+									</h3>
+									<p>为您欣赏的选手投上宝贵的一票，最牛私募王离不开您的鼎力支持！</p>
+									<div>
+										<a class="warning-btn" href="javascript:void(0)">去做任务</a>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="clearfix">
+								<div class="list-peitu-box">
+									<a href="javascript:void(0)">
+										<img src="images/mini_22.jpg" alt="78x78">
+									</a>
+									<span>积分<em>＋50</em></span>
+								</div>
+								<div class="list-text">
+									<h3>
+										<a href="javascript:void(0)">下载客户端</a>
+									</h3>
+									<p>欲先善其事必先利其器，下载炒股大赛专用客户端《中证热点早知道》，决策先人一步！</p>
+									<div>
+										<a class="warning-btn" href="javascript:void(0)">去做任务</a>
+									</div>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+
+			<!-- 日常任务 -->
+			<div class="main-max-module">
+				<div class="main-title clearfix">
+					<h2 class="clearfix">
+						<em>日常任务</em>
+						<span class="border-angle"></span>
+						<a class="button-right" href="javascript:void(0)">参加积分兑换</a>
+					</h2>
+				</div>
+				<div class="list3-border0-container">
+					<ul class="clearfix">
+						<li>
+							<div class="clearfix">
+								<div class="list-peitu-box">
+									<a href="javascript:void(0)">
+										<img src="images/mini_24.jpg" alt="78x78">
+									</a>
+									<span>积分<em>＋50</em></span>
+								</div>
+								<div class="list-text">
+									<h3>
+										<a href="javascript:void(0)">每天实盘交易</a>
+									</h3>
+									<p>学而时习之不亦悦乎，实践出真知，无交易不进步！</p>
+									<div>
+										<a class="warning-btn grey-btn" href="javascript:void(0)">已完成</a>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="clearfix">
+								<div class="list-peitu-box">
+									<a href="javascript:void(0)">
+										<img src="images/mini_25.jpg" alt="78x78">
+									</a>
+									<span>积分<em>＋50</em></span>
+								</div>
+								<div class="list-text">
+									<h3>
+										<a href="javascript:void(0)">关注实盘选手</a>
+									</h3>
+									<p>好好学习天天向上，看高手炒股，学牛人思路，成功的就会在眼前！</p>
+									<div>
+										<a class="warning-btn grey-btn" href="javascript:void(0)">已完成</a>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="clearfix">
+								<div class="list-peitu-box">
+									<a href="javascript:void(0)">
+										<img src="images/mini_26.jpg" alt="78x78">
+									</a>
+									<span>积分<em class="grey">＋20</em></span>
+								</div>
+								<div class="list-text">
+									<h3>
+										<a href="javascript:void(0)">转发选手收益</a>
+									</h3>
+									<p>一个好汉三个帮，您的转发就是对高帮的最好支持！</p>
+									<div>
+										<a class="warning-btn" href="javascript:void(0)">去做任务</a>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="clearfix">
+								<div class="list-peitu-box">
+									<a href="javascript:void(0)">
+										<img src="images/mini_30.jpg" alt="78x78">
+									</a>
+									<span>积分<em class="grey">＋20</em></span>
+								</div>
+								<div class="list-text">
+									<h3>
+										<a href="javascript:void(0)">转发选手观点</a>
+									</h3>
+									<p>同乐乐不如众乐乐，分享大赛，让您的朋友和您一起在股市中成长赚取收益！</p>
+									<div>
+										<a class="warning-btn" href="javascript:void(0)">去做任务</a>
+									</div>
+								</div>
+							</div>
+						</li>
+
+						<li>
+							<div class="clearfix">
+								<div class="list-peitu-box">
+									<a href="javascript:void(0)">
+										<img src="images/mini_31.jpg" alt="78x78">
+									</a>
+									<span>积分<em class="grey">＋20</em></span>
+								</div>
+								<div class="list-text">
+									<h3>
+										<a href="javascript:void(0)">推广比赛</a>
+									</h3>
+									<p>同乐乐不如众乐乐，分享大赛，让您的朋友和您一起在股市中成长赢得收益！</p>
+									<div>
+										<a class="warning-btn" href="javascript:void(0)">去做任务</a>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="clearfix">
+								<div class="list-peitu-box">
+									<a href="javascript:void(0)">
+										<img src="images/mini_32.jpg" alt="78x78">
+									</a>
+									<span>积分<em class="grey">＋20/天</em></span>
+								</div>
+								<div class="list-text">
+									<h3>
+										<a href="javascript:void(0)">每日购买道具</a>
+									</h3>
+									<p>快开去商城看看，有买道具送积分哦！</p>
+									<div>
+										<a class="warning-btn" href="javascript:void(0)">去做任务</a>
+									</div>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- footer -->
+<div class="footer">
+	<div class="footer-inner">
+		footer
+	</div>
+</div>
+
+
+</body>
+</html>

@@ -76,7 +76,7 @@
 								<!-- 银行卡支付 -->
 								<div class="tab-content tab-active">
 									<div class="pay-bank-list clearfix">
-										<div class="row-basic">
+										<div class="row-basic clearfix">
 										    <input type="radio" id="icbc" name="apiCode" value="" class="j-bank-radio channel-input">
 										    <label for="icbc" class="channel-label">
 										        <span class="j-card-element">
@@ -87,7 +87,7 @@
 										        </span>
 										    </label>
 										</div>
-										<div class="row-basic">
+										<div class="row-basic clearfix">
 										    <input type="radio" id="abc" name="apiCode" value="" class="j-bank-radio channel-input">
 										    <label for="abc" class="channel-label">
 										        <span class="j-card-element">
@@ -98,7 +98,7 @@
 										        </span>
 										    </label>
 										</div>
-										<div class="row-basic">
+										<div class="row-basic clearfix">
 										    <input type="radio" id="cbc" name="apiCode" value="cb701" class="j-bank-radio channel-input">
 										    <label for="cbc" class="channel-label">
 										        <span class="j-card-element">
@@ -109,7 +109,7 @@
 										        </span>
 										    </label>
 										</div>
-										<div class="row-basic">
+										<div class="row-basic clearfix">
 										    <input type="radio" id="psbc" name="apiCode" value="" class="j-bank-radio channel-input">
 										    <label for="psbc" class="channel-label">
 										        <span class="j-card-element">
@@ -120,7 +120,7 @@
 										        </span>
 										    </label>
 										</div>
-										<div class="row-basic">
+										<div class="row-basic clearfix">
 										    <input type="radio" id="boc" name="apiCode" value="" class="j-bank-radio channel-input">
 										    <label for="boc" class="channel-label">
 										        <span class="j-card-element">
@@ -131,7 +131,7 @@
 										        </span>
 										    </label>
 										</div>
-										<div class="row-basic">
+										<div class="row-basic clearfix">
 										    <input type="radio" id="bcm" name="apiCode" value="" class="j-bank-radio channel-input">
 										    <label for="bcm" class="channel-label">
 										        <span class="j-card-element">
@@ -142,7 +142,7 @@
 										        </span>
 										    </label>
 										</div>
-										<div class="row-basic">
+										<div class="row-basic clearfix">
 										    <input type="radio" id="cmb" name="apiCode" value="" class="j-bank-radio channel-input">
 										    <label for="cmb" class="channel-label">
 										        <span class="j-card-element">
@@ -153,7 +153,7 @@
 										        </span>
 										    </label>
 										</div>
-										<div class="row-basic">
+										<div class="row-basic clearfix">
 										    <input type="radio" id="cgb" name="apiCode" value="" class="j-bank-radio channel-input">
 										    <label for="cgb" class="channel-label">
 										        <span class="j-card-element">
@@ -164,7 +164,7 @@
 										        </span>
 										    </label>
 										</div>
-										<div class="row-basic">
+										<div class="row-basic clearfix">
 										    <input type="radio" id="ceb" name="apiCode" value="" class="j-bank-radio channel-input">
 										    <label for="ceb" class="channel-label">
 										        <span class="j-card-element">
@@ -175,7 +175,7 @@
 										        </span>
 										    </label>
 										</div>
-										<div class="row-basic">
+										<div class="row-basic clearfix">
 										    <input type="radio" id="cib" name="apiCode" value="" class="j-bank-radio channel-input">
 										    <label for="cib" class="channel-label">
 										        <span class="j-card-element">
@@ -186,7 +186,7 @@
 										        </span>
 										    </label>
 										</div>
-										<div class="row-basic">
+										<div class="row-basic clearfix">
 										    <input type="radio" id="bob" name="apiCode" value="" class="j-bank-radio channel-input">
 										    <label for="bob" class="channel-label">
 										        <span class="j-card-element">
@@ -197,7 +197,7 @@
 										        </span>
 										    </label>
 										</div>
-										<div class="row-basic">
+										<div class="row-basic clearfix">
 										    <input type="radio" id="spd" name="apiCode" value="" class="j-bank-radio channel-input">
 										    <label for="spd" class="channel-label">
 										        <span class="j-card-element">
@@ -208,7 +208,7 @@
 										        </span>
 										    </label>
 										</div>
-										<div class="row-basic">
+										<div class="row-basic clearfix">
 										    <input type="radio" id="cmbc" name="apiCode" value="" class="j-bank-radio channel-input">
 										    <label for="cmbc" class="channel-label">
 										        <span class="j-card-element">
@@ -219,7 +219,7 @@
 										        </span>
 										    </label>
 										</div>
-										<div class="row-basic">
+										<div class="row-basic clearfix">
 										    <input type="radio" id="ccb" name="apiCode" value="" class="j-bank-radio channel-input">
 										    <label for="ccb" class="channel-label">
 										        <span class="j-card-element">
@@ -230,7 +230,7 @@
 										        </span>
 										    </label>
 										</div>
-										<div class="row-basic">
+										<div class="row-basic clearfix">
 										    <input type="radio" id="hxb" name="apiCode" value="" class="j-bank-radio channel-input">
 										    <label for="hxb" class="channel-label">
 										        <span class="j-card-element">
@@ -241,7 +241,7 @@
 										        </span>
 										    </label>
 										</div>
-										<div class="row-basic">
+										<div class="row-basic clearfix">
 										    <input type="radio" id="pab" name="apiCode" value="" class="j-bank-radio channel-input">
 										    <label for="pab" class="channel-label">
 										        <span class="j-card-element">

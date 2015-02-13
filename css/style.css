@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------- */
 
 body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
-a:hover{ text-decoration: underline; color: #ca1612;}
+a:hover{ text-decoration: underline; color: #a11;}
 .main-content-inner,
 .footer-inner{width: 1000px; margin: 0 auto; background-color: #f5f5f5;}
 .main-content-inner{padding-bottom: 20px;}
@@ -102,14 +102,14 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	-------------------------------------------------------------------------------- */
 	.content-bar{ margin-top: 12px;}
 	.main-left-bar{ width: 688px; float: left; border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7; background-color: white;}
-	.border-angle { font-style: normal; border-color: #ca1612 #fff #fff #ca1612; border-style: solid; border-width: 19px 8px; font-size: 0; height: 0; line-height: 0; width: 0; overflow: hidden;}
+	.border-angle { font-style: normal; border-color: #a11 #fff #fff #a11; border-style: solid; border-width: 19px 8px; font-size: 0; height: 0; line-height: 0; width: 0; overflow: hidden;}
 	
-	.main-title{ border-bottom:1px solid #ca1612;}
-	.main-title h2 em{ padding: 0 28px 0 15px; display: inline-block; float: left; font-style: normal; height: 38px; line-height: 38px; background-color: #ca1612; color: white; font-size:16px;}
+	.main-title{ border-bottom:1px solid #a11;}
+	.main-title h2 em{ padding: 0 28px 0 15px; display: inline-block; float: left; font-style: normal; height: 38px; line-height: 38px; background-color: #a11; color: white; font-size:16px;}
 	.main-title h2 .notice-text { float: left;height: 34px; line-height: 34px; font-size: 12px; color: #666;}
-	.main-title h2 .notice-text i{ color: #ca1612; font-size: 14px; vertical-align: middle; margin: 0 4px 0 10px;}
+	.main-title h2 .notice-text i{ color: #a11; font-size: 14px; vertical-align: middle; margin: 0 4px 0 10px;}
 	.main-title h2 .border-angle { float: left;}
-	.main-title h2 .more-dian { display: inline-block;width: 17px; height: 33px; background: url('../images/dian3.jpg') left center no-repeat; float: right; margin-right: 15px;}
+	.main-title h2 .more-dian { display: inline-block;width: 17px; height: 38px; background: url('../images/dian3.jpg') left center no-repeat; float: right; margin-right: 15px;}
 	.info-list{ padding: 12px 16px 0;}
 	.main-left-inner .info-list ul{margin-bottom: 24px;}
 	.info-list ul li{ position: relative; font-size: 14px; padding-left: 10px; background: url('../images/dian.jpg') left 13px no-repeat; height: 28px; line-height: 28px; overflow: hidden;}
@@ -122,8 +122,8 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.main-right-bar{ width: 300px; width: 302px\9; float: right;}
 	.main-right-inner{width: 300px; border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7; background-color: white; margin-bottom: 12px;}
 
-	.bar-title{ padding: 0 15px; border-bottom:1px solid #ca1612;}
-	.bar-title h2{ position: relative; height: 33px; line-height: 33px; font-size: 16px; color: #ca1612;}
+	.bar-title{ padding: 0 15px; border-bottom:1px solid #a11;}
+	.bar-title h2{ position: relative; height: 33px; line-height: 33px; font-size: 16px; color: #a11;}
 	.bar-title h2 a{ position: absolute; right: 0; top: 0; display: inline-block;width: 17px; height: 33px; background: url('../images/dian3.jpg') left center no-repeat;}
 	
 	.info-list-right { padding-bottom: 12px;}
@@ -140,7 +140,7 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.ol-content img{ float: left; width: 78px; height: 78px; border: 1px solid #ddd;}
 	.ol-content .ol-text{ float: right; width: 179px; height: 79px; overflow: hidden; font-size: 12px;}
 	.ol-content .ol-text a{ color: #333; line-height: 20px; text-align: justify;}
-	.ol-content .ol-text a:hover{ color: #ca1612;}
+	.ol-content .ol-text a:hover{ color: #a11;}
 
 	.ad-image{font-size: 0;}
 	.ad-image a img{ width: 100%;}
@@ -186,21 +186,21 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.inset-text h2 a span{ padding-right: 4px;}
 	.text-summary{ font-size: 14px; line-height: 22px; color: #666;}
 	.text-summary a{ color: #333; font-size: 12px;}
-	.text-summary a:hover{ color: #ca1612; font-size: 12px;}
+	.text-summary a:hover{ color: #a11; font-size: 12px;}
 	.text-time{ font-size: 0; padding-top: 8px;}
 	.text-time span,
 	.text-time a{ font-size: 12px; color: #999;padding-left: 20px; line-height: 20px;}
 	.text-time span{background: url('../images/icon_04.jpg') left center no-repeat; display: inline-block; margin-right: 30px;}
 	.text-time a{ background: url('../images/icon_06.jpg') left center no-repeat;}
-	.text-time a:hover{text-decoration: underline; color: #ca1612;}
+	.text-time a:hover{text-decoration: underline; color: #a11;}
 	.list-box dl{ margin-top: 15px;}
 	.list-box dl dt,
 	.list-box dl dd{ float: left;}
 	.list-box dl dt{ width: 50px; text-align: left; font-size: 16px; color: #666; padding-top: 6px;}
 	.list-box dl dd{ width: 608px; float: right;}
-	.list-box dl dd a{ display: inline-block; color: #666; font-size: 12px; padding: 8px 10px; margin: 0 0 10px 10px; border: 1px solid #ca1612;}
-	.list-box dl dd a span{ color: #ca1612;}
-	.list-box dl dd a:hover{ background-color: #ca1612;}
+	.list-box dl dd a{ display: inline-block; color: #666; font-size: 12px; padding: 8px 10px; margin: 0 0 10px 10px; border: 1px solid #a11;}
+	.list-box dl dd a span{ color: #a11;}
+	.list-box dl dd a:hover{ background-color: #a11;}
 	.list-box dl dd a:hover span{color: #fff;}
 
 	.view-content .pagination-content{ margin-top: -30px; border: none;}
@@ -208,10 +208,10 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	/* main-right-inner Tab
 	-------------------------------------------------------------------------------- */
 	.tab-content-box{ font-size: 0; }
-	.tab-title{ width: 100%; border-bottom: 1px solid #ca1612; background-color: #ca1612;}
+	.tab-title{ width: 100%; border-bottom: 1px solid #a11; background-color: #a11;}
 	.tab-title li{ width: 150px; float: left; background-color: #fff;}
-	.tab-title li a{ display: inline-block; width: 100%; height: 34px; text-align: center; font-size: 16px; line-height: 34px; color: #ca1612;}
-	.tab-title .active a{ background-color: #ca1612; color: white;}
+	.tab-title li a{ display: inline-block; width: 100%; height: 34px; text-align: center; font-size: 16px; line-height: 34px; color: #a11;}
+	.tab-title .active a{ background-color: #a11; color: white;}
 	.tab-content{ display: none;}
 	.tab-active{ display: block;}
 	.tab-inner-title{background-color: #f9f9f9;padding: 8px 0; height: 16px; overflow: hidden;}
@@ -225,13 +225,13 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.dl-list dl dt,
 	.dl-list dl dd{ float: left; font-size: 14px; line-height: 28px; color: #666;}
 	.dl-list dl dt{ width: 18px; text-align: left;}
-	.dl-list dl .best-user{ color: #ca1612;}
+	.dl-list dl .best-user{ color: #a11;}
 	.dl-list dl dd{ width: 117px;}
 	.dl-list dl .dl-number{ width: 118px; padding-left: 17px; text-align: center;}
 	.dl-list dl dd .list-user-img{ display: inline-block; width: 28px; border: 1px solid #ddd; float: left; font-size: 0; line-height: 0;}
 	.dl-list dl dd .list-user-img img{ width: 28px; height: 28px;}
 	.dl-list dl dd .list-user-name{ width: 81px; border: none; margin-left: 6px; font-size: 14px;}
-	.dl-list dl dd a:hover{ color: #ca1612;}
+	.dl-list dl dd a:hover{ color: #a11;}
 
 	.integral-module .tab-content{ display: block;}
 
@@ -246,9 +246,9 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.gaoshou-content .tab-content table th{ background-color: #f9f9f9; height: 33px; _line-height: 33px; vertical-align: middle; border-bottom: 1px solid #ddd;}
 	.gaoshou-content .tab-content table td{ height: 38px; vertical-align: middle;}
 	.gaoshou-content .tab-content table td .ranking{ display: inline-block; background-color: #999999; color: white; min-width: 16px; _width: 16px; padding: 1px 2px; height: 18px; line-height: 18px; border-radius: 2px;}
-	.gaoshou-content .tab-content table td .ranking-color{ background-color: #ca1612;}
+	.gaoshou-content .tab-content table td .ranking-color{ background-color: #a11;}
 	.caozuo-icon{ display: inline-block;width: 11px; height: 11px; background: url('../images/caozuo.jpg') left top no-repeat; vertical-align: middle; margin-right: 5px;}
-	.gaoshou-content .tab-content table td a:hover{ color: #ca1612; text-decoration: underline;}
+	.gaoshou-content .tab-content table td a:hover{ color: #a11; text-decoration: underline;}
 	.gaoshou-content .tab-content-box{ min-height: 432px; _height: 432px;}
 	.table-pagination .pagination-content{ margin: 20px 15px 0;}
 
@@ -268,7 +268,7 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.table-module tr th{ border-bottom: 1px solid #dcdcdc; height: 34px; line-height: 16px; vertical-align: middle; font-size: 12px; font-weight: normal; background-color: #f9f9f9;}
 	.table-module tr td{ border-bottom: 1px solid #ddd; font-size: 12px; height: 44px; line-height: 16px; vertical-align: middle;}
 	.table-module tr .bd-white{ border-bottom: 1px solid white;}
-	.table-module tr td a:hover{color: #ca1612; text-decoration: underline;}
+	.table-module tr td a:hover{color: #a11; text-decoration: underline;}
 	
 	/* zhichibang
 	-------------------------------------------------------------------------------- */
@@ -276,7 +276,7 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.table-user-face img{ width: 28px; height: 28px;}
 	.zhichi-module .table-module tr td {border: none;}
 	.table-module tr td .ranking{ text-align: center; display: inline-block; background-color: #999999; color: white; min-width: 16px; _width: 16px; padding: 1px 2px; height: 18px; line-height: 18px; border-radius: 2px;}
-	.table-module tr td .ranking-color{ background-color: #ca1612;}
+	.table-module tr td .ranking-color{ background-color: #a11;}
 	.table-pagination0{ margin: 10px 15px 0;}
 	.table-pagination0 .pagination-content{border-top:1px solid #ddd;}
 	.max-module-box{ padding: 0; margin: 0;}
@@ -291,9 +291,9 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.table-border0-module .tab-content table th{ background-color: #f9f9f9; height: 33px; _line-height: 33px; vertical-align: middle; border-bottom: 1px solid #ddd;}
 	.table-border0-module .tab-content table td{ height: 38px; vertical-align: middle; border: none;}
 	.table-border0-module .tab-content table td .ranking{ display: inline-block; background-color: #999999; color: white; min-width: 16px; _width: 16px; padding: 1px 2px; height: 18px; line-height: 18px; border-radius: 2px;}
-	.table-border0-module .tab-content table td .ranking-color{ background-color: #ca1612;}
+	.table-border0-module .tab-content table td .ranking-color{ background-color: #a11;}
 	.caozuo-icon{ display: inline-block;width: 11px; height: 11px; background: url('../images/caozuo.jpg') left top no-repeat; vertical-align: middle; margin-right: 5px;}
-	.table-border0-module .tab-content table td a:hover{ color: #ca1612; text-decoration: underline;}
+	.table-border0-module .tab-content table td a:hover{ color: #a11; text-decoration: underline;}
 	.table-border0-module .tab-content-box{ min-height: 432px; _height: 432px;}
 	.table-pagination .pagination-content{ margin: 20px 15px 0;}
 
@@ -315,12 +315,12 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.two-bar-module .head-portrait h2{ border-bottom: 0; padding: 10px 0 12px;}
 	.icon-heart{ display: inline-block; width: 16px; height: 14px;background: url('../images/heart_03.png') left center no-repeat;}
 	.focus-box{ padding-bottom: 20px;}
-	.focus-box a{font-size: 14px; color: #ca1612; display: inline-block; padding: 6px 16px; border: 1px solid #ddd; border-radius: 2px;}
+	.focus-box a{font-size: 14px; color: #a11; display: inline-block; padding: 6px 16px; border: 1px solid #ddd; border-radius: 2px;}
 	.focus-box a:hover{ text-decoration: underline;}
 	.focus-box .icon-heart{ vertical-align: middle; margin-right: 8px;}
 	.his-num{ background-color: white; padding: 20px 0 4px;}
 	.his-num p{ text-align: center; font-size: 14px; padding-bottom: 16px;}
-	.his-num p em{ font-style: normal; color: #ca1612; font-size: 16px; padding: 0 2px;}
+	.his-num p em{ font-style: normal; color: #a11; font-size: 16px; padding: 0 2px;}
 	.leftbar-inner{width: 300px; border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7; background-color: white; margin-bottom: 12px;}
 	.leftbar-inner .black-div{ position: relative;z-index: 2; height: 5px; background-color: white; width: 100%; font-size: 0; line-height: 0;}
 	.list-module .list-ul-border{ padding: 0 15px 5px; margin-top: -1px;}
@@ -335,15 +335,15 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.list-module-text p a{ font-size: 12px; color: #666; line-height: 18px;}
 	.list-module-text .list-text-block a{ display: inline-block; height:53px;width: 180px; overflow: hidden;}
 	.list-module-text h4 a:hover,
-	.list-module-text p a:hover{ color: #ca1612;}
+	.list-module-text p a:hover{ color: #a11;}
 	.list-img-box{ margin: 15px 0 0 15px; padding-bottom: 4px;}
 	.list-img-box li{ float: left; width: 80px; margin: 0 15px 0 0; padding-bottom: 12px; text-align: center;*display: inline;}
 	.list-img-box li h4{ font-weight: normal;}
 	.list-img-box li h4 a{ font-weight: normal; font-size: 12px; color: #666;}
-	.list-img-box li h4 a:hover{color: #ca1612;}
+	.list-img-box li h4 a:hover{color: #a11;}
 	.list-img-box .list-img-link{font-size: 0; line-height: 0; width: 78px; height: 78px; border: 1px solid #ddd; display: inline-block;}
 	.list-img-box .list-img-link img{ width: 100%; height: 100%;}
-	.his-chicang .table-warning-btn{ background-color: #ca1612; color: white; display: inline-block; padding: 4px 8px; border-radius: 4px;}
+	.his-chicang .table-warning-btn{ background-color: #a11; color: white; display: inline-block; padding: 4px 8px; border-radius: 4px;}
 	.his-chicang .table-warning-btn:hover{ color: white;}
 	.his-history table tr th{ height: 47px;}
 	.his-view .inset-text h2 a{ font-weight: bold;}
@@ -355,15 +355,15 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.history-content ul li{ float: left; width: 199px; padding: 0 15px 15px; padding: 0 14px 15px\9; text-align: left;}
 	.history-content ul li a{ display: inline-block; width: 192px; height: 30px; line-height: 30px; border: 1px solid #ddd; border-radius: 4px; text-align: center; font-size: 12px; float: left;}
 	.history-content ul li a em{ font-style: normal; padding-right: 20px;}
-	.history-content ul li a:hover{ background-color: #ca1612; border-color: #ca1612; color: white;}
+	.history-content ul li a:hover{ background-color: #a11; border-color: #a11; color: white;}
 	.his-info{ padding: 15px 15px 0; padding: 15px 14px 0\9;}
 	.his-info-left{ float: left; width: 364px;}
 	.his-info-left ul li{ display: inline-block; width: 150px; float: left; width: 167px; float: left; padding: 0 15px 10px 0; font-size: 14px; color: #000;}
 	.his-info-left ul li em{ font-style: normal; color: #666;}
-	.his-info-left ul li span{color: #ca1612;}
+	.his-info-left ul li span{color: #a11;}
 	.his-info-left ul li i{color: #016e0b; font-style: normal;}
 	.share-info{ padding-top: 28px;}
-	.share-info .daoju{ display: inline-block; font-size: 14px; color: white; height: 30px; line-height: 30px; text-align: center; background-color: #ca1612; width: 110px; float: left; margin-left: 15px;}
+	.share-info .daoju{ display: inline-block; font-size: 14px; color: white; height: 30px; line-height: 30px; text-align: center; background-color: #a11; width: 110px; float: left; margin-left: 15px;}
 	.share-info .daoju:hover{ text-decoration: underline;}
 	.share-module{ width: 110px; padding-top: 7px; float: right; font-size: 0; line-height: 16px; margin-right: 40px;}
 	.share-module span{ font-size: 14px; color: #999; float: left;}
@@ -387,7 +387,7 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.peitu img{ width: 100%; height: 100%;}
 	.img-right{ width: 232px; float: right; font-size: 12px;}
 	.img-right h4 a{ width: 232px; font-size: 14px; font-weight: bold; height: 16px; white-space: nowrap; text-overflow:ellipsis;}
-	.img-right h4 a:hover{color: #ca1612;}
+	.img-right h4 a:hover{color: #a11;}
 	.img-right p{ line-height: 18px; color: #666;}
 	.img-right .text-box{height: 232px; height: 36px; overflow: hidden;}
 	.small-info{padding-bottom: 4px;}
@@ -395,14 +395,14 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.small-info a{width: 87px; color: #999; float: right;}
 	.small-info span,
 	.small-info a{ display: inline-block; height: 24px; line-height: 24px; white-space: nowrap; text-overflow:ellipsis; overflow: hidden;}
-	.small-info a:hover{color: #ca1612;}
-	.small-info span em{ font-size: 14px; color: #ca1612;}
-	.chakan{ display: inline-block; height: 16px; line-height: 16px; padding: 0 16px; border: 1px solid #ca1612; border-radius: 2px; color: #ca1612; margin-top: 5px;}
-	.chakan:hover{ color: white; background-color: #ca1612;}
+	.small-info a:hover{color: #a11;}
+	.small-info span em{ font-size: 14px; color: #a11;}
+	.chakan{ display: inline-block; height: 16px; line-height: 16px; padding: 0 16px; border: 1px solid #a11; border-radius: 2px; color: #a11; margin-top: 5px;}
+	.chakan:hover{ color: white; background-color: #a11;}
 	.main-right-inner .black-div{ position: relative; z-index: 2; height: 1px; background-color: white; line-height: 0; font-size: 0;}
 	.main-right-inner .list-ul-border{ position: relative; z-index: 1;}
 	.list-module-text .dongtai-text{ width: 180px; height: 36px; overflow: hidden; text-align: justify;}
-	.list-module-text .dongtai-text a{ color: #ca1612;}
+	.list-module-text .dongtai-text a{ color: #a11;}
 	.list-module-text .dongtai-text .name-text{ color: #0f5fb1;}
 	.time-text{ text-align: right;}
 	.time-text span{ text-align: right; background: url('../images/icon_04.jpg') left center no-repeat; padding-left: 20px;line-height: 18px; color: #999;}
@@ -420,7 +420,7 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.zhuanjia ul li .zhuanjia-img{ margin-bottom: 2px; display: inline-block; width: 100%; height: 180px; overflow: hidden;}
 	.zhuanjia ul li .zhuanjia-img img{ width: 100%;}
 	.zhuanjia ul li p{ font-size: 14px; text-align: center; line-height: 22px;}
-	.zhuanjia ul li p a:hover{color: #ca1612;}
+	.zhuanjia ul li p a:hover{color: #a11;}
 
 	/* award set
 	-------------------------------------------------------------------------------- */
@@ -433,10 +433,10 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.dl-container dl dt,
 	.dl-container dl dd{font-size: 14px; color: #666;line-height: 24px;}
 	.dl-container dl dt i{ font-style: normal; display: inline-block; background-color: #999999; color: white; min-width: 16px; _width: 16px; padding: 1px 2px; height: 18px; line-height: 18px; border-radius: 2px; text-align: center;}
-	.dl-container dl dt .ranking-color{ background-color: #ca1612;}
+	.dl-container dl dt .ranking-color{ background-color: #a11;}
 	.award-warning{border-top: 1px dashed #ddd; padding-top: 8px;}
 	.award-warning p{font-size: 14px; color: #666;}
-	.award-warning p i{font-style: normal; color: #ca1612; font-size: 16px; vertical-align: middle; margin-right: 4px;}
+	.award-warning p i{font-style: normal; color: #a11; font-size: 16px; vertical-align: middle; margin-right: 4px;}
  
 	/* Trading rules
 	-------------------------------------------------------------------------------- */
@@ -455,7 +455,7 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.info-list .ul-dian-list{ margin-bottom: 30px;}
 	.info-list .ul-dian-list li p{ display: inline-block; width: 100%; height: 28px; overflow: hidden; text-overflow:ellipsis; white-space: nowrap;}
 	.info-list .ul-dian-list li p a{ color: #0f5fb1;}
-    .info-list .ul-dian-list li p a:hover{ color: #ca1612;}
+    .info-list .ul-dian-list li p a:hover{ color: #a11;}
 	/* article
 	-------------------------------------------------------------------------------- */
 	.article-module{ padding: 25px 15px 15px;}
@@ -468,7 +468,7 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.bottom-middle,
 	.bottom-right{ margin-right: 40px; float: left;_display:inline;}
 
-	.bottom-left{ width: 226px; border-right: 2px solid #ca1612;}
+	.bottom-left{ width: 226px; border-right: 2px solid #a11;}
 	.bottom-middle{ width: 240px; font-size: 14px;}
 	.bottom-middle img{margin-bottom: 7px; width: 190px;}
 	.bottom-middle p{line-height: 24px;}
@@ -481,7 +481,7 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 
 	.list-all-text h4{ font-size: 14px; line-height: 18px; margin-bottom: 6px;  font-weight: normal;}
 	.list-all-text h4 a{display: inline-block; max-height: 36px;_height:36px; overflow: hidden; color: #666;}
-	.list-all-text h4 a:hover{ color: #ca1612;}
+	.list-all-text h4 a:hover{ color: #a11;}
 	.list-all-text .list-text-time span{ font-size: 12px; line-height: 17px; background: url("../images/time_03.png") left center no-repeat; padding-left: 20px; color: #999;}
 	.list-ul-scorll{ height: 400px; overflow-y: scroll;}
 
@@ -489,12 +489,12 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	/* share
 	-------------------------------------------------------------------------------- */
 	.share-container{ padding: 15px; text-align: center;}
-	.share-container h2{ font-size: 36px; color: #ca1612; font-weight: normal; margin-bottom: 35px;}
+	.share-container h2{ font-size: 36px; color: #a11; font-weight: normal; margin-bottom: 35px;}
 	.share-container p{ font-size: 16px; line-height: 28px; width: 706px; margin: 0 auto 40px;}
 	.copy-link{ font-size: 0;padding-left: 255px;}
 	.copy-link .form-control{width: 252px; height: 22px; line-height: 22px; border: 1px solid #ccc; font-size: 14px; padding: 4px; margin-right: 10px;}
 	.copy-link span{font-size: 16px; line-height: 30px;vertical-align: middle;}
-	.copy-link .btn-control{font-size: 14px;height: 30px; line-height: 30px; width: 106px; text-align: center;background-color: #ca1612; color: white; border: 1px solid #ca1612;vertical-align: middle; display: inline-block;}
+	.copy-link .btn-control{font-size: 14px;height: 30px; line-height: 30px; width: 106px; text-align: center;background-color: #a11; color: white; border: 1px solid #a11;vertical-align: middle; display: inline-block;}
 	.copy-link .form-control,
 	.copy-link span,
 	.copy-link .btn-control{float:left;}
@@ -518,14 +518,14 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.pay-user-image .head-portrait .face-link .face-img{ width: 80px; height: 80px;}
 	.pay-user-image .head-portrait h2{border: 0;}
 	.pay-user-image .head-portrait h2 a{ display: inline-block; width: 80px; height: 16px; overflow: hidden; text-overflow:ellipsis; white-space: nowrap;}
-	.pay-user-image .head-portrait h2 a:hover{ color: #ca1612;}
+	.pay-user-image .head-portrait h2 a:hover{ color: #a11;}
 	.pay-info{ float: right; width: 814px; text-align: left; font-size: 14px; padding-top: 15px;}
 	.pay-info p{ margin-bottom: 15px;}
-	.pay-info p em{ font-style: normal; color: #ca1612;}
+	.pay-info p em{ font-style: normal; color: #a11;}
 	.pay-bank-module .tab-content{ min-height: 650px;}
 	.gold-coins-use{ padding-right: 78px;}
 	.pay-info .gold-coins-num{ margin-bottom: 25px;}
-	.confirm-payment{ background-color: #ca1612; color: white; display: inline-block; height: 32px; line-height: 32px; padding: 0 26px;}
+	.confirm-payment{ background-color: #a11; color: white; display: inline-block; height: 32px; line-height: 32px; padding: 0 26px;}
 	.pay-info p a:hover{color: white; text-decoration: underline;}
 	
 	.gold-coins-num .info-txt,
@@ -541,14 +541,16 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.bank-icon-container,
 	.channel-label{ display: inline-block; width: 170px; height: 40px; vertical-align: middle; font-size: 14px;}
 	.row-basic{width: 193px; margin: 0 15px 26px; float: left;}
-	.channel-input{ vertical-align: middle; margin-right: 10px;}
+	.channel-input{ vertical-align: middle; margin-right: 10px; *margin-top: 13px; *height: 13px; *width: 13px;}
+	.channel-input,
+	.channel-label{ *float: left;}
 
 	.bank-icon,
 	.bank-showName{ display: inline-block;  position: absolute; width: 168px; height: 38px;  border: 1px solid #d6d6d6; top: 0; left: 0;}
 
 	.bank-showName{z-index: 1;}
 	.bank-icon-container{ position: relative; cursor: pointer;}
-	.bank-icon-container span:hover{ border-color: #ca1612;}
+	.bank-icon-container span:hover{ border-color: #a11;}
 
 	.bank-icon{ z-index: 2;background: url("../images/bank.jpg") left top no-repeat; text-indent: -9999px}
 	.icon-cashier-ICBC{background-position: left top;}
@@ -570,7 +572,7 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 
 
 	.next-step{ padding: 20px 0 30px; margin: 0 15px 30px; border-bottom: 1px solid #ddd;}
-	.next-step .warning-btn{ display: inline-block;padding: 0 34px; height: 32px; line-height: 32px; background-color: #ca1612; font-size: 14px; color: #fff; text-align: center; margin-left: 30px;}
+	.next-step .warning-btn{ display: inline-block;padding: 0 34px; height: 32px; line-height: 32px; background-color: #a11; font-size: 14px; color: #fff; text-align: center; margin-left: 30px;}
 	.problem-list{ font-size: 12px; padding: 0 15px 0;}
 	.problem-list h2{ font-size: 14px; font-weight: bold; margin-bottom: 20px;}
 	.problem-list dl{ padding-bottom: 10px;}
@@ -579,9 +581,28 @@ a:hover{ text-decoration: underline; color: #ca1612;}
 	.problem-list dl dt{ font-size: 14px; padding-left: 18px; background: url("../images/star.jpg") left top no-repeat;}
 	.problem-list dl dd{ font-size: 12px; color: #666;}
 
-
-
  
+	/* novice task
+	-------------------------------------------------------------------------------- */
+	.main-title h2 .button-right { display: inline-block; height: 30px; line-height: 30px; font-size: 14px; color: white; text-align: center; padding: 0 12px; margin-top: 4px; background-color: #a11; float: right; margin-right: 15px;}
+	.list3-border0-container{ margin: 5px 0 0 15px;}
+	.list3-border0-container ul li{ width: 313px; width: 312px\9; _display:inline; float: left; margin: 15px 15px 15px 0;}
+	.list3-border0-container .list-peitu-box{ width: 80px; float: left; text-align: center; line-height: 0;}
+	.list3-border0-container .list-peitu-box a{ display: inline-block; width: 78px; border: 1px solid #fff; overflow: hidden; margin-bottom: 4px;}
+	.list3-border0-container .list-peitu-box a img{width: 100%;}
+	.list3-border0-container .list-peitu-box span{ font-size: 14px; color: #666; display: inline-block; width: 80px; line-height: 20px; height: 20px; white-space: nowrap; overflow: hidden; text-overflow:ellipsis;}
+	.list3-border0-container .list-peitu-box span em{ font-style: normal; color: #a11;}
+	.list3-border0-container .list-peitu-box span .grey{ color: #666;}
+	.list3-border0-container .list-text{width: 220px; float: right;}
+	.list3-border0-container .list-text h3{width: 220px;font-size: 14px; height: 20px; line-height: 20px; overflow: hidden;text-overflow:ellipsis; white-space: nowrap; margin-bottom: 4px;}
+	.list3-border0-container .list-text p{font-size: 12px; color: #666; line-height: 20px;}
+	.list3-border0-container .list-text .warning-btn{ font-size: 14px; text-align: center; display: inline-block; width: 96px; height: 30px; line-height: 30px; color: white; margin-top: 18px; background-color: #a11;}
+ 	.list3-border0-container .list-text .grey-btn{ background-color: #999;}
+
+
+
+
+
 	/* pagination
 	-------------------------------------------------------------------------------- */
 	.pagination-content{ text-align: center; font-size: 12px;padding: 20px 0; border-top: 1px solid #ddd;}
