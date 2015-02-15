@@ -209,7 +209,7 @@
 				<!-- 支持榜 邀请榜 -->
 				<div class="main-right-inner">
 					<div class="tab-container">
-						<ul class="tab-title clearfix">
+						<ul class="tab-title-hover clearfix">
 							<li class="active">
 								<a href="javascript:void(0)">支持榜</a>
 							</li>
@@ -518,6 +518,18 @@
 			});
 		};
 		tadChangeClick();
+
+		function tadChangeHover(){
+			$('.tab-title-hover li').hover(
+					function(){
+				        $(this).addClass('active').siblings().removeClass('active');
+						$(this).parent('.tab-title-hover').next('.tab-content-box').find('.tab-content').hide().eq($(this).index()).show();
+					},function(){
+
+					}
+				);
+		};
+		tadChangeHover();
 
 
 		// dl-list

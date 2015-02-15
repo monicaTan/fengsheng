@@ -15,17 +15,16 @@ a:hover{ text-decoration: underline; color: #a11;}
 /* main
 -------------------------------------------------------------------------------- */
 
-.bar-module{ margin: 0 10px 10px;}
+.bar-module{ margin: 0 10px 10px; padding-top: 20px;}
 
 	/* left-bar-module
 	-------------------------------------------------------------------------------- */
 
-	.left-bar-module{ width: 254px;float: left; height: 424px; background-color: #fff;}
+	.left-bar-module{ width: 254px; width: 252px\9; float: left;border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7;}
 	.head-portrait{ text-align: center; padding-top: 16px; font-size: 0; background-color: white;}
-	.head-portrait .face-link{ display: inline-block; width: 80px; height: 80px; position: relative;}
-	.head-portrait .face-link .face-img{width: 80px; height: 80px; position: absolute; top: 0; left: 0; z-index: 1;}
-	.head-portrait .face-link .portrait-bg{ z-index: 2;width: 80px; height: 80px; position: absolute; top: 0; left: 0;}
-	.head-portrait .face-link .portrait-bg img{ width: 80px; height: 80px;}
+	.head-portrait .face-link{ display: inline-block; width: 59px; height: 59px; position: relative;}
+	.head-portrait .face-link .face-img{width: 59px; height: 59px; position: absolute; top: 0; left: 0; z-index: 1;}
+	.head-portrait .face-link .portrait-bg{ z-index: 2;width: 59px; height: 59px; position: absolute; top: 0; left: 0;}
 
 	.head-portrait h2{ font-size: 0; font-weight: normal; padding: 10px 0 20px; border-bottom: 1px solid #dddddd;}
 	.head-portrait h2 a{ font-size: 16px; color: #333;}
@@ -48,7 +47,7 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.bace-info-text h3{ margin: 0 0 10px; font-size: 14px;}
 	.bace-info-text p{ margin: 0; font-size: 12px; line-height: 22px; color: #999; height: 66px; overflow: hidden;text-align: justify;}
 
-	.button-link{ padding: 13px; *padding: 12px; font-size: 0; background-color: #f5f5f5;}
+	.button-link{ padding: 13px; *padding: 12px; font-size: 0;}
 	.button-link a{ display: inline-block; *float: left; background-color: #a51417; font-size: 12px; padding: 10px 25px; padding: 10px 22px\9; color: white; border-radius: 4px; margin: 0 8px;}
 	.button-link a:hover{ background-color: #b42a2d;}
 
@@ -56,13 +55,13 @@ a:hover{ text-decoration: underline; color: #a11;}
 	-------------------------------------------------------------------------------- */
 	.right-bar-module{ width: 716px; float: right;}
 	.right-left,
-	.right-right{ width: 353px; height: 404px; *height: 412px; padding-bottom: 20px; background-color: white;box-shadow: 0 1px 3px #d7d7d7;}
+	.right-right{ width: 353px; width: 351px\9; padding-bottom: 20px; background-color: white; border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7;}
 	.right-left{float: left;}
 	.right-right{ float: right;}
 
 	.table-title,
 	.table-title-hover{ height: 48px; line-height: 48px; font-size: 16px; color: white; background-color: #a51417; text-align: center;}
-	.table-th{ margin: 0; padding: 0 10px; font-size: 0; background-color: #eee; height: 30px;}
+	.table-th{ margin: 0; padding: 0 10px; font-size: 0; background-color: #e3e4e8; height: 30px;}
 	.table-th li{ display: inline-block; *float: left; font-size: 12px; height: 16px; line-height: 16px; color: #666; padding: 0 29px; padding: 0 27px\9; margin-top: 7px; color: #666;}
 	.table-th-middle{ border-left: 1px solid #c6c6c6; border-right: 1px solid #c6c6c6;}
 	.table-list-box{ height: 305px; *height: 312px; overflow: hidden; background-color: white; padding: 0 10px;}
@@ -95,27 +94,27 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.ticket-title h2{ height: 64px; background:url("../images/tag.png") no-repeat scroll center top; text-align: center; font-size: 16px; color: white; padding-top: 22px;}
 	.ticket-title h2 a{color: white;}
 	.ticket-content{ padding: 0 5px;}
-	.ticket-left{*display: inline; float: left; width: 371px; margin: 0 5px; font-size: 0; background-color: white; box-shadow: 0 1px 3px #d7d7d7;}
+	.ticket-left{*display: inline; float: left; width: 371px;width: 369px\9;margin: 0 5px; font-size: 0; background-color: white; border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7;}
 	.main-img img{ width: 100%;}
-  	.ticket-text{ padding: 10px 10px 23px;}
+	.ticket-text{ padding: 10px 10px 20px;}
 	.ticket-text h4{font-size: 14px; color: #666; margin-bottom: 13px;}
 	.ticket-text p{font-size: 12px; color: #999; line-height: 18px; text-align: justify; height: 90px; overflow: hidden;}
 	.ticket-right{*display: inline; float: right; width: 609px;}
-	.ticket-right ul li{ float: left; width: 193px; _display: inline; margin: 0 5px 10px; margin: 0 5px 9px\9; *margin: 0 5px 8px; background-color: white; font-size: 0;box-shadow: 0 1px 3px #d7d7d7;}
-  	.ticket-right ul li a img{ width: 100%;height: 120px;}
+	.ticket-right ul li{ float: left; width: 193px; width: 191px\9; _display: inline; margin: 0 5px 10px; margin: 0 5px 9px\9; *margin: 0 5px 8px; border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7; background-color: white; font-size: 0;}
+	.ticket-right ul li a img{ width: 100%;height: 117px;}
 	.ticket-right ul li p{ padding: 4px 6px;}
 	.ticket-right ul li p a{ display: inline-block; height: 22px; line-height: 22px; float: right; padding: 0 8px; color: white; font-size: 12px; background-color: #a51417; border-radius: 4px;}
 	.ticket-right ul li p span{ float: left; color: #a51417; font-size: 12px; display: inline-block; height: 22px; line-height: 22px;}
 
 	/* main-left-bar
 	-------------------------------------------------------------------------------- */
-  	.content-bar{ }
-	.main-left-bar{ width: 688px; float: left;  background-color: white;box-shadow: 0 1px 3px #d7d7d7;}
+	.content-bar{ margin-top: 12px;}
+	.main-left-bar{ width: 688px; float: left; border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7; background-color: white;}
 	.border-angle { font-style: normal; border-color: #a11 #fff #fff #a11; border-style: solid; border-width: 19px 8px; font-size: 0; height: 0; line-height: 0; width: 0; overflow: hidden;}
 	
- 	 .main-title{ border-bottom:1px solid #a11; position:relative;}
+	.main-title{ border-bottom:1px solid #a11;}
 	.main-title h2 em{ padding: 0 28px 0 15px; display: inline-block; float: left; font-style: normal; height: 38px; line-height: 38px; background-color: #a11; color: white; font-size:16px;}
-  	.main-title h2 .notice-text { float: left;height: 38px; line-height: 38px; font-size: 12px; color: #666;}
+	.main-title h2 .notice-text { float: left;height: 34px; line-height: 34px; font-size: 12px; color: #666;}
 	.main-title h2 .notice-text i{ color: #a11; font-size: 14px; vertical-align: middle; margin: 0 4px 0 10px;}
 	.main-title h2 .border-angle { float: left;}
 	.main-title h2 .more-dian { display: inline-block;width: 17px; height: 38px; background: url('../images/dian3.jpg') left center no-repeat; float: right; margin-right: 15px;}
@@ -129,11 +128,11 @@ a:hover{ text-decoration: underline; color: #a11;}
 	/* main-right-bar
 	-------------------------------------------------------------------------------- */
 	.main-right-bar{ width: 300px; width: 302px\9; float: right;}
-	.main-right-inner{width: 300px; background-color: white; margin-bottom: 12px;box-shadow: 0 1px 3px #d7d7d7;}
+	.main-right-inner{width: 300px; border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7; background-color: white; margin-bottom: 12px;}
 
 	.bar-title{ padding: 0 15px; border-bottom:1px solid #a11;}
-  	.bar-title h2{ position: relative; height: 38px; line-height: 38px; font-size: 16px; color: #a11;}
-	.bar-title h2 a{ position: absolute; right: 0; top: 0; display: inline-block;width: 17px; height: 33px; background: url('../images/dian3.jpg') left center no-repeat; color: #a11;}
+	.bar-title h2{ position: relative; height: 33px; line-height: 33px; font-size: 16px; color: #a11;}
+	.bar-title h2 a{ position: absolute; right: 0; top: 0; display: inline-block;width: 17px; height: 33px; background: url('../images/dian3.jpg') left center no-repeat;}
 	
 	.info-list-right { padding-bottom: 12px;}
 	.info-list-right ul li{ height: 28px;}
@@ -143,12 +142,11 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.info-list-right ol { font-size: 14px;;}
 	.info-list-right ol li{ list-style-type: decimal; list-style-position: inside; position: relative; background: #fff; border: 1px solid #fff; padding: 0 5px;}
 	.info-list-right ol li h4{ display: inline;*display: inline-block; font-size:14px;height: 28px; line-height: 28px; overflow: hidden; font-weight: normal; text-align: left;}
-	.info-list-right ol li h4 a{ color: #a11;}
 	.info-list-right ol li h4 span{ *padding-left: 4px;}
 	.info-list-right ol li h4 em{ position: absolute; right: 5px;_right: 15px; top: 0; color: #999; font-style: normal;}
 	.ol-content{ padding-bottom: 10px; display: none;}
-  	.ol-content img{ float: left; width: 80px; height: 80px; border: 1px solid #eee;}
-	.ol-content .ol-text{ float: right; width: 175px; height: 79px; overflow: hidden; font-size: 12px;}
+	.ol-content img{ float: left; width: 78px; height: 78px; border: 1px solid #ddd;}
+	.ol-content .ol-text{ float: right; width: 179px; height: 79px; overflow: hidden; font-size: 12px;}
 	.ol-content .ol-text a{ color: #333; line-height: 20px; text-align: justify;}
 	.ol-content .ol-text a:hover{ color: #a11;}
 
@@ -158,11 +156,11 @@ a:hover{ text-decoration: underline; color: #a11;}
 	/* Elegant demeanour
 	-------------------------------------------------------------------------------- */
 	.elegant-demeanour{ padding: 15px 5px 40px;}
-	.elegant-demeanour ul li{ float: left; padding: 0 10px 40px; width: 206px; *display: inline; *line-height: 0;}
+	.elegant-demeanour ul li{ float: left; margin: 0 10px 40px; width: 206px; *display: inline; *line-height: 0;}
 	.info-box{ font-size: 0;}
-  	.face-link-el{ position: relative; display: inline-block; float: left; width: 80px; height: 80px; overflow: hidden; border: 1px solid #eee;}
-	.face-link-el img{ width: 80px; height: 80px;}
-	.face-link-el span{display: inline-block; width: 80px; height: 20px; line-height: 20px; position: absolute; bottom: 0; left: 0; background-color: #a51417; font-size: 12px; color: white; text-align: center;}
+	.face-link-el{ position: relative; display: inline-block; float: left; width: 78px; height: 78px; overflow: hidden; border: 1px solid #ddd;}
+	.face-link-el img{ width: 78px; height: 78px;}
+	.face-link-el span{display: inline-block; width: 78px; height: 20px; line-height: 20px; position: absolute; bottom: 0; left: 0; background-color: #a51417; font-size: 12px; color: white; text-align: center;}
 	.face-txt{ width: 118px; float: right; font-size: 12px; line-height: 12px;}
 	.face-txt p{ font-size: 0;}
 	.face-txt h4 a{ display: inline-block; height: 14px; line-height: 14px; width: 118px; white-space: nowrap; overflow: hidden; text-overflow:ellipsis;}
@@ -183,7 +181,7 @@ a:hover{ text-decoration: underline; color: #a11;}
 	/* view-content
 	-------------------------------------------------------------------------------- */
 	.view-content{ padding: 15px 15px 0;}
-  	.list-box{ padding-bottom: 20px; margin-bottom: 30px; border-bottom: 1px solid #eee;font-size: 0;}
+	.list-box{ padding-bottom: 20px; margin-bottom: 30px; border-bottom: 1px solid #ddd;font-size: 0;}
 	.list-no-img{ width: 100%;}
 	.inset{ width: 180px; float: left; margin-right: 12px;}
 	.inset a{ display: inline-block; width: 178px; height: 108px; border: 1px solid #ddd; overflow: hidden; font-size: 0;}
@@ -195,7 +193,7 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.list-no-img .inset-text h2 a{width: 100%;}
 	.inset-text h2 a span{ padding-right: 4px;}
 	.text-summary{ font-size: 14px; line-height: 22px; color: #666;}
-	.text-summary a{ color: #a11; font-size: 12px;}
+	.text-summary a{ color: #333; font-size: 12px;}
 	.text-summary a:hover{ color: #a11; font-size: 12px;}
 	.text-time{ font-size: 0; padding-top: 8px;}
 	.text-time span,
@@ -226,7 +224,6 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.tab-title-hover li a{ display: inline-block; width: 100%; height: 34px; text-align: center; font-size: 16px; line-height: 34px; color: #a11;}
 	.tab-title .active a,
 	.tab-title-hover .active a{ background-color: #a11; color: white;}
-
 	.tab-content{ display: none;}
 	.tab-active{ display: block;}
 	.tab-inner-title{background-color: #f9f9f9;padding: 8px 0; height: 16px; overflow: hidden;}
@@ -241,11 +238,11 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.dl-list dl dd{ float: left; font-size: 14px; line-height: 28px; color: #666;}
 	.dl-list dl dt{ width: 18px; text-align: left;}
 	.dl-list dl .best-user{ color: #a11;}
-    .dl-list dl dd{ width: 160px;}
-    .dl-list dl .dl-number{ width: 80px; text-align: center;}
-	.dl-list dl dd .list-user-img{ float: left; display: inline-block; width: 28px; border: 1px solid #ddd; float: left; font-size: 0; line-height: 0;}
-	.dl-list dl dd .list-user-img img{width: 28px; height: 28px;}
-    .dl-list dl dd .list-user-name{  float: left;  border: none; margin-left: 6px; font-size: 14px; display: inline-block; width: 124px; height: 20px; white-space: nowrap; text-overflow:ellipsis; overflow: hidden;}
+	.dl-list dl dd{ width: 117px;}
+	.dl-list dl .dl-number{ width: 118px; padding-left: 17px; text-align: center;}
+	.dl-list dl dd .list-user-img{ display: inline-block; width: 28px; border: 1px solid #ddd; float: left; font-size: 0; line-height: 0;}
+	.dl-list dl dd .list-user-img img{ width: 28px; height: 28px;}
+	.dl-list dl dd .list-user-name{ width: 81px; border: none; margin-left: 6px; font-size: 14px;}
 	.dl-list dl dd a:hover{ color: #a11;}
 
 	.integral-module .tab-content{ display: block;}
@@ -258,8 +255,7 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.gaoshou-content .tab-title li a,
 	.gaoshou-content .tab-title-hover li a{ color: #333;}
 	.gaoshou-content .tab-title .active a,
- 	.gaoshou-content .tab-title-hover .active a{ color: #fff;}
-
+	.gaoshou-content .tab-title-hover .active a{ color: #fff;}
 	.gaoshou-content .tab-content table th,
 	.gaoshou-content .tab-content table td{ font-size: 12px;}
 	.gaoshou-content .tab-content table th{ background-color: #f9f9f9; height: 33px; _line-height: 33px; vertical-align: middle; border-bottom: 1px solid #ddd;}
@@ -276,7 +272,7 @@ a:hover{ text-decoration: underline; color: #a11;}
 
 	/* web maket
 	-------------------------------------------------------------------------------- */
-	.main-max-module{ background: white; padding-bottom: 15px; margin-bottom: 10px;box-shadow: 0 1px 3px #d7d7d7;}
+	.main-max-module{ background: white; padding-bottom: 15px; margin-bottom: 10px; border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7;}
 	.info-picture-module{ padding-top: 30px;}
 	.info-picture-module ul { font-size: 0;}
 	.info-picture-module ul li{ float: left;width: 220px; margin: 0 15px; margin: 0 14px\9; padding-bottom: 20px; _display: inline;}
@@ -297,7 +293,7 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.table-module tr td .ranking{ text-align: center; display: inline-block; background-color: #999999; color: white; min-width: 16px; _width: 16px; padding: 1px 2px; height: 18px; line-height: 18px; border-radius: 2px;}
 	.table-module tr td .ranking-color{ background-color: #a11;}
 	.table-pagination0{ margin: 10px 15px 0;}
-  .table-pagination0 .pagination-content{border-top:1px solid #eee;}
+	.table-pagination0 .pagination-content{border-top:1px solid #eee;}
 	.max-module-box{ padding: 0; margin: 0;}
 
 	/* jifen-yuanbao
@@ -320,27 +316,27 @@ a:hover{ text-decoration: underline; color: #a11;}
 	-------------------------------------------------------------------------------- */
 	.table-border0-module .tab-title .moni{ width: 225px;}
 	.table-border0-module .tab-title .shipan{ width: 775px;}
-  	.table-border0-module .tab-title .shipan a{ position: relative; text-align: left; padding-left: 62px;width: 713px;}
+  .table-border0-module .tab-title .shipan a{ position: relative; text-align: left; padding-left: 62px;width: 713px;}
 	.table-border0-module .tab-title .shipan a span{position: absolute; right: 15px; top: 0; padding-left: 18px; font-size: 12px; background: url('../images/time_03.png') left center no-repeat;}
 
 	/* his-home
 	-------------------------------------------------------------------------------- */
-	.left-bar-module{ width: 254px; float: left; box-shadow: 0 1px 3px #d7d7d7;}
-    .two-bar-module{ margin: 0; }
+	.left-bar-module{ width: 254px; width: 252px\9; float: left;border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7;}
+	.two-bar-module{ margin: 0; padding-top: 20px;}
 	.two-bar-module .leftbar-module{ width: 300px;width: 302px\9; float: left;}
-	.two-bar-module .leftbar-inner{box-shadow: 0 1px 3px #d7d7d7;}
+	.two-bar-module .leftbar-inner{border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7}
 	.two-bar-module .rightbar-module{ width: 688px; float: right;}
 	.two-bar-module .head-portrait{ border-bottom: 1px solid #dddddd;}
 	.two-bar-module .head-portrait h2{ border-bottom: 0; padding: 10px 0 12px;}
 	.icon-heart{ display: inline-block; width: 16px; height: 14px;background: url('../images/heart_03.png') left center no-repeat;}
 	.focus-box{ padding-bottom: 20px;}
-  	.focus-box a{font-size: 14px; color: #a11; display: inline-block; padding: 6px 16px; border-radius: 2px;}
+	.focus-box a{font-size: 14px; color: #a11; display: inline-block; padding: 6px 16px; border: 1px solid #ddd; border-radius: 2px;}
 	.focus-box a:hover{ text-decoration: underline;}
 	.focus-box .icon-heart{ vertical-align: middle; margin-right: 8px;}
 	.his-num{ background-color: white; padding: 20px 0 4px;}
 	.his-num p{ text-align: center; font-size: 14px; padding-bottom: 16px;}
 	.his-num p em{ font-style: normal; color: #a11; font-size: 16px; padding: 0 2px;}
-	.leftbar-inner{width: 300px; border: 0\9; box-shadow: 0 1px 3px #d7d7d7; background-color: white; margin-bottom: 12px;}
+	.leftbar-inner{width: 300px; border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7; background-color: white; margin-bottom: 12px;}
 	.leftbar-inner .black-div{ position: relative;z-index: 2; height: 5px; background-color: white; width: 100%; font-size: 0; line-height: 0;}
 	.list-module .list-ul-border{ padding: 0 15px 5px; margin-top: -1px;}
 	.list-module .list-ul-border li{border-top: 1px dashed #ddd; padding: 10px 0; font-size: 0;}
@@ -364,7 +360,6 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.list-img-box .list-img-link img{ width: 100%; height: 100%;}
 	.his-chicang .table-warning-btn{ background-color: #a11; color: white; display: inline-block; padding: 4px 8px; border-radius: 4px;}
 	.his-chicang .table-warning-btn:hover{ color: white;}
-  .his-chicang .table-warning-btn2{ position:absolute; z-index:1; right:10px; top:8px; font-size:14px;height: 22px;padding: 0 10px;}
 	.his-history table tr th{ height: 47px;}
 	.his-view .inset-text h2 a{ font-weight: bold;}
 	.his-view .list-box-last{ padding-bottom: 20px; margin-bottom: 0; border-bottom: 0;}
@@ -380,8 +375,8 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.his-info-left{ float: left; width: 364px;}
 	.his-info-left ul li{ display: inline-block; width: 150px; float: left; width: 167px; float: left; padding: 0 15px 10px 0; font-size: 14px; color: #000;}
 	.his-info-left ul li em{ font-style: normal; color: #666;}
-  	/*.his-info-left ul li span{color: #a11;}*/
-  	/*.his-info-left ul li i{color: #016e0b; font-style: normal;}*/
+	.his-info-left ul li span{color: #a11;}
+	.his-info-left ul li i{color: #016e0b; font-style: normal;}
 	.share-info{ padding-top: 28px;}
 	.share-info .daoju{ display: inline-block; font-size: 14px; color: white; height: 30px; line-height: 30px; text-align: center; background-color: #a11; width: 110px; float: left; margin-left: 15px;}
 	.share-info .daoju:hover{ text-decoration: underline;}
@@ -403,20 +398,20 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.celve-container{ padding: 15px 0 0 15px;}
 	.celve-container .pagination-content{ margin: 0 15px 0 0;}
 	.celve-container ul li{ float: left; width: 321px;margin-right: 15px; padding-bottom: 30px;}
-	.peitu{ display: inline-block; width: 80px; height: 80px; line-height: 0; border: 1px solid #fff; float: left;}
+	.peitu{ display: inline-block; width: 78px; height: 78px; line-height: 0; border: 1px solid #fff; float: left;}
 	.peitu img{ width: 100%; height: 100%;}
-	.img-right{ width: 228px; float: right; font-size: 12px;}
-	.img-right h4 a{ width: 228px; font-size: 14px; font-weight: bold; height: 16px; white-space: nowrap; text-overflow:ellipsis;}
+	.img-right{ width: 232px; float: right; font-size: 12px;}
+	.img-right h4 a{ width: 232px; font-size: 14px; font-weight: bold; height: 16px; white-space: nowrap; text-overflow:ellipsis;}
 	.img-right h4 a:hover{color: #a11;}
 	.img-right p{ line-height: 18px; color: #666;}
-	.img-right .text-box{height: 228px; height: 36px; overflow: hidden;}
+	.img-right .text-box{height: 232px; height: 36px; overflow: hidden;}
 	.small-info{padding-bottom: 4px;}
 	.small-info span{width: 125px; float: left;}
 	.small-info a{width: 87px; color: #999; float: right;}
 	.small-info span,
 	.small-info a{ display: inline-block; height: 24px; line-height: 24px; white-space: nowrap; text-overflow:ellipsis; overflow: hidden;}
 	.small-info a:hover{color: #a11;}
-	.small-info span em{ font-size: 14px; color: #a11; font-style: normal;}
+	.small-info span em{ font-size: 14px; color: #a11;}
 	.chakan{ display: inline-block; height: 16px; line-height: 16px; padding: 0 16px; border: 1px solid #a11; border-radius: 2px; color: #a11; margin-top: 5px;}
 	.chakan:hover{ color: white; background-color: #a11;}
 	.main-right-inner .black-div{ position: relative; z-index: 2; height: 1px; background-color: white; line-height: 0; font-size: 0;}
@@ -434,8 +429,8 @@ a:hover{ text-decoration: underline; color: #a11;}
 
 	/* Expert review
 	-------------------------------------------------------------------------------- */
-	.zhuanjia{ margin-bottom: 10px;}
-	.zhuanjia ul li{ float: left; margin-left: 10px; width: 192px; background-color: white; padding-bottom: 2px; box-shadow: 0 1px 3px #d7d7d7;}
+	.zhuanjia{ margin-top: 15px;}
+	.zhuanjia ul li{ float: left; margin-left: 10px; width: 192px;width: 190px\9; background-color: white;border: 1px solid #d7d7d7\9; box-shadow: 0 1px 3px #d7d7d7; padding-bottom: 2px;}
 	.zhuanjia ul .first-li{ margin-left: 0;}
 	.zhuanjia ul li .zhuanjia-img{ margin-bottom: 2px; display: inline-block; width: 100%; height: 180px; overflow: hidden;}
 	.zhuanjia ul li .zhuanjia-img img{ width: 100%;}
@@ -462,7 +457,7 @@ a:hover{ text-decoration: underline; color: #a11;}
 	-------------------------------------------------------------------------------- */
 	.table-border0-module .tab-container3 .tab-title li{ width: 33.333%; width: 332px\9; display: inline;}
 	.rulse-container{ font-size: 14px; padding: 15px;}
-  .rulse-container dl{ line-height: 26px; border-bottom: 1px solid #eee; padding:0 0 20px 0; margin-bottom: 20px;}
+	.rulse-container dl{ line-height: 26px; border-bottom: 1px solid #ddd; padding:0 0 20px 0; margin-bottom: 20px;}
 	.rulse-container .dl-no-dorder{ border: 0; margin-bottom: 0; padding-bottom: 10px;}
 	.rulse-container dl dt{ font-size: 16px; font-weight: bold; margin-bottom: 8px;}
 	.rulse-container dl dd{ color: #666; padding-left: 26px; position: relative;}
