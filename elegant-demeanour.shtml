@@ -169,7 +169,7 @@
 							<li>
 								<div class="info-box clearfix">
 									<a class="face-link-el" href="javascript:void(0)">
-										<img src="images/face.jpg" alt="78x78" />
+										<img src="images/face.jpg" alt="80x80" />
 										<span>涨停先锋</span><!-- 没有徽章时将span标签及内容隐藏或去掉 -->
 									</a>
 									<div class="face-txt">
@@ -192,7 +192,7 @@
 							<li>
 								<div class="info-box clearfix">
 									<a class="face-link-el" href="javascript:void(0)">
-										<img src="images/face.jpg" alt="78x78" />
+										<img src="images/face.jpg" alt="80x80" />
 										<span>赢在龙头</span>
 									</a>
 									<div class="face-txt">
@@ -215,7 +215,7 @@
 							<li>
 								<div class="info-box clearfix">
 									<a class="face-link-el" href="javascript:void(0)">
-										<img src="images/face.jpg" alt="78x78" />
+										<img src="images/face.jpg" alt="80x80" />
 										<span>黑马先锋</span>
 									</a>
 									<div class="face-txt">
@@ -238,7 +238,7 @@
 							<li>
 								<div class="info-box clearfix">
 									<a class="face-link-el" href="javascript:void(0)">
-										<img src="images/face.jpg" alt="78x78" />
+										<img src="images/face.jpg" alt="80x80" />
 										<!-- <span>涨停先锋</span> -->
 									</a>
 									<div class="face-txt">
@@ -261,7 +261,7 @@
 							<li>
 								<div class="info-box clearfix">
 									<a class="face-link-el" href="javascript:void(0)">
-										<img src="images/face.jpg" alt="78x78" />
+										<img src="images/face.jpg" alt="80x80" />
 										<!-- <span>涨停先锋</span> -->
 									</a>
 									<div class="face-txt">
@@ -284,7 +284,7 @@
 							<li>
 								<div class="info-box clearfix">
 									<a class="face-link-el" href="javascript:void(0)">
-										<img src="images/face.jpg" alt="78x78" />
+										<img src="images/face.jpg" alt="80x80" />
 										<!-- <span>涨停先锋</span> -->
 									</a>
 									<div class="face-txt">
@@ -307,7 +307,7 @@
 							<li>
 								<div class="info-box clearfix">
 									<a class="face-link-el" href="javascript:void(0)">
-										<img src="images/face.jpg" alt="78x78" />
+										<img src="images/face.jpg" alt="80x80" />
 										<span>涨停先锋</span><!-- 没有徽章时将span标签及内容隐藏或去掉 -->
 									</a>
 									<div class="face-txt">
@@ -330,7 +330,7 @@
 							<li>
 								<div class="info-box clearfix">
 									<a class="face-link-el" href="javascript:void(0)">
-										<img src="images/face.jpg" alt="78x78" />
+										<img src="images/face.jpg" alt="80x80" />
 										<span>赢在龙头</span>
 									</a>
 									<div class="face-txt">
@@ -353,7 +353,7 @@
 							<li>
 								<div class="info-box clearfix">
 									<a class="face-link-el" href="javascript:void(0)">
-										<img src="images/face.jpg" alt="78x78" />
+										<img src="images/face.jpg" alt="80x80" />
 										<span>黑马先锋</span>
 									</a>
 									<div class="face-txt">
@@ -376,7 +376,7 @@
 							<li>
 								<div class="info-box clearfix">
 									<a class="face-link-el" href="javascript:void(0)">
-										<img src="images/face.jpg" alt="78x78" />
+										<img src="images/face.jpg" alt="80x80" />
 										<!-- <span>涨停先锋</span> -->
 									</a>
 									<div class="face-txt">
@@ -399,7 +399,7 @@
 							<li>
 								<div class="info-box clearfix">
 									<a class="face-link-el" href="javascript:void(0)">
-										<img src="images/face.jpg" alt="78x78" />
+										<img src="images/face.jpg" alt="80x80" />
 										<!-- <span>涨停先锋</span> -->
 									</a>
 									<div class="face-txt">
@@ -422,7 +422,7 @@
 							<li>
 								<div class="info-box clearfix">
 									<a class="face-link-el" href="javascript:void(0)">
-										<img src="images/face.jpg" alt="78x78" />
+										<img src="images/face.jpg" alt="80x80" />
 										<!-- <span>涨停先锋</span> -->
 									</a>
 									<div class="face-txt">
@@ -454,98 +454,118 @@
 				<div class="main-right-inner">
 					<div class="bar-title">
 						<h2>
-							<span>策略排行榜</span>
-							<a href="javascript:void(0)"></a>
+							<a class="bar-title-theme" href="javascript:void(0)">策略排行榜</a>
+							<a class="bar-title-more" href="javascript:void(0)"></a>
 						</h2>
 					</div>
 
 					<div class="info-list-right info-list-ol">
 						<ol class="right-ol">
 							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
+								<h4><a href="javascript:void(0)">元芳看盘</a><em>204</em></h4>
 								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
+									<a href="javascript:void(0)">
+										<img src="images/face.jpg" alt="80x80" />
+									</a>
 									<div class="ol-text">
 										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
 									</div>
 								</div>
 							</li>
 							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
+								<h4><a href="javascript:void(0)">元芳看盘</a><em>204</em></h4>
 								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
+									<a href="javascript:void(0)">
+										<img src="images/face.jpg" alt="80x80" />
+									</a>
 									<div class="ol-text">
 										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
 									</div>
 								</div>
 							</li>
 							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
+								<h4><a href="javascript:void(0)">元芳看盘</a><em>204</em></h4>
 								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
+									<a href="javascript:void(0)">
+										<img src="images/face.jpg" alt="80x80" />
+									</a>
 									<div class="ol-text">
 										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
 									</div>
 								</div>
 							</li>
 							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
+								<h4><a href="javascript:void(0)">元芳看盘</a><em>204</em></h4>
 								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
+									<a href="javascript:void(0)">
+										<img src="images/face.jpg" alt="80x80" />
+									</a>
 									<div class="ol-text">
 										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
 									</div>
 								</div>
 							</li>
 							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
+								<h4><a href="javascript:void(0)">元芳看盘</a><em>204</em></h4>
 								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
+									<a href="javascript:void(0)">
+										<img src="images/face.jpg" alt="80x80" />
+									</a>
 									<div class="ol-text">
 										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
 									</div>
 								</div>
 							</li>
 							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
+								<h4><a href="javascript:void(0)">元芳看盘</a><em>204</em></h4>
 								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
+									<a href="javascript:void(0)">
+										<img src="images/face.jpg" alt="80x80" />
+									</a>
 									<div class="ol-text">
 										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
 									</div>
 								</div>
 							</li>
 							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
+								<h4><a href="javascript:void(0)">元芳看盘</a><em>204</em></h4>
 								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
+									<a href="javascript:void(0)">
+										<img src="images/face.jpg" alt="80x80" />
+									</a>
 									<div class="ol-text">
 										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
 									</div>
 								</div>
 							</li>
 							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
+								<h4><a href="javascript:void(0)">元芳看盘</a><em>204</em></h4>
 								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
+									<a href="javascript:void(0)">
+										<img src="images/face.jpg" alt="80x80" />
+									</a>
 									<div class="ol-text">
 										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
 									</div>
 								</div>
 							</li>
 							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
+								<h4><a href="javascript:void(0)">元芳看盘</a><em>204</em></h4>
 								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
+									<a href="javascript:void(0)">
+										<img src="images/face.jpg" alt="80x80" />
+									</a>
 									<div class="ol-text">
 										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
 									</div>
 								</div>
 							</li>
 							<li>
-								<h4><span>元芳看盘</span><em>204</em></h4>
+								<h4><a href="javascript:void(0)">元芳看盘</a><em>204</em></h4>
 								<div class="ol-content clearfix">
-									<img src="images/face.jpg" alt="78x78" />
+									<a href="javascript:void(0)">
+										<img src="images/face.jpg" alt="80x80" />
+									</a>
 									<div class="ol-text">
 										<a href="javascript:void(0)">金融界新锐，2013年十大博主之一，师承知名私人，多年征战股市，收益惊人收益惊人收益惊人收益惊人收益惊人...</a>
 									</div>
@@ -579,7 +599,13 @@
 
 		//right-ol
 		function olHover(){
-			$('.right-ol li:first').find('.ol-content').show();
+			$('.right-ol li:first')
+				.css({"border-color":"#ddd","background-color":"#f9f9f9"})
+				.find('.ol-content').show();
+			$('.right-ol li:first').siblings()
+				.css({"border-color":"#fff","background-color":"#fff"})
+				.find('.ol-content').hide();
+				
 			$('.right-ol li').hover(function(){
 				$(this)
 				.css({"border-color":"#ddd","background-color":"#f9f9f9"})

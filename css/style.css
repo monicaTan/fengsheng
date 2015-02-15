@@ -134,6 +134,8 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.bar-title{ padding: 0 15px; border-bottom:1px solid #a11;}
   	.bar-title h2{ position: relative; height: 38px; line-height: 38px; font-size: 16px; color: #a11;}
 	.bar-title h2 a{ position: absolute; right: 0; top: 0; display: inline-block;width: 17px; height: 33px; background: url('../images/dian3.jpg') left center no-repeat; color: #a11;}
+  	.bar-title h2 .bar-title-theme{position: unset; width: auto; right: auto; background: none repeat scroll 0 0 transparent; font-size: 16px; color: #a11;}
+	.bar-title h2 .bar-title-more{ position: absolute; right: 0; top: 0; display: inline-block;width: 17px; height: 33px; background: url('../images/dian3.jpg') left center no-repeat; color: #a11;}
 	
 	.info-list-right { padding-bottom: 12px;}
 	.info-list-right ul li{ height: 28px;}
@@ -143,7 +145,8 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.info-list-right ol { font-size: 14px;;}
 	.info-list-right ol li{ list-style-type: decimal; list-style-position: inside; position: relative; background: #fff; border: 1px solid #fff; padding: 0 5px;}
 	.info-list-right ol li h4{ display: inline;*display: inline-block; font-size:14px;height: 28px; line-height: 28px; overflow: hidden; font-weight: normal; text-align: left;}
-	.info-list-right ol li h4 a{ color: #a11;}
+	.info-list-right ol li h4 a{ color: #333;}
+	.info-list-right ol li h4 a:hover{ color: #a11;}
 	.info-list-right ol li h4 span{ *padding-left: 4px;}
 	.info-list-right ol li h4 em{ position: absolute; right: 5px;_right: 15px; top: 0; color: #999; font-style: normal;}
 	.ol-content{ padding-bottom: 10px; display: none;}
