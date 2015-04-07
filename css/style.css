@@ -228,7 +228,7 @@ a:hover{ text-decoration: underline; color: #a11;}
 	-------------------------------------------------------------------------------- */
 	.tab-content-box{ font-size: 0; }
 	.tab-title,
-	.tab-title-hover{ width: 100%; border-bottom: 1px solid #a11; background-color: #a11;}
+	.tab-title-hover{ width: 100%; border-bottom: 1px solid #a11;/*  background-color: #a11; */}
 	.tab-title li,
 	.tab-title-hover li{ width: 150px; float: left; background-color: #fff;}
 	.tab-title li a,

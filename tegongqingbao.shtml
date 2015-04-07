@@ -20,7 +20,7 @@
 				<div class="main-left-inner">
 					<div class="main-title clearfix">
 						<h2 class="clearfix">
-							<em>专家点评</em>
+							<em>特供情报</em>
 							<span class="border-angle"></span>
 						</h2>
 					</div>
@@ -219,31 +219,21 @@
 						</ol>
 					</div>
 				</div>
-				<!-- 广告图 -->
-				<div class="main-right-inner ad-image">
-					<a href="javascript:void(0)">
-						<img src="images/img_right.jpg" alt="300x134" />
-					</a>
-				</div>
-
 				<!-- 支持榜 邀请榜 -->
 				<div class="main-right-inner">
 					<div class="tab-container">
 						<ul class="tab-title-hover clearfix">
 							<li class="active">
-								<a href="javascript:void(0)">支持榜</a>
-							</li>
-							<li>
-								<a href="javascript:void(0)">邀请榜</a>
+								<a href="javascript:void(0)">人气榜</a>
 							</li>
 						</ul>
 						<div class="tab-content-box">
-							<!-- 支持榜列表 -->
+							<!-- 人气榜列表 -->
 							<div class="tab-content tab-active">
 								<div class="tab-inner-title clearfix">
 									<span>用户名</span>
 									<i>|</i>
-									<span>支持金币数</span>   
+									<span>人气数</span>   
 								</div>
 								<div class="dl-list">
 									<dl class="clearfix">
@@ -273,87 +263,6 @@
 												<img src="images/face.jpg" alt="28x28">
 											</a>
 											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
-										</dd>
-										<dd class="dl-number">123</dd>
-									</dl>
-									<dl class="clearfix">
-										<dt>4</dt>
-										<dd class="clearfix">
-											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
-										</dd>
-										<dd class="dl-number">123</dd>
-									</dl>
-
-									<dl class="clearfix">
-										<dt>5</dt>
-										<dd class="clearfix">
-											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
-										</dd>
-										<dd class="dl-number">123</dd>
-									</dl>
-
-									<dl class="clearfix">
-										<dt>6</dt>
-										<dd class="clearfix">
-											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
-										</dd>
-										<dd class="dl-number">123</dd>
-									</dl>
-
-									<dl class="clearfix">
-										<dt>7</dt>
-										<dd class="clearfix">
-											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
-										</dd>
-										<dd class="dl-number">123</dd>
-									</dl>
-
-									<dl class="clearfix">
-										<dt>8</dt>
-										<dd class="clearfix">
-											<a class="list-user-name" href="javascript:void(0)">天赢居</a>
-										</dd>
-										<dd class="dl-number">123</dd>
-									</dl>
-								</div>
-							</div>
-
-							<!-- 邀请榜列表 -->
-							<div class="tab-content">
-								<div class="tab-inner-title clearfix">
-									<span>用户名</span>
-									<i>|</i>
-									<span>邀请人数</span>        
-								</div>
-
-								<div class="dl-list">
-									<dl class="clearfix">
-										<dt class="best-user">1</dt>
-										<dd class="clearfix">
-											<a class="list-user-img" href="javascript:void(0)">
-												<img src="images/face.jpg" alt="28x28">
-											</a>
-											<a class="list-user-name" href="javascript:void(0)">天赢居2</a>
-										</dd>
-										<dd class="dl-number">123</dd>
-									</dl>
-									<dl class="clearfix">
-										<dt class="best-user">2</dt>
-										<dd class="clearfix">
-											<a class="list-user-img" href="javascript:void(0)">
-												<img src="images/face.jpg" alt="28x28">
-											</a>
-											<a class="list-user-name" href="javascript:void(0)">天赢居2</a>
-										</dd>
-										<dd class="dl-number">123</dd>
-									</dl>
-									<dl class="clearfix">
-										<dt class="best-user">3</dt>
-										<dd class="clearfix">
-											<a class="list-user-img" href="javascript:void(0)">
-												<img src="images/face.jpg" alt="28x28">
-											</a>
-											<a class="list-user-name" href="javascript:void(0)">天赢居2</a>
 										</dd>
 										<dd class="dl-number">123</dd>
 									</dl>
