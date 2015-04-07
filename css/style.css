@@ -88,6 +88,8 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.props-module ul li a img{ width: 100px; height: 100px;}
 	.props-module ul li p{ text-align: center;color: #999; font-size: 12px;}
 	.props-module ul li .buy-link a{ display: inline-block; background-color: #a51417; color: white; font-size: 12px; height: 22px; line-height: 22px; border-radius: 4px; padding: 0 18px;}
+	.props-module ul li .buy-link a:hover{background-color: #da1111; text-decoration: none;}
+  	.props-module ul li .buy-link a:active{ background-color: #a11;}
 	.props-module ul li .buy-link{ padding: 10px 0 4px;}
 	.props-module ul li .slogan{ font-size: 14px; color: #a11; padding-top: 10px;}
 
@@ -97,16 +99,18 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.ticket-title h2{ height: 64px; background:url("../images/tag.png") no-repeat scroll center top; text-align: center; font-size: 16px; color: white; padding-top: 22px;}
 	.ticket-title h2 a{color: white;}
 	.ticket-content{ padding: 0 5px;}
-  .ticket-left{*display: inline; float: left; width: 371px; margin: 0 5px; font-size: 0; background-color: white; box-shadow: none;}
+  	.ticket-left{*display: inline; float: left; width: 371px; margin: 0 5px; font-size: 0; background-color: white; box-shadow: none;}
 	.main-img img{ width: 100%;}
-  .ticket-text{ padding: 16px 10px 23px;}
+  	.ticket-text{ padding: 16px 10px 23px;}
 	.ticket-text h4{font-size: 14px; color: #666; margin-bottom: 13px;}
 	.ticket-text p{font-size: 12px; color: #999; line-height: 18px; text-align: justify; height: 90px; overflow: hidden;}
 	.ticket-right{*display: inline; float: right; width: 609px;}
-  .ticket-right ul li{ float: left; width: 193px; display: inline; margin: 0 5px 10px; margin: 0 5px 9px\9; *margin: 0 5px 8px; background-color: white; font-size: 0;box-shadow: none;}
+  	.ticket-right ul li{ float: left; width: 193px; display: inline; margin: 0 5px 10px; margin: 0 5px 9px\9; *margin: 0 5px 8px; background-color: white; font-size: 0;box-shadow: none;}
   	.ticket-right ul li a img{ width: 100%;height: 120px;}
 	.ticket-right ul li p{ padding: 4px 6px;}
 	.ticket-right ul li p a{ display: inline-block; height: 22px; line-height: 22px; float: right; padding: 0 8px; color: white; font-size: 12px; background-color: #a51417; border-radius: 4px;}
+  	.ticket-right ul li p a:hover{ background-color: #da1111; text-decoration: none;}
+  	.ticket-right ul li p a:active{ background-color: #a11;}
 	.ticket-right ul li p span{ float: left; color: #a51417; font-size: 12px; display: inline-block; height: 22px; line-height: 22px;}
 
 	/* main-left-bar
@@ -330,10 +334,10 @@ a:hover{ text-decoration: underline; color: #a11;}
 
 	/* his-home
 	-------------------------------------------------------------------------------- */
-  .left-bar-module{ width: 254px; float: left;box-shadow: none;}
+  	.left-bar-module{ width: 254px; float: left;box-shadow: none;}
     .two-bar-module{ margin: 0; }
 	.two-bar-module .leftbar-module{ width: 300px;width: 302px\9; float: left;}
-  .two-bar-module .leftbar-inner{box-shadow: none;}
+  	.two-bar-module .leftbar-inner{box-shadow: none;}
 	.two-bar-module .rightbar-module{ width: 688px; float: right;}
 	.two-bar-module .head-portrait{ border-bottom: 1px solid #dddddd;}
 	.two-bar-module .head-portrait h2{ border-bottom: 0; padding: 10px 0 12px;}
@@ -341,12 +345,12 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.focus-box{ padding-bottom: 20px;}
   	.focus-box a{font-size: 14px; color: #a11; display: inline-block; padding: 6px 16px; border-radius: 2px;}
 	.focus-box a:hover{ text-decoration: underline;}
-  .focus-box img{margin:  0 5px 0 0; vertical-align: middle;; }
+  	.focus-box img{margin:  0 5px 0 0; vertical-align: middle;; }
 	.focus-box .icon-heart{ vertical-align: middle; margin-right: 8px;}
 	.his-num{ background-color: white; padding: 20px 0 4px;}
 	.his-num p{ text-align: center; font-size: 14px; padding-bottom: 16px;}
 	.his-num p em{ font-style: normal; color: #a11; font-size: 16px; padding: 0 2px;}
-  .leftbar-inner{width: 300px; border: 0\9; box-shadow: none;background-color: white; margin-bottom: 12px;}
+  	.leftbar-inner{width: 300px; border: 0\9; box-shadow: none;background-color: white; margin-bottom: 12px;}
 	.leftbar-inner .black-div{ position: relative;z-index: 2; height: 5px; background-color: white; width: 100%; font-size: 0; line-height: 0;}
 	.list-module .list-ul-border{ padding: 0 15px 5px; margin-top: -1px;}
 	.list-module .list-ul-border li{border-top: 1px dashed #ddd; padding: 10px 0; font-size: 0;}
@@ -369,8 +373,9 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.list-img-box .list-img-link{font-size: 0; line-height: 0; width: 78px; height: 78px; border: 1px solid #ddd; display: inline-block;}
 	.list-img-box .list-img-link img{ width: 100%; height: 100%;}
 	.his-chicang .table-warning-btn{ background-color: #a11; color: white; display: inline-block; padding: 4px 8px; border-radius: 4px;}
-	.his-chicang .table-warning-btn:hover{ color: white;}
-  .his-chicang .table-warning-btn2{ position:absolute; z-index:1; right:10px; top:8px; font-size:14px;height: 22px;padding: 0 10px;line-height: 22px;}
+	.his-chicang .table-warning-btn:hover{ color: white;background-color: #da1111; text-decoration: none;}
+  	.his-chicang .table-warning-btn:active{ background-color: #a11;}
+  	.his-chicang .table-warning-btn2{ position:absolute; z-index:1; right:10px; top:8px; font-size:14px;height: 22px;padding: 0 10px;line-height: 22px;}
 	.his-history table tr th{ height: 47px;}
 	.his-view .inset-text h2 a{ font-weight: bold;}
 	.his-view .list-box-last{ padding-bottom: 20px; margin-bottom: 0; border-bottom: 0;}
@@ -378,8 +383,8 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.text-time .eye-icon{ background: url('../images/eye.jpg') left center no-repeat; margin-left: 30px;}
 	.text-time .wifi-icon{ background: url('../images/wifi_03.jpg') left center no-repeat; padding-left: 16px;}
 	.history-content{ padding: 15px 0 0;}
-	.history-content ul li{ float: left; width: 199px; padding: 0 15px 15px; padding: 0 14px 15px\9; text-align: left;}
-	.history-content ul li a{ display: inline-block; width: 192px; height: 30px; line-height: 30px; border: 1px solid #ddd; border-radius: 4px; text-align: center; font-size: 12px; float: left;}
+	.history-content ul li{ float: left; width: 199px; padding: 0 10px 15px; padding: 0 14px 15px\9; text-align: left;}
+	.history-content ul li a{ display: inline-block; width: 202px; height: 30px; line-height: 30px; border: 1px solid #ddd; border-radius: 4px; text-align: center; font-size: 12px; float: left;}
 	.history-content ul li a em{ font-style: normal; padding-right: 20px;}
 	.history-content ul li a:hover{ background-color: #a11; border-color: #a11; color: white;}
 	.his-info{ padding: 15px 15px 0; padding: 15px 14px 0\9;}
@@ -389,8 +394,9 @@ a:hover{ text-decoration: underline; color: #a11;}
   	/*.his-info-left ul li span{color: #a11;}*/
   	/*.his-info-left ul li i{color: #016e0b; font-style: normal;}*/
 	.share-info{ padding-top: 28px;}
-  .share-info .daoju{ display: inline-block; font-size: 14px; color: white; height: 30px; line-height: 30px; text-align: center; background-color: #a11; width: 110px; float: left; }
-	.share-info .daoju:hover{ text-decoration: underline;}
+  	.share-info .daoju{ display: inline-block; font-size: 14px; color: white; height: 30px; line-height: 30px; text-align: center; background-color: #a11; width: 110px; float: left; }
+	.share-info .daoju:hover{ background-color: #da1111; text-decoration: none;}
+  	.share-info .daoju:active{ background-color: #a11;}
 	.share-module{ width: 110px; padding-top: 7px; float: right; font-size: 0; line-height: 16px; margin-right: 40px;}
 	.share-module span{ font-size: 14px; color: #999; float: left;}
 	.share-module .sina,
@@ -398,7 +404,7 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.share-module .sina{ margin-right: 6px;}
 	.share-module .weibo{ background-position: -22px center;}
 	.his-info-right{ float: right; width: 294px;}
-  .his-info-right p{font-size: 14px; margin-bottom: 6px; width: 294px;  overflow: hidden;}
+  	.his-info-right p{font-size: 14px; margin-bottom: 6px; width: 294px;  overflow: hidden;}
 	.info-img{ padding-top: 30px;}
 	.view-module .inset{ margin-right: 10px\9;}
 
@@ -412,7 +418,7 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.peitu{ display: inline-block; width: 80px; height: 80px; line-height: 0; border: 1px solid #fff; float: left;}
 	.peitu img{ width: 100%; height: 100%;}
   .img-right{ width: 228px;float: right; font-size: 12px;}
-  .img-right h4 a{ width: 208px;display: block;overflow: hidden; font-size: 14px; font-weight: bold; height: 16px; white-space: nowrap; text-overflow:ellipsis;}
+  .img-right h4 a{ width: 208px;display: block;overflow: hidden; font-size: 14px; font-weight: bold; white-space: nowrap; text-overflow:ellipsis;}
 	.img-right h4 a:hover{color: #a11;}
 	.img-right p{ line-height: 18px; color: #666;}
 	.img-right .text-box{height: 228px; height: 36px; overflow: hidden;}
@@ -424,7 +430,9 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.small-info a:hover{color: #a11;}
 	.small-info span em{ font-size: 14px; color: #a11; font-style: normal;}
 	.chakan{ display: inline-block; height: 16px; line-height: 16px; padding: 0 16px; border: 1px solid #a11; border-radius: 2px; color: #a11; margin-top: 5px;}
-	.chakan:hover{ color: white; background-color: #a11;}
+	.chakan:hover{ color: white; background-color: #a11; text-decoration: none;}
+	.chakan:active{ color: #a11; background-color: #fff; border-color: #a11;}
+	.chakan:focus{outline: none;}
 	.main-right-inner .black-div{ position: relative; z-index: 2; height: 1px; background-color: white; line-height: 0; font-size: 0;}
 	.main-right-inner .list-ul-border{ position: relative; z-index: 1;}
 	.list-module-text .dongtai-text{ width: 180px; height: 36px; overflow: hidden; text-align: justify;}
@@ -587,6 +595,8 @@ a:hover{ text-decoration: underline; color: #a11;}
 
 	.next-step{ padding: 20px 0 30px; margin: 0 15px 30px; border-bottom: 1px solid #ddd;}
 	.next-step .warning-btn{ display: inline-block;padding: 0 34px; height: 32px; line-height: 32px; background-color: #a11; font-size: 14px; color: #fff; text-align: center; margin-left: 30px;}
+	.next-step .warning-btn:hover{ background-color: #da1111; color: white; text-decoration: none;}
+  	.next-step .warning-btn:active{ background-color: #a11;}
 	.problem-list{ font-size: 12px; padding: 0 15px 0;}
 	.problem-list h2{ font-size: 14px; font-weight: bold; margin-bottom: 20px;}
 	.problem-list dl{ padding-bottom: 10px;}
@@ -599,6 +609,8 @@ a:hover{ text-decoration: underline; color: #a11;}
 	/* novice task
 	-------------------------------------------------------------------------------- */
 	.main-title h2 .button-right { display: inline-block; height: 30px; line-height: 30px; font-size: 14px; color: white; text-align: center; padding: 0 12px; margin-top: 4px; background-color: #a11; float: right; margin-right: 15px;}
+	.main-title h2 .button-right:hover{background-color: #da1111; text-decoration: none;}
+  	.main-title h2 .button-right:active{ background-color: #a11; outline: none;}
 	.list3-border0-container{ margin: 5px 0 0 15px;}
 	.list3-border0-container ul li{ width: 313px; width: 312px\9; _display:inline; float: left; margin: 15px 15px 15px 0;}
 	.list3-border0-container .list-peitu-box{ width: 80px; float: left; text-align: center; line-height: 0;}
@@ -611,7 +623,11 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.list3-border0-container .list-text h3{width: 220px;font-size: 14px; height: 20px; line-height: 20px; overflow: hidden;text-overflow:ellipsis; white-space: nowrap; margin-bottom: 4px;}
 	.list3-border0-container .list-text p{font-size: 12px; color: #666; line-height: 20px;}
 	.list3-border0-container .list-text .warning-btn{ font-size: 14px; text-align: center; display: inline-block; width: 96px; height: 30px; line-height: 30px; color: white; margin-top: 18px; background-color: #a11;}
+	.list3-border0-container .list-text .warning-btn:hover{background-color: #da1111; text-decoration: none;}
+	.list3-border0-container .list-text .warning-btn:active{ background-color: #a11;}
  	.list3-border0-container .list-text .grey-btn{ background-color: #999;}
+ 	.list3-border0-container .list-text .grey-btn:hover{background-color: #999; text-decoration: none;}
+	.list3-border0-container .list-text .grey-btn:active{ background-color: #999;}
 
 	/* Customer service
 	-------------------------------------------------------------------------------- */
