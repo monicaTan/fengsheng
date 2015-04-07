@@ -41,7 +41,9 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.bace-info-list ul li{display: inline-block; width: 64px; padding: 0 10px; font-size: 12px; text-align: center;*float: left;}
 	.bace-info-list ul .list-middle{border-left: 1px solid #e3e4e8;border-right: 1px solid #e3e4e8; padding: 0 9px\9;}
 	.bace-info-list ul li span{ display: inline-block;width: 100%; padding-bottom: 10px; font-size: 14px; color: #333;}
-  .bace-info-list ul li a{ display: inline-block;padding: 6px 8px; background-color: #a11; border-radius: 4px; color: #fff;}
+  	.bace-info-list ul li a{ display: inline-block;padding: 6px 8px; background-color: #a11; border-radius: 4px; color: #fff;}
+	.bace-info-list ul li a:hover{ background-color: #da1111; text-decoration: none;}
+  	.bace-info-list ul li a:active{ background-color: #a11;}
 
 	.bace-info-text{ padding: 0 20px 25px; background-color: white;}
 	.bace-info-text h3{ margin: 0 0 10px; font-size: 14px;}
@@ -49,7 +51,8 @@ a:hover{ text-decoration: underline; color: #a11;}
 
 	.button-link{ padding: 13px; *padding: 12px; font-size: 0; background-color: #f5f5f5;}
 	.button-link a{ display: inline-block; *float: left; background-color: #a51417; font-size: 12px; padding: 10px 25px; padding: 10px 22px\9; color: white; border-radius: 4px; margin: 0 8px;}
-	.button-link a:hover{ background-color: #b42a2d;}
+	.button-link a:hover{ background-color: #da1111; text-decoration: none;}
+	.button-link a:active{ background-color: #a11;}
 
 	/* right-bar-module
 	-------------------------------------------------------------------------------- */
