@@ -2,10 +2,10 @@
 /* header
 -------------------------------------------------------------------------------- */
 
-body{background-color: #f5f5f5; font-family: "Microsoft YaHei"; line-height: 1;}
+body{/* background-color: #f5f5f5;  */font-family: "Microsoft YaHei"; line-height: 1;}
 a:hover{ text-decoration: underline; color: #a11;}
 .main-content-inner,
-.footer-inner{width: 1000px; margin: 0 auto; background-color: #f5f5f5;}
+.footer-inner{width: 1000px; margin: 0 auto;/*  background-color: #f5f5f5; */}
 .main-content-inner{padding-bottom: 20px;}
 
 /* nav
@@ -482,6 +482,17 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.rulse-container dl dd{ color: #666; padding-left: 26px; position: relative; margin-bottom: 6px;}
 	.rulse-container .no-num dd{ padding-left: 0;}
 	.rulse-container dl dd i{ position: absolute; left: 0; _left: -26px; top: 4px; font-size: 12px; font-style: normal; display: inline-block; background-color: #fff; color: #666; min-width: 12px; _width: 12px; padding: 1px 2px; height: 14px; line-height: 14px; border: 1px solid #999; border-radius: 4px; text-align: center;}
+
+	.xieyi{ padding: 50px 30px; background-color: white; font-size: 14px; line-height: 24px; color: #999; box-shadow: 1px 1px 9px rgba(0, 0, 0, 0.28);}
+	.xieyi-container{ height: 400px; overflow-y:auto;}
+	.xieyi h1{ font-size: 18px; text-align: center; font-weight: bold; border-bottom: 1px solid #ddd; padding-bottom: 20px; margin-bottom: 10px;}
+	.xieyi p{margin-bottom: 10px;}
+	.xieyi p em{ font-style: normal; color: #888; font-weight: bold;}
+	.xieyi-close{ text-align: center; margin-top: 10px; padding-top: 20px; border-top: 1px solid #ddd;}
+	.xieyi-close a{ color: white; background-color: #a11; padding: 4px 30px;}
+	.xieyi-close a:hover{ color: white; background-color: #da1111;;text-decoration: none;}
+	.xieyi-close a:active{ color: white; background-color: #a11;text-decoration: none;}
+
 
 	/* award record
 	-------------------------------------------------------------------------------- */
