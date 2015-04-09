@@ -483,7 +483,7 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.rulse-container .no-num dd{ padding-left: 0;}
 	.rulse-container dl dd i{ position: absolute; left: 0; _left: -26px; top: 4px; font-size: 12px; font-style: normal; display: inline-block; background-color: #fff; color: #666; min-width: 12px; _width: 12px; padding: 1px 2px; height: 14px; line-height: 14px; border: 1px solid #999; border-radius: 4px; text-align: center;}
 
-	.xieyi{ padding: 50px 30px; background-color: white; font-size: 14px; line-height: 24px; color: #999; box-shadow: 1px 1px 9px rgba(0, 0, 0, 0.28);}
+	.xieyi{ padding: 50px 30px; margin-top:10px; background-color: white; font-size: 14px; line-height: 24px; color: #999; box-shadow: 1px 1px 9px rgba(0, 0, 0, 0.28);}
 	.xieyi-container{ height: 400px; overflow-y:auto;}
 	.xieyi h1{ font-size: 18px; text-align: center; font-weight: bold; border-bottom: 1px solid #ddd; padding-bottom: 20px; margin-bottom: 10px;}
 	.xieyi p{margin-bottom: 10px;}
