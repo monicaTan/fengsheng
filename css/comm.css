@@ -39,5 +39,16 @@ a img{ border:none;}
 .red{ color:#e92525;}
 
 .nav{ width:1000px; height:80px; background:#ca1612; margin:0 auto;}
-.main{ width:1000px; margin:0 auto;}
+.main:before,
+.main:after {
+    content: "";
+    display: table;
+}
+
+.main:after {
+    clear: both;
+}
+
+.main{ width:1000px; margin:0 auto; *zoom: 1;}
+
 .footer{ width:1000px; margin:0 auto;}
