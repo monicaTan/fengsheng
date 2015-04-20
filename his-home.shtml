@@ -33,6 +33,9 @@
 						<div class="focus-box">
 							<a href="javascript:void(0)"><i class="icon-heart"></i>已关注<!-- 点击关注 --></a>
 						</div>
+						<div class="focus-daoju">
+							<a class="daoju" href="javascript:void(0)">送道具</a>
+						</div>
 					</div>
 					<div class="his-num">
 						<p>他的积分<em>10000</em>分</p>
@@ -256,7 +259,7 @@
 								<li><em>盈亏比例：</em><i>-0.56%</i></li>
 							</ul>
 							<div class="share-info clearfix">
-								<a class="daoju" href="javascript:void(0)">送道具</a>
+								<!-- <a class="daoju" href="javascript:void(0)">送道具</a> -->
 								<div class="share-module clearfix">
 									<span>分享到：</span>
 									<a class="sina" href="javascript:void(0)"></a>

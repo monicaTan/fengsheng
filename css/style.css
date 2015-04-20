@@ -339,14 +339,21 @@ a:hover{ text-decoration: underline; color: #a11;}
 	.two-bar-module .leftbar-module{ width: 300px;width: 302px\9; float: left;}
   	.two-bar-module .leftbar-inner{box-shadow: none;}
 	.two-bar-module .rightbar-module{ width: 688px; float: right;}
-	.two-bar-module .head-portrait{ border-bottom: 1px solid #dddddd;}
+	.two-bar-module .head-portrait{ border-bottom: 1px solid #dddddd; position: relative;}
 	.two-bar-module .head-portrait h2{ border-bottom: 0; padding: 10px 0 12px;}
 	.icon-heart{ display: inline-block; width: 16px; height: 14px;background: url('../images/heart_03.png') left center no-repeat;}
-	.focus-box{ padding-bottom: 20px;}
+	.focus-box{ padding-bottom: 20px; position: absolute; top: 0; left: 0;}
   	.focus-box a{font-size: 14px; color: #a11; display: inline-block; padding: 6px 16px; border-radius: 2px;}
 	.focus-box a:hover{ text-decoration: underline;}
-  	.focus-box img{margin:  0 5px 0 0; vertical-align: middle;; }
+  	.focus-box img{margin:  0 5px 0 0; vertical-align: middle;}
 	.focus-box .icon-heart{ vertical-align: middle; margin-right: 8px;}
+	.focus-daoju{ font-size: 14px; padding-bottom: 20px;}
+	.focus-daoju a {background-color: #a11; color: white; display: inline-block; font-size: 14px; height: 30px; line-height: 30px; text-align: center; width: 110px; border-radius: 3px;
+  background-image: -moz-linear-gradient( 90deg, rgb(177,13,8) 0%, rgb(245,21,21) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(177,13,8) 0%, rgb(245,21,21) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(177,13,8) 0%, rgb(245,21,21) 100%);}
+	.focus-daoju a:hover{ text-decoration: none; background-color: #da1111;}
+	.focus-daoju a:active{ text-decoration: none; background-color: #a11;}
 	.his-num{ background-color: white; padding: 20px 0 4px;}
 	.his-num p{ text-align: center; font-size: 14px; padding-bottom: 16px;}
 	.his-num p em{ font-style: normal; color: #a11; font-size: 16px; padding: 0 2px;}
@@ -397,7 +404,7 @@ a:hover{ text-decoration: underline; color: #a11;}
   	.share-info .daoju{ display: inline-block; font-size: 14px; color: white; height: 30px; line-height: 30px; text-align: center; background-color: #a11; width: 110px; float: left; }
 	.share-info .daoju:hover{ background-color: #da1111; text-decoration: none;}
   	.share-info .daoju:active{ background-color: #a11;}
-	.share-module{ width: 110px; padding-top: 7px; float: right; font-size: 0; line-height: 16px; margin-right: 40px;}
+	.share-module{ width: 110px; padding-top: 7px; float: left; font-size: 0; line-height: 16px; margin-right: 40px;}
 	.share-module span{ font-size: 14px; color: #999; float: left;}
 	.share-module .sina,
 	.share-module .weibo{ float: left; display: inline-block; width: 16px; height: 16px; line-height: 16px; background: url('../images/share.jpg') left center no-repeat;}
