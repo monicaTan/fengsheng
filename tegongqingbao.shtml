@@ -91,6 +91,97 @@
 							分页
 						</div>
 					</div>
+					<div class="table-module-two">
+						<div class="tab-container">
+							<ul class="tab-title-hover clearfix">
+								<li class="active">
+									<a href="javascript:void(0)">最新策略</a>
+								</li>
+								<li>
+									<a href="javascript:v oid(0)">热门策略</a>
+								</li>
+							</ul>
+							<div class="tab-content-box">
+								<!-- 最新策略 -->
+								<div class="tab-content tab-active">
+									<div class="celve-container">
+										<ul class="clearfix">
+											<li>
+												<div class="clearfix">
+													<a href="javascript:void(0)" class="peitu">
+														<img alt="80x80" src="images/face.jpg">
+													</a>
+													<div class="img-right">
+														<h4>
+															<a href="javascript:void(0)">12月投资锦囊锦投资锦囊锦...</a>
+														</h4>
+														<p class="small-info clearfix">
+															<span>已卖出<em>100000</em>金币</span>
+															<a href="javascript:void(0)">这是人名这是人名</a>
+														</p>
+														<p class="text-box">
+															11月锦囊最高涨幅达到50%，不要错过12月投资锦囊摆满摆满摆满白吗不能满... 
+														</p>
+														<a href="javascript:void(0)" class="chakan">查看</a>
+													</div>
+												</div>
+											</li>
+											<li>
+												<div class="clearfix">
+													<a href="javascript:void(0)" class="peitu">
+														<img alt="80x80" src="images/face.jpg">
+													</a>
+													<div class="img-right">
+														<h4>
+															<a href="javascript:void(0)">12月投资锦囊锦投资锦囊锦...</a>
+														</h4>
+														<p class="small-info clearfix">
+															<span>已卖出<em>100000</em>金币</span>
+															<a href="javascript:void(0)">这是人名这是人名</a>
+														</p>
+														<p class="text-box">
+															11月锦囊最高涨幅达到50%，不要错过12月投资锦囊摆满摆满摆满白吗不能满... 
+														</p>
+														<a href="javascript:void(0)" class="chakan">查看</a>
+													</div>
+												</div>
+											</li>
+										</ul>
+									</div>
+								</div>
+
+								<!-- 热门策略 -->
+								<div class="tab-content">
+									<div class="celve-container">
+										<ul class="clearfix">
+											<li>
+												<div class="clearfix">
+													<a href="javascript:void(0)" class="peitu">
+														<img alt="80x80" src="images/face.jpg">
+													</a>
+													<div class="img-right">
+														<h4>
+															<a href="javascript:void(0)">122月投资锦囊锦投资锦囊锦...</a>
+														</h4>
+														<p class="small-info clearfix">
+															<span>已卖出<em>100000</em>金币</span>
+															<a href="javascript:void(0)">这是人名这是人名</a>
+														</p>
+														<p class="text-box">
+															11月锦囊最高涨幅达到50%，不要错过12月投资锦囊摆满摆满摆满白吗不能满... 
+														</p>
+														<a href="javascript:void(0)" class="chakan">查看</a>
+													</div>
+												</div>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+
 				</div>
 			</div>
 			<div class="main-right-bar">
