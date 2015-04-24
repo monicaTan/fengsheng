@@ -1,0 +1,93 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--#include file="inc/common.shtml"--> 
+<script type="text/javascript" src="js/scorll-list.js"></script>
+<title>参亿元实盘赛实盘赛</title>
+<!--#include file="inc/ie.shtml"-->
+</head>
+
+<body> 
+
+<!-- main -->
+<div class="main">
+	<div class="main-content-inner">
+		<div class="shipan-banner">
+			<img src="images/shipan-banner.jpg" alt="训练实盘赛">
+		</div>
+
+		<div class="zijin-guize-box clearfix">
+			<h2>申请操盘资金</h2>
+			<div class="shipan-baoming">
+				<table class="table-list" cellspacing="0" cellpadding="0">
+					<tr>
+						<td>清风18**<br/>买入厦门港务<span>57手</span></td>
+						<td>清风18**<br/>斩获<span>24%</span>，赢利<span>2442元</span></td>
+						<td>清风18**<br/>申请了<span>2万元</span>实盘资金</td>
+						<td>清风18**<br/>买入华升股份<span>666手</span></td>
+						<td><a href="javascript:void(0)">规则说明</a></td>
+					</tr>
+				</table>
+				<div class="two-bar clearfix">
+					<div class="bar-left">
+						<p>我的人气值<span>15000</span><br/>
+						可用人气值<span>15000</span><br/>
+						操盘资金<span>15000</span></p>
+					</div>
+					<div class="bar-right">
+						<p>
+							<span>如何增加人气值？</span><br/>
+							高手可以通过
+							<a href="javascript:void(0)">发布研究</a>，<a href="javascript:void(0)">发布策略</a>、<a href="javascript:void(0)">发表图文直播</a>和<a href="javascript:void(0)">视频直播</a><br/>来跟粉丝互动，粉丝送给高手的支持道具和购买策略的道具构<br/>
+							成高手的人气值。
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div  class="xieyi-check clearfix">
+			<p>
+				<input type="checkbox">我已阅读并同意
+				<a href="javascript:void(0)">《亿元实盘协议》</a>
+			</p>
+			<a class="btn-warning" href="javascript:void(0)">我要操盘</a>
+			<p class="contact-num">如您不清楚规则，或有其他疑问，请联系客服：010-84536868</p>
+		</div>
+
+		<div class="xuzhi">
+			<dl>
+				<dt>1、一句话说配资</dt>
+				<dd>股票配资就是我借钱给您炒股，您出1万，我出6万，您就有7万炒股资金了！！！</dd>
+			</dl>
+			<dl>
+				<dt>2、您的投资本金</dt>
+				<dd>就是您自己投入的炒股本金，最低2000元最高200万；</dd>
+			</dl>
+			<dl>
+				<dt>3、借款费用</dt>
+				<dd>就是PPmoney借给您炒股资金的利息，按月收入。除此之外PPmoney不收取任何其他费用；</dd>
+			</dl>
+			<dl>
+				<dt>4、资金使用期限</dt>
+				<dd>以自然月为单位计算，有1-6个月供您选择，到期可申请延期；</dd>
+			</dl>
+			<dl>
+				<dt>5、预警线</dt>
+				<dd>当您的账户总资产位于警戒线以下时，只能平仓不能建仓，我们将有权把您的股票减仓到本金余额的6倍；</dd>
+			</dl>
+			<dl>
+				<dt>6、平仓线</dt>
+				<dd>您的账户总资产位于平仓线以下时，我们有权将您的股票进行平仓，为避免平仓发生，请时刻关注本金是否充足。</dd>
+			</dl>
+			<dl>
+				<dt>7、更多细则请阅读<a href="javascript:void(0)">《借款协议》样本</a>或来电咨询。</dt>
+			</dl>
+		</div>
+	</div>
+</div>
+
+
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>

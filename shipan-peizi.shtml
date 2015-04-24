@@ -1,0 +1,157 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--#include file="inc/common.shtml"--> 
+<script type="text/javascript" src="js/scorll-list.js"></script>
+<title>参赛实盘配资赛</title>
+<!--#include file="inc/ie.shtml"-->
+</head>
+
+<body> 
+
+<!-- main -->
+<div class="main">
+	<div class="main-content-inner">
+		<div class="shipan-banner">
+			<img src="images/shipan-banner.jpg" alt="训练实盘赛">
+		</div>
+
+		<div class="zijin-guize-box clearfix">
+			<div class="shenqing-zijin">
+				<h2>申请操盘资金</h2>
+				<div class="shenqing-zijin-inner">
+					<ul class="clearfix">
+						<li class="select-li">
+							<a href="javascript:void(0)">1万元</a>
+						</li>
+						<li>
+							<a href="javascript:void(0)">2万元</a>
+						</li>
+						<li>
+							<a href="javascript:void(0)">3万元</a>
+						</li>
+						<li>
+							<a href="javascript:void(0)">4万元</a>
+						</li>
+						<li>
+							<a href="javascript:void(0)">5万元</a>
+						</li>
+						<li>
+							<a href="javascript:void(0)">6万元</a>
+						</li>
+						<li>
+							<a href="javascript:void(0)">7万元</a>
+						</li>
+						<li>
+							<a href="javascript:void(0)">8万元</a>
+						</li>
+						<li>
+							<a href="javascript:void(0)">9万元</a>
+						</li>
+						<li>
+							<a href="javascript:void(0)">10万元</a>
+						</li>
+						<li>
+							<a href="javascript:void(0)">11万元</a>
+						</li>
+						<li>
+							<a href="javascript:void(0)">12万元</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="zijin-guize">
+				<h2>申请操盘资金</h2>
+				<div class="guize-table">
+					<table cellspacing="0" cellpadding="0">
+						<tr>
+							<th>仓位控制</th>
+							<td>仓位限制，单股不能超过账户总资产的50%</td>
+						</tr>
+						<tr>
+							<th>比赛保证金</th>
+							<td class="radio-td">
+								<span>
+									<input type="radio" name="optionsRadios" checked>2000元
+								</span>
+								<span>
+									<input type="radio" name="optionsRadios">2500元
+								</span>
+								<span>
+									<input type="radio" name="optionsRadios">3334元
+								</span>
+								<span>
+									<input type="radio" name="optionsRadios">5000元
+								</span>
+							</td>
+						</tr>
+						<tr>
+							<th>账户风险预警线</th>
+							<td>5000元</td>
+						</tr>
+						<tr>
+							<th>账户风险平仓线</th>
+							<td>5000元</td>
+						</tr>
+						<tr>
+							<th>参赛周期</th>
+							<td>您还可以参赛134天，但您可以随时退赛。</td>
+						</tr>
+						<tr>
+							<th>账户管理费</th>
+							<td><em>8元/天</em>   随时退赛，随时结算。</td>
+						</tr>
+						<tr>
+							<th>参赛日期</th>
+							<td>2015年2月1日</td>
+						</tr>
+					</table>
+					<p class="notice-text">如您不清楚规则，或有其他疑问，请联系客服：<em>010-84536868</em></p>
+				</div>
+			</div>
+		</div>
+		<div  class="xieyi-check clearfix">
+			<p>
+				<input type="checkbox">我已阅读并同意
+				<a href="javascript:void(0)">《实盘配资协议》</a>
+			</p>
+			<a class="btn-warning" href="javascript:void(0)">我要操盘</a>
+		</div>
+
+		<div class="xuzhi">
+			<dl>
+				<dt>1、一句话说配资</dt>
+				<dd>股票配资就是我借钱给您炒股，您出1万，我出6万，您就有7万炒股资金了！！！</dd>
+			</dl>
+			<dl>
+				<dt>2、您的投资本金</dt>
+				<dd>就是您自己投入的炒股本金，最低2000元最高200万；</dd>
+			</dl>
+			<dl>
+				<dt>3、借款费用</dt>
+				<dd>就是PPmoney借给您炒股资金的利息，按月收入。除此之外PPmoney不收取任何其他费用；</dd>
+			</dl>
+			<dl>
+				<dt>4、资金使用期限</dt>
+				<dd>以自然月为单位计算，有1-6个月供您选择，到期可申请延期；</dd>
+			</dl>
+			<dl>
+				<dt>5、预警线</dt>
+				<dd>当您的账户总资产位于警戒线以下时，只能平仓不能建仓，我们将有权把您的股票减仓到本金余额的6倍；</dd>
+			</dl>
+			<dl>
+				<dt>6、平仓线</dt>
+				<dd>您的账户总资产位于平仓线以下时，我们有权将您的股票进行平仓，为避免平仓发生，请时刻关注本金是否充足。</dd>
+			</dl>
+			<dl>
+				<dt>7、更多细则请阅读<a href="javascript:void(0)">《借款协议》样本</a>或来电咨询。</dt>
+			</dl>
+		</div>
+	</div>
+</div>
+
+
+<!--#include file="inc/footer.shtml"-->
+</body>
+</html>
